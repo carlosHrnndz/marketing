@@ -1,0 +1,126 @@
+{
+  "unidad": 20,
+  "titulo": "Autoevaluación Unidad 20 - Técnicas Cualitativas de Investigación de Mercados",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Las técnicas de investigación de mercados cualitativas:",
+      "opciones": {
+        "a": "Realizan la captación comprensiva de los consumidores y la intersubjetividad de los fenómenos sociales",
+        "b": "Se preocupan más por el cómo",
+        "c": "Se centran en los procedimientos a través de los cuales suceden las cosas",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Las técnicas de investigación cualitativa se fundamentan en un enfoque comprensivo y fenomenológico que busca captar la dimensión subjetiva e intersubjetiva de los consumidores en su contexto social (a). Se interesan principalmente por el «cómo» y el «por qué» ocurren los comportamientos de consumo (b), analizando en profundidad los procesos, significados y motivaciones a través de los cuales las personas toman decisiones comerciales (c), más que por cuantificar variables numéricas.\n\n**Ejemplo práctico:** Una marca de automóviles de alta gama realiza dinámicas cualitativas para comprender qué significa emocionalmente el concepto de «éxito y distinción social» para los conductores de vehículos de lujo y cómo influye la mirada de su entorno en la elección de marca.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La etapa de planteamiento de un estudio cualitativo consiste en:",
+      "opciones": {
+        "a": "Elegir la técnica que se va a utilizar",
+        "b": "Plantear los problemas de los que se quiere obtener información",
+        "c": "Realizar el muestreo",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En el diseño y ejecución de un estudio cualitativo, la etapa inicial de planteamiento consiste en la formulación, concreción y delimitación de los problemas y objetivos sobre los cuales la empresa requiere obtener información. Esta etapa establece los interrogantes fundamentales que guiarán la investigación antes de proceder a la selección de las técnicas específicas o a la definición del plan de muestreo.\n\n**Ejemplo práctico:** La dirección de marketing de una empresa de alimentos detecta una caída de ventas en un desayuno tradicional y plantea en el briefing inicial el problema exacto a investigar: qué cambios en las rutinas matutinas de los jóvenes han provocado el abandono del producto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Una de las finalidades de la investigación cualitativa es la investigación exploratoria, que consiste en:",
+      "opciones": {
+        "a": "Hacer un análisis de las actitudes o motivaciones que han ocasionado un determinado problema",
+        "b": "Obtener una familiarización con un tema del que se tiene un conocimiento general",
+        "c": "Valorar cursos alternativos de acción o los test de producto",
+        "d": "Generar ideas"
+      },
+      "explicacion": "La investigación exploratoria es la tipología de investigación que se aplica cuando se busca un primer acercamiento o familiarización con un fenómeno, problema o mercado sobre el cual se tiene un conocimiento escaso o muy general. Su propósito es clarificar conceptos, descubrir factores relevantes y formular hipótesis preliminares que orienten posteriores investigaciones más concluyentes.\n\n**Ejemplo práctico:** Una multinacional de bebidas que analiza la posibilidad de entrar en el mercado de bebidas relajantes con extractos botánicos realiza sesiones exploratorias con consumidores para familiarizarse con las percepciones, momentos de consumo potenciales y temores hacia este tipo de productos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Una entrevista en profundidad es:",
+      "opciones": {
+        "a": "Una interacción dinámica de comunicación entre dos personas: el entrevistador y el entrevistado",
+        "b": "Un tipo de investigación cualitativa",
+        "c": "Una interacción dinámica de comunicación entre varias personas",
+        "d": "Las opciones a y b son correctas"
+      },
+      "explicacion": "La entrevista en profundidad es una técnica de investigación cualitativa directa e individual caracterizada por ser una interacción comunicativa dinámica, abierta y profunda entre dos personas: el entrevistador profesional y el entrevistado o informante (opción a y b). Su objetivo es indagar en las motivaciones íntimas, creencias, frenos y vivencias personales del participante en un ambiente de confianza confidencial.\n\n**Ejemplo práctico:** Una entidad bancaria contrata a un sociólogo para realizar entrevistas en profundidad individuales de una hora con pequeños empresarios con el fin de conocer sus temores y expectativas psicológicas a la hora de solicitar créditos tras una crisis económica.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las dinámicas de grupo o grupos de discusión:",
+      "opciones": {
+        "a": "Sus integrantes suelen ser entre 20 y 25 personas",
+        "b": "Permiten obtener múltiples opiniones y procesos emocionales dentro de un contexto social",
+        "c": "Una de sus ventajas es que tienen un mayor control sobre el entrevistado",
+        "d": "Se desarrollan de forma espontánea y grupal, sin que nadie actúe como moderador"
+      },
+      "explicacion": "Los grupos de discusión o dinámicas de grupo (focus groups) son una técnica cualitativa que reúne a un número reducido de participantes (habitualmente entre 6 y 10 personas dirigidas por un moderador experto) para debatir sobre un tema comercial. Su principal ventaja reside en aprovechar la interacción social y dialéctica del grupo para aflorar una amplia variedad de opiniones, percepciones encontradas y procesos emocionales en un contexto social compartido.\n\n**Ejemplo práctico:** Un fabricante de productos de limpieza reúne a 8 amas y amos de casa en una sala de observación para debatir sobre un nuevo formato de detergente en cápsulas hidrosolubles, observando cómo la conversación grupal hace surgir dudas sobre la seguridad infantil y elogios sobre la comodidad de uso.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En las dinámicas de grupo hay una serie de roles grupales. El rol de búho consiste en:",
+      "opciones": {
+        "a": "Actitud narcisista, se creen superiores y no se integran bien en el grupo",
+        "b": "Actitud tímida e insegura, pocas aportaciones pero originales",
+        "c": "Actitud destructiva, intervenciones con ataques directos a otros miembros",
+        "d": "Actitud racional, sus opiniones se basan en información contrastada"
+      },
+      "explicacion": "En la observación psicosociológica de las dinámicas de grupo, el rol de «búho» corresponde al participante que muestra una actitud calmada, prudente, observadora y estrictamente racional. A diferencia de perfiles impulsivos o conflictivos, el búho interviene aportando comentarios mesurados y fundamentados en información contrastada, lógica y análisis objetivo de los hechos discutidos.\n\n**Ejemplo práctico:** Durante una dinámica de grupo sobre plataformas de contenidos en streaming, el participante con rol de búho interviene serenamente para comparar las tarifas, calidades de resolución técnica y condiciones de cancelación de cada servicio basándose en los términos contractuales reales de cada plataforma.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Las técnicas proyectivas:",
+      "opciones": {
+        "a": "Presentan a los individuos como son en su parte más superficial",
+        "b": "Estimulan niveles profundos de respuesta y ayudan a superar las tendencias a reaccionar según los patrones sociales",
+        "c": "Son técnicas directas que no tienen nada que ver con la psicología",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "Procedentes del ámbito de la psicología clínica, las técnicas proyectivas en investigación de mercados presentan estímulos ambiguos y poco estructurados (como dibujos, frases incompletas o tareas de personificación) para que los participantes proyecten en ellos sus motivaciones, deseos, actitudes y frenos inconscientes. Permiten acceder a niveles profundos de respuesta y neutralizan la tendencia del individuo a racionalizar o contestar según pautas de deseabilidad social.\n\n**Ejemplo práctico:** Una marca de tabaco o comida rápida utiliza una técnica proyectiva pidiendo a los participantes que describan al consumidor típico de la marca como un personaje ficticio o animal, permitiendo aflorar juicios sobre culpabilidad o placer prohibido que no admitirían en una pregunta directa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La tormenta de ideas:",
+      "opciones": {
+        "a": "Es una reunión de grupo cuyo fin es crear nuevas ideas",
+        "b": "Sólo participan expertos que conocen el tema que se va a tratar en la reunión",
+        "c": "Participan todo tipo de personas, conozcan o no el tema que se va a tratar",
+        "d": "las respuestas a y b son correctas"
+      },
+      "explicacion": "La tormenta de ideas (brainstorming), desarrollada originariamente por Alex Osborn y ampliamente utilizada en marketing cualitativo, es una reunión de grupo orientada a estimular la producción desinhibida y creativa de nuevas ideas sobre un reto o problema comercial (a). En su formulación técnica en el ámbito empresarial y de I+D, se convoca a expertos o profesionales familiarizados con la materia tratada para asegurar aportaciones enfocadas y de aplicabilidad viable (b).\n\n**Ejemplo práctico:** Una agencia de publicidad organiza una sesión de tormenta de ideas con creativos publicitarios, redactores y especialistas en marketing digital para concebir propuestas de lemas y acciones virales para el lanzamiento de una nueva marca de ropa deportiva.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Las técnicas de observación:",
+      "opciones": {
+        "a": "Son un método de conocimiento que se encuentra presente en cualquier forma de investigación",
+        "b": "Consisten en recopilar datos primarios a partir de la observación y análisis de personas, acciones y situaciones pertinentes.",
+        "c": "Permiten detectar información que los consumidores posiblemente no puedan o no quieran suministrar",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Las técnicas de observación son un método fundamental de investigación presente de manera transversal en múltiples disciplinas científicas (a). Consisten en el registro sistemático y directo del comportamiento de personas, acciones y situaciones comerciales pertinentes sin mediar interrogación (b). Tienen la enorme ventaja de captar conductas reales y espontáneas que los consumidores muchas veces no recuerdan, no saben verbalizar o prefieren no manifestar en entrevistas por condicionantes sociales (c).\n\n**Ejemplo práctico:** Investigadores de mercado observan discretamente en un supermercado el recorrido de los clientes por los pasillos de productos ecológicos, registrando qué estantes miran primero y cuánto tiempo dedican a leer las etiquetas antes de decidir la compra.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los mercados de prueba:",
+      "opciones": {
+        "a": "Consisten en establecer un mercado controlado en el que todos los factores permanecen constantes, y uno o más mercados de prueba en los que se cambia un único factor",
+        "b": "Tienen el inconveniente de que no tienen mucho realismo",
+        "c": "Las respuestas a y b son ciertas",
+        "d": "Las respuestas a y b son falsas"
+      },
+      "explicacion": "El mercado de prueba (o test de mercado) es un método de experimentación comercial que consiste en seleccionar una o varias zonas geográficas representativas (mercados de prueba) en las que se introduce una modificación controlada en una variable del marketing-mix (por ejemplo, el precio o el envase), comparándola con zonas donde todos los factores se mantienen constantes (mercados de control). Su rasgo más distintivo es su elevado realismo, al evaluar el comportamiento de compra real en el mercado, por lo que la afirmación de que carece de realismo es falsa.\n\n**Ejemplo práctico:** Una multinacional de alimentación comercializa una nueva salsa barbacoa exclusivamente en las ciudades de Sevilla y Zaragoza durante dos meses para medir la rotación real del producto en los lineales y el nivel de recompra antes de acometer una inversión millonaria a escala nacional.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

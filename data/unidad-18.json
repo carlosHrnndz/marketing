@@ -1,0 +1,126 @@
+{
+  "unidad": 18,
+  "titulo": "Autoevaluación Unidad 18 - Segmentación del Mercado y Posicionamiento Estratégico",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Segmentar es:",
+      "opciones": {
+        "a": "Considerar el mercado como un grupo homogéneo",
+        "b": "Dividir el mercado en grupos homogéneos",
+        "c": "Llevar a cabo una estrategia de Marketing distinta en cada grupo homogéneo",
+        "d": "La b y la c son correctas"
+      },
+      "explicacion": "La segmentación de mercados es un proceso estratégico que consiste en dividir un mercado total heterogéneo en grupos o segmentos homogéneos de consumidores que comparten necesidades, características o comportamientos afines (opción b). El propósito fundamental de esta división es permitir a la empresa diseñar e implementar una estrategia de marketing-mix específica y adaptada a los requerimientos de cada uno de esos grupos objetivos (opción c).\n\n**Ejemplo práctico:** El grupo textil Inditex divide el mercado de la moda en segmentos homogéneos y aplica estrategias distintas: Massimo Dutti atiende a un segmento formal y elegante con mayor poder adquisitivo, mientras que Bershka y Stradivarius se orientan a un segmento joven centrado en tendencias de moda rápida y precios asequibles.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes afirmaciones no es un requisito para que un segmento sea aceptable desde el punto de vista de marketing:",
+      "opciones": {
+        "a": "Medible",
+        "b": "Accesible",
+        "c": "Grande",
+        "d": "Diferenciable"
+      },
+      "explicacion": "Para que un segmento de mercado sea operativo y viable en marketing estratégico, debe satisfacer criterios formales como ser medible (en tamaño y poder de compra), accesible (alcanzable con acciones de distribución y comunicación), diferenciable (con respuestas heterogéneas frente a otros segmentos) y rentable o sustancial. No es obligatorio que sea «grande» en términos cuantitativos, ya que existen micronichos de reducidas dimensiones que resultan sumamente rentables debido a sus elevados márgenes unitarios.\n\n**Ejemplo práctico:** Marcas como Rolls-Royce o Ferrari se dirigen a un segmento muy reducido en volumen poblacional (clientes de rentas ultraltas), demostrando que un segmento no necesita ser grande para ser comercialmente exitoso y rentable.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Los criterios de segmentación más frecuentemente utilizados son:",
+      "opciones": {
+        "a": "Características del consumidor",
+        "b": "Características de la empresa",
+        "c": "Características de la competencia",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En la disciplina del marketing, la segmentación tiene por objeto clasificar la demanda de mercado, por lo que los criterios más comúnmente utilizados y tradicionales son aquellos que analizan las características de los propios consumidores (variables demográficas, geográficas, socioeconómicas, psicográficas y conductuales). Los rasgos de la empresa o de la competencia sirven para el análisis competitivo y de capacidades, no como criterios de división del mercado de compradores.\n\n**Ejemplo práctico:** Un fabricante de productos de higiene personal segmenta a los consumidores atendiendo a características personales como edad, tipo de piel y hábitos diarios, comercializando líneas específicas de cuidado facial para adolescentes y cremas regeneradoras para personas de edad avanzada.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La segmentación psicográfica es aquella que:",
+      "opciones": {
+        "a": "Los compradores se dividen en grupos según sus conocimientos, actitud, uso o respuesta a un producto",
+        "b": "Consiste en dividir el mercado en grupos con base en variables demográficas como la edad, el sexo, el tamaño de la familia, ingresos...",
+        "c": "Los compradores se dividen en diferentes grupos con base en la clase social, el estilo de vida o las características de la personalidad",
+        "d": "La b y la c son correctas"
+      },
+      "explicacion": "La segmentación psicográfica profundiza en los aspectos psicológicos e internos del consumidor, agrupando a los compradores con base en su estilo de vida (actividades, intereses y opiniones), su personalidad o su pertenencia a determinadas clases sociales. La opción a corresponde a la segmentación conductual (basada en el uso o respuesta al producto) y la opción b corresponde a la segmentación demográfica y socioeconómica objetiva.\n\n**Ejemplo práctico:** Marcas como Red Bull o Patagonia segmentan a sus consumidores según su estilo de vida psicográfico: deportistas aventureros con espíritu de superación extrema o personas fuertemente comprometidas con la sostenibilidad y la vida al aire libre.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el posicionamiento no es correcta:",
+      "opciones": {
+        "a": "El posicionamiento es el lugar que ocupa un producto con relación a otros en la mente del consumidor",
+        "b": "El posicionamiento de una marca es el lugar que ocupa en la mente de los consumidores, en función de uno o pocos atributos y con relación a los competidores",
+        "c": "El posicionamiento es lo que la empresa piensa de sus propios productos",
+        "d": "El posicionamiento conduce a tener presentes los emplazamientos ocupados por los competidores"
+      },
+      "explicacion": "El posicionamiento estratégico (concepto formalizado por Ries y Trout) se refiere al lugar que ocupa un producto o marca en la mente de los consumidores en relación con las ofertas competidoras. Es un concepto perceptivo y subjetivo determinado por el público, no una autoevaluación interna de la organización. Por tanto, afirmar que «el posicionamiento es lo que la empresa piensa de sus propios productos» es una concepción errónea y falsa.\n\n**Ejemplo práctico:** Una compañía tecnológica puede considerar internamente que sus ordenadores son los más innovadores del mercado; sin embargo, si en la mente de los usuarios están posicionados como dispositivos caros y difíciles de manejar, su posicionamiento real en el mercado es esa percepción de complejidad.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones NO es un elemento que se debe tener presente en el posicionamiento:",
+      "opciones": {
+        "a": "La mente del consumidor",
+        "b": "Uno o varios atributos fundamentales del producto o servicio",
+        "c": "La marca",
+        "d": "Todos los anteriores se deben tener en cuenta en el posicionamiento"
+      },
+      "explicacion": "La formulación de un posicionamiento de mercado requiere conjugar de forma inseparable tres elementos: la mente del consumidor (el espacio perceptivo donde se ubica la percepción), los atributos fundamentales del producto o servicio (los argumentos diferenciadores de valor y funcionalidad) y la marca (el identificador que aglutina la promesa de valor). Todos ellos deben tenerse en cuenta de manera coordinada (opción d).\n\n**Ejemplo práctico:** Volvo articula su posicionamiento vinculando en la mente del consumidor (a) el atributo de máxima seguridad pasiva y activa (b) bajo la identidad y reputación de su marca (c).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Ventajas de la elección de un buen posicionamiento:",
+      "opciones": {
+        "a": "Parecerse a los otros competidores en el mercado",
+        "b": "Estimular la innovación.",
+        "c": "Ayudar en la gestión de una cartera de marcas.",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "Elegir e implantar un posicionamiento estratégico claro genera importantes ventajas competitivas: estimula la innovación orientada al asegurar que los nuevos desarrollos refuercen los atributos diferenciales de la empresa (b) y facilita la gestión de una cartera multimarca, evitando que los distintos productos se solapen o canibalicen entre sí (c). Por el contrario, parecerse a los competidores (opción a) destruye la diferenciación y perjudica el valor de marca.\n\n**Ejemplo práctico:** El Grupo Volkswagen asigna posicionamientos diferenciales dentro de su cartera: Škoda se enfoca en practicidad e ingenio funcional («Simply Clever»), SEAT en espíritu dinámico y urbano, y Audi en sofisticación tecnológica («A la vanguardia de la técnica»), estimulando innovaciones diferenciadas para cada enseña.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El primer paso para fijar una estrategia de posicionamiento es analizar a los competidores, que consiste en:",
+      "opciones": {
+        "a": "Estudiar cómo se perciben y evalúan los diferentes competidores por parte de los consumidores",
+        "b": "Identificar quiénes son nuestros competidores",
+        "c": "Elegir qué posición queremos ocupar",
+        "d": "Las opciones a y b son correctas"
+      },
+      "explicacion": "El punto de partida metodológico para fijar una estrategia de posicionamiento competitiva es el análisis de los competidores, el cual comienza indispensablemente por identificar quiénes son nuestros competidores reales en el mercado (tanto directos como indirectos que cubren la misma necesidad). Solo una vez delimitado el mapa de competidores es posible analizar cómo los perciben los consumidores o determinar la posición que la empresa desea ocupar.\n\n**Ejemplo práctico:** Una cadena de cafeterías especializadas que planea abrir locales en una ciudad debe comenzar por identificar formalmente a todos sus competidores en la zona (desde cafeterías tradicionales hasta cadenas multinacionales como Starbucks y opciones de café para llevar en tiendas de conveniencia).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El posicionamiento en función de la competencia consiste en:",
+      "opciones": {
+        "a": "Posicionar en función de un atributo del producto o servicio",
+        "b": "Hacer énfasis sobre las ventajas, precio, calidad, servicio, etc. que posee el producto en comparación con la competencia",
+        "c": "Posicionar una marca como la mejor para un uso concreto",
+        "d": "Ninguna de las anteriores opciones es correcta"
+      },
+      "explicacion": "El posicionamiento en función de la competencia (o posicionamiento comparativo) es aquel en el que la marca se proyecta en la mente del consumidor tomando como punto de referencia directo o indirecto a las empresas rivales. Consiste en destacar y enfatizar las ventajas comparativas en atributos como el precio, la calidad, la rapidez, el rendimiento o la atención al cliente respecto a las opciones competidoras.\n\n**Ejemplo práctico:** La histórica campaña publicitaria de la empresa de alquiler de vehículos Avis con el lema «Somos el número 2, por eso nos esforzamos más», que utilizaba explícitamente la comparación con el líder del sector (Hertz) para proyectar un servicio de atención más dedicado y esmerado.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El posicionamiento en función de los atributos consiste en:",
+      "opciones": {
+        "a": "Posicionarse en función del estilo de vida",
+        "b": "Posicionamiento basado en alguna variable del marketing-mix",
+        "c": "Posicionamiento en función de un atributo del producto o servicio",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "El posicionamiento en función de los atributos consiste en asociar de forma directa y prioritaria la marca o el producto con una característica tangible o beneficio específico y distintivo del mismo (como la duración, la eficiencia energética, la resistencia o el tamaño reducido), haciendo de ese atributo la razón primordial de compra para el consumidor.\n\n**Ejemplo práctico:** Duracell posiciona sus pilas alcalinas en torno al atributo específico de la máxima duración («y duran, y duran...»), convirtiendo ese rasgo funcional en el argumento principal de preferencia en el punto de venta.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

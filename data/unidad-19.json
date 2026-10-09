@@ -1,0 +1,126 @@
+{
+  "unidad": 19,
+  "titulo": "Autoevaluación Unidad 19 - Investigación Comercial y Fuentes de Información",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La investigación comercial tiene como finalidad:",
+      "opciones": {
+        "a": "La obtención de información útil para la empresa y todos sus departamento internos",
+        "b": "La obtención de información útil para el desarrollo de decisiones comerciales, así como para el diseño e implantación del plan de Marketing",
+        "c": "La obtención de información útil para el desarrollo de nuevos productos y el desarrollo de su plan de marketing para lanzarlos al mercado",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La investigación comercial (o investigación de mercados) es la función sistemática que suministra información rigurosa, objetiva y oportuna para orientar el proceso de toma de decisiones comerciales de la dirección. Su finalidad principal es reducir la incertidumbre directiva y servir de fundamento para el diagnóstico, formulación, diseño, implantación y control del plan de marketing de la organización.\n\n**Ejemplo práctico:** Una compañía de telefonía móvil encarga un estudio de investigación comercial para conocer la disposición de los usuarios a pagar por servicios 5G avanzados y evaluar qué canales digitales prefieren para contratar líneas, sirviendo de base directa para fijar los precios y la distribución de su plan de marketing.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Las letras SIM son acrónimo de:",
+      "opciones": {
+        "a": "Sistema de información de mercados",
+        "b": "Sistema de información en marketing",
+        "c": "Sistema de introducción al marketing",
+        "d": "Sistema de introducción a los mercados"
+      },
+      "explicacion": "Las siglas SIM son el acrónimo de «Sistema de Información en Marketing» (o Sistema de Información de Marketing). Se define como una estructura permanente e interrelacionada de personas, equipos informáticos y metodologías de trabajo diseñada para recopilar, clasificar, evaluar, analizar y distribuir información relevante y exacta a los responsables de marketing para la toma de decisiones.\n\n**Ejemplo práctico:** Una empresa de distribución alimentaria como Carrefour utiliza un SIM que integra diariamente datos de tickets de caja, el programa de fidelización del club de clientes, precios de la competencia e informes macroeconómicos para que los directores de categoría ajusten promociones y surtido.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En la investigación sobre el comportamiento del consumidor se estudia:",
+      "opciones": {
+        "a": "Cuál será la demanda total de un mercado",
+        "b": "Las motivaciones que mueven al consumidor a la compra",
+        "c": "Cuando crear nuevos productos",
+        "d": "Las opciones a y b son ciertas"
+      },
+      "explicacion": "La investigación orientada al comportamiento del consumidor se centra en analizar las variables psicológicas, sociales y culturales que intervienen en el proceso de decisión de compra. En particular, estudia las motivaciones conscientes e inconscientes, actitudes, percepciones, hábitos y frenos que impulsan o inhiben al consumidor a adquirir un producto. La determinación de la demanda global del mercado (opción a) corresponde a la investigación cuantitativa de demanda y ventas.\n\n**Ejemplo práctico:** Una marca de cosmética natural realiza entrevistas en profundidad y sesiones grupales para analizar qué motiva a los consumidores a pagar más por envases reciclables y productos sin parabenos (salud personal frente a compromiso medioambiental).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La Investigación sobre la demanda y las ventas incluye:",
+      "opciones": {
+        "a": "Cuál será la demanda total de un mercado.",
+        "b": "Cómo es la participación de las marcas en el mercado.",
+        "c": "La previsión de ventas",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La investigación sobre la demanda y las ventas agrupa los análisis cuantitativos dirigidos a cuantificar el volumen y valor de las transacciones comerciales. Abarca la determinación de la demanda total o potencial del mercado (a), el cálculo de la participación o cuota de mercado de cada una de las marcas competidoras (b) y la formulación de previsiones estadísticas de ventas futuras para planificar la producción y las finanzas (c).\n\n**Ejemplo práctico:** Un fabricante de refrescos utiliza paneles de detallistas y datos de consumo para calcular el tamaño global del mercado de bebidas isotónicas en España, la cuota de mercado de su marca frente a los competidores y la previsión de ventas para la temporada de verano.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "En los estudios descriptivos:",
+      "opciones": {
+        "a": "Se obtiene información generalista pero no en profundidad en cuanto a un tema, nos muestran lo que está sucediendo en un determinado mercado",
+        "b": "Su orientación está dirigida a mostrar lo que está sucediendo en un determinado sector, mercado o área de Marketing",
+        "c": "Su finalidad es localizar problemas y oportunidades potenciales para la empresa",
+        "d": "Las opciones a y b son correctas"
+      },
+      "explicacion": "Los estudios descriptivos tienen por objeto caracterizar y retratar de manera estructurada las condiciones presentes de un mercado, sector o área comercial («lo que está sucediendo», frecuencias de compra, perfiles demográficos de los compradores y cuotas de mercado, opciones a y b). Proporcionan información generalista y precisa sobre la realidad observada, sin pretender profundizar en relaciones causales ni limitarse a la fase exploratoria de identificación de problemas (opción c).\n\n**Ejemplo práctico:** Un informe de mercado elaborado por una consultora que describe qué porcentaje de españoles compra ropa por internet, qué dispositivos emplean para hacerlo y cuál es el importe medio de cada compra mensual.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El proceso que conlleva la realización de una investigación comercial presenta una métrica: descripción del problema, preparación, realización, tabulación y análisis. El proceso de tabulación consiste en:",
+      "opciones": {
+        "a": "Realizar el trabajo de campo",
+        "b": "Escoger la metodología más adecuada para la obtención de información",
+        "c": "Analizar los datos obtenidos redactando un informe detallado",
+        "d": "Realizar el recuento de los datos contenidos en los cuestionarios"
+      },
+      "explicacion": "En el desarrollo de una investigación comercial, el proceso de tabulación forma parte del tratamiento y procesamiento de los datos obtenidos en el trabajo de campo. Consiste en ordenar, codificar y realizar el recuento sistemático de las respuestas registradas en los cuestionarios (creando tablas de frecuencias y tablas de contingencia), preparando los datos brutos para su posterior análisis estadístico e interpretación.\n\n**Ejemplo práctico:** Tras aplicar 1.500 encuestas sobre satisfacción en un festival de música, el equipo investigador introduce los datos en un software estadístico y realiza la tabulación para obtener el recuento exacto de asistentes que calificaron positivamente los accesos desglosado por tramos de edad.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Las fuentes de información internas son aquellas que:",
+      "opciones": {
+        "a": "Cuya información obtenida emana de la propia empresa",
+        "b": "Provienen de diferentes organismos ajenos a la empresa",
+        "c": "Provienen de las publicaciones",
+        "d": "Las respuestas a y c son verdaderas"
+      },
+      "explicacion": "Las fuentes de información internas son aquellos datos y registros generados y localizados en el seno de la propia organización empresarial como resultado de su actividad ordinaria (contabilidad analítica, registros de ventas, bases de datos de clientes y CRM, informes de los comerciales de ventas y reclamaciones de posventa). Se diferencian de las externas en que estas últimas provienen de instituciones, organismos o publicaciones ajenas a la empresa.\n\n**Ejemplo práctico:** El departamento comercial de una entidad aseguradora analiza su base de datos interna de siniestros y cancelaciones de pólizas para identificar qué perfiles de clientes presentan mayor propensión a darse de baja del servicio.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Los datos secundarios son aquellos que:",
+      "opciones": {
+        "a": "Se obtienen para el propósito del momento",
+        "b": "Versan sobre información ya existente y disponible",
+        "c": "Versan sobre información que inicialmente era para otro propósito",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "Los datos secundarios son aquellas informaciones y estadísticas que ya existen previamente, al haber sido recopiladas, procesadas y publicadas por la propia empresa o por terceros para propósitos o estudios distintos del proyecto de investigación actual (opciones b y c). En cambio, los datos primarios son aquellos que se recogen por primera vez y de forma específica para resolver el problema concreto objeto de estudio (opción a).\n\n**Ejemplo práctico:** Una empresa que analiza la viabilidad de abrir una guardería privada consulta los datos del censo de natalidad y población infantil publicados por el Instituto Nacional de Estadística (INE), utilizando una fuente secundaria generada previamente por la administración pública.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes es una fuente primaria:",
+      "opciones": {
+        "a": "Guías bibliográficas",
+        "b": "Centros de documentación",
+        "c": "Bancos de datos",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "Las fuentes primarias son aquellas de las que se recogen datos originales e inéditos directamente de los sujetos analizados a través de técnicas de campo (como encuestas, entrevistas, paneles u observación). Por el contrario, las guías bibliográficas, los centros de documentación y los bancos o bases de datos son fuentes secundarias que recopilan y archivan información previamente elaborada, por lo que ninguna de ellas constituye una fuente primaria.\n\n**Ejemplo práctico:** Si un fabricante de yogures diseña un test sensorial a ciegas con 200 personas en un supermercado, está generando datos mediante una fuente primaria; si en su lugar consulta un informe sectorial en una base de datos documental (fuente secundaria), no está empleando una fuente primaria.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes es una fuente interna:",
+      "opciones": {
+        "a": "Consumidores",
+        "b": "Distribuidores",
+        "c": "Clientes",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Dentro de la clasificación de fuentes de información comercial, la cartera y registros de los «clientes» constituyen una fuente de información interna, puesto que sus datos transaccionales, hábitos de compra y datos de contacto forman parte de los sistemas de gestión y bases de datos propios de la empresa. Por el contrario, el conjunto de consumidores del mercado general y los intermediarios o distribuidores externos representan fuentes externas de información.\n\n**Ejemplo práctico:** Un banco que analiza las operaciones de tarjetas de crédito y nóminas domiciliadas de sus propios clientes para diseñar una campaña de préstamos preconcedidos está explotando una fuente de información estrictamente interna.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

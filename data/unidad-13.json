@@ -1,0 +1,126 @@
+{
+  "unidad": 13,
+  "titulo": "Autoevaluación Unidad 13 - Fidelización de Clientes, CRM y Marketing Relacional",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones respecto a la fidelización de clientes es falsa:",
+      "opciones": {
+        "a": "El cliente es el elemento más escaso del sistema",
+        "b": "La preocupación de la empresa actual se centra en captar nuevos clientes",
+        "c": "El mantenimiento de los clientes tiene efectos directos en la cuenta de resultados",
+        "d": "Es más fácil vender productos más caros a los clientes actuales que a los nuevos clientes"
+      },
+      "explicacion": "En el marketing relacional y la gestión moderna de clientes, el paradigma empresarial ha virado de la captación pura hacia la fidelización y retención. Es falso afirmar que la preocupación exclusiva o central de la empresa actual se restrinja a captar nuevos clientes, pues el coste de adquisición de clientes (CAC) es notablemente superior al coste de retención. Las empresas líderes centran sus esfuerzos en maximizar el valor del ciclo de vida del cliente (Customer Lifetime Value - CLV), ya que mantener a los clientes actuales genera una rentabilidad más predecible, reduce costes comerciales y favorece el 'cross-selling' y el 'up-selling'.\n\n**Ejemplo práctico:** Una entidad bancaria como BBVA invierte significativamente en programas de fidelización y ventajas exclusivas para sus clientes con nómina domiciliada, sabiendo que resulta hasta cinco veces más costoso atraer a un nuevo usuario que retener a uno actual y ofrecerle una hipoteca o plan de pensiones.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Para que una organización tenga una verdadera orientación hacia el mercado se debe basar en:",
+      "opciones": {
+        "a": "Tener un buen servicio de atención al público",
+        "b": "Coordinar todos sus departamentos, para facilitar que la experiencia del cliente con la empresa sea siempre satisfactoria",
+        "c": "Tener un buen servicio de post-venta y de reclamaciones.",
+        "d": "Las opciones a y b son ciertas."
+      },
+      "explicacion": "La orientación al mercado, conceptualizada en la literatura clásica por autores como Kohli y Jaworski o Narver y Slater, no equivale a tener un departamento aislado de atención al cliente ni un servicio de postventa independiente. Exige una cultura organizativa global donde todos y cada uno de los departamentos (finanzas, producción, logística, recursos humanos, marketing) estén estrechamente coordinados e interconectados para crear y entregar valor continuo al cliente en cada punto de contacto (touchpoint).\n\n**Ejemplo práctico:** En la cadena hotelera Ritz-Carlton, cualquier empleado —desde el personal de limpieza hasta el recepcionista— dispone de autonomía y presupuesto para resolver en el acto una incidencia de un huésped, coordinando áreas internas para garantizar que la experiencia del cliente sea impecable.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La extensión del Marketing relacional hacia los mercados de gran consumo ha sido consecuencia de:",
+      "opciones": {
+        "a": "Del buen funcionamiento del marketing relacional en los sectores industriales",
+        "b": "Factores, relacionados con la evolución de las variables del Marketing-mix, del cliente y de las nuevas tecnologías, que afectan directamente a la gestión del Marketing",
+        "c": "El creciente número de quejas por parte de los clientes en los mercados de gran consumo",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El marketing relacional tuvo su origen en mercados industriales (B2B) y de servicios, caracterizados por relaciones directas y personalizadas. Su posterior expansión hacia los mercados de gran consumo (B2C) fue fruto de la confluencia de varios factores clave: la saturación y fragmentación de los medios de comunicación masivos, la comoditización de los productos, la aparición de consumidores más exigentes y, sobre todo, el desarrollo de las tecnologías de la información (TICs, bases de datos y tarjetas de fidelidad), que permitieron a las marcas dialogar individualmente a gran escala.\n\n**Ejemplo práctico:** Cadenas de distribución alimentaria como Carrefour o Mercadona pasaron de la publicidad masiva indiferenciada a gestionar clubes de fidelización personalizados (como 'El Club Carrefour'), analizando los tickets de compra mediante software para enviar cupones de descuento a medida de los hábitos de cada hogar.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El Marketing relacional es el punto focal que integra el servicio al cliente y la calidad con la orientación al Marketing, y por tanto:",
+      "opciones": {
+        "a": "El servicio al cliente ha de tener un enfoque unidimensional, donde el cliente es el centro",
+        "b": "La calidad ha de tener un enfoque orientado a conseguir la excelencia de los productos que se ofrecen a los clientes",
+        "c": "El servicio al cliente incide en las relaciones que se establecen con grupos objetivo específicos como son clientes, proveedores, personal, administraciones, etc.",
+        "d": "Las tres anteriores son correctas"
+      },
+      "explicacion": "En el marco del marketing relacional (como sintetizan Christopher, Payne y Ballantyne en su modelo de los seis mercados), el servicio al cliente y la calidad dejan de ser meras funciones operativas aisladas para integrarse en una red amplia de relaciones. El servicio al cliente abarca las interacciones que la empresa mantiene no solo con los compradores finales, sino con un conjunto integral de grupos de interés o stakeholders esenciales: proveedores, empleados (marketing interno), distribuidores y administraciones públicas.\n\n**Ejemplo práctico:** Toyota trabaja bajo un enfoque relacional integrando a sus proveedores de componentes en procesos continuos 'just-in-time' y capacitando a sus operarios, asumiendo que la excelencia del servicio y la calidad final del vehículo dependen de la solidez de las relaciones con toda la cadena de suministro.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Características del nuevo cliente que se van perfilando a día de hoy:",
+      "opciones": {
+        "a": "Tiene recursos, pero le falta tiempo",
+        "b": "Adopta las modas y los nuevos productos rápidamente pero se hastía con facilidad",
+        "c": "Es exigente y demanda un buen servicio e información disponible 24 horas al día, 7 días a la semana",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El perfil del consumidor en la economía contemporánea se define por la intersección de varias tendencias conductuales: dispone de recursos económicos pero sufre una marcada escasez de tiempo personal; adopta con rapidez las nuevas modas pero se satura y aburre con facilidad ante la sobreoferta continua; y exhibe un nivel de exigencia muy alto, demandando atención inmediata, transparente y multicanal disponible las 24 horas del día durante los 7 días de la semana.\n\n**Ejemplo práctico:** Un usuario urbano que utiliza aplicaciones bancarias o de comercio electrónico espera poder autorizar operaciones o consultar el estado de un envío un domingo por la noche desde su smartphone mediante un asistente virtual o autoservicio inmediato, cambiando de plataforma si encuentra fricciones.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El Marketing relacional se justifica en que mantenerse cerca de los clientes proporciona ventajas estratégicas:",
+      "opciones": {
+        "a": "Las buenas relaciones con los clientes repercuten en las ventas actuales y futuras",
+        "b": "Los nuevos clientes son la mejor fuente de nuevos negocios",
+        "c": "El conocimiento oportuno de las cambiantes necesidades de los clientes permite dirigir la producción y reduce costes",
+        "d": "Las respuestas a y c son correctas"
+      },
+      "explicacion": "La cercanía y la gestión continuada de la relación con el cliente reportan sólidas ventajas estratégicas: en primer lugar, los clientes fidelizados aseguran flujos estables y recurrentes de ingresos futuros (menor rotación o churn rate); en segundo lugar, la retroalimentación continua permite a la empresa conocer las variaciones de la demanda, ajustando la producción y reduciendo costes de inventario y comercialización. La opción b es falsa porque en el marketing relacional los clientes actuales (y no los nuevos) son la fuente más valiosa y rentable para el negocio.\n\n**Ejemplo práctico:** Una compañía de software por suscripción (SaaS) como Salesforce monitoriza el uso diario de su plataforma para detectar qué funciones necesitan sus usuarios actuales, lo que le permite reducir costes en desarrollos innecesarios y asegurar la renovación de licencias anuales mediante recomendaciones personalizadas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el data mining es falsa:",
+      "opciones": {
+        "a": "También se denomina como minería de datos",
+        "b": "Es un proceso de extracción de información significativa de grandes bases de datos que queda oculta entre la ingente cantidad de datos.",
+        "c": "Permite detectar relaciones ocultas, tendencias y correlaciones que permiten al usuario realizar predicciones que resuelven problemas del negocio proporcionando una ventaja competitiva.",
+        "d": "Todas las anteriores son verdaderas"
+      },
+      "explicacion": "La opción d es la respuesta correcta al tratarse de una formulación donde ninguna de las opciones anteriores (a, b y c) es falsa, por lo que todas son verdaderas. El 'data mining' o minería de datos consiste efectivamente en el análisis computacional de ingentes volúmenes de datos ('Big Data') para descubrir patrones no evidentes, correlaciones y tendencias subyacentes, permitiendo a las empresas predecir comportamientos de compra y construir ventajas competitivas robustas.\n\n**Ejemplo práctico:** Plataformas de comercio electrónico como Amazon aplican minería de datos sobre millones de transacciones históricas para identificar correlaciones ocultas entre artículos comprados y sugerir paquetes de productos ('frecuentemente comprados juntos') antes de que el usuario finalice el pedido.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "A qué conceptos hacer referencia el acrónimo CRM:",
+      "opciones": {
+        "a": "Customer Relationship Management",
+        "b": "Customer Relationships in Marketing",
+        "c": "Clients and Relations Management",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El acrónimo estándar en la gestión empresarial y el marketing es CRM, correspondiente a 'Customer Relationship Management' (Gestión de las Relaciones con los Clientes). Abarca tanto la filosofía estratégica centrada en la captación, satisfacción y fidelización individualizada de clientes, como el ecosistema de software y bases de datos que centraliza las interacciones entre la compañía y sus clientes.\n\n**Ejemplo práctico:** Cuando una aseguradora como Mapfre implementa un sistema CRM, sus operadores disponen en una pantalla única del histórico completo de pólizas, siniestros y consultas del cliente, permitiendo ofrecerle un trato personalizado cada vez que contacta con la compañía.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuáles son los pasos para pasos para implantar un programa de Marketing 121:",
+      "opciones": {
+        "a": "Crear nuevos clientes para la empresa, diferenciar a los clientes, y satisfacer de forma eficiente sus necesidades",
+        "b": "Identificar a los clientes, entender sus necesidades, y proponer soluciones adecuadas a sus necesidades",
+        "c": "Identificar a los clientes, diferenciar a los clientes, interactuar con los clientes con eficiencia y eficacia, y personalizar algún aspecto del trato de la empresa hacia el cliente a partir de sus necesidades y de su valor",
+        "d": "Ninguna de las anteriores opciones es correcta"
+      },
+      "explicacion": "El modelo de Marketing One-to-One (1to1 o 121), formulado por Don Peppers y Martha Rogers, se basa en la metodología secuencial IDIC: 1) Identificar a los clientes de forma individual y detallada; 2) Diferenciarlos en función de su valor estratégico y sus necesidades particulares; 3) Interactuar con ellos a través de canales bidireccionales eficientes; y 4) Personalizar la propuesta comercial (producto, precio o servicio) para satisfacer las necesidades específicas de cada cliente según su valor potencial.\n\n**Ejemplo práctico:** Sephora utiliza su programa de fidelidad para identificar a cada clienta, diferenciarla según su frecuencia de compra y tipo de piel, interactuar a través de su app con recomendaciones cosméticas y personalizar obsequios y promociones exclusivas adaptadas a su historial.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En torno a qué principio giran las ideas principales del marketing relacional referentes a la fidelización de clientes:",
+      "opciones": {
+        "a": "Es necesario que el cliente se adapte a las necesidades de la empresa",
+        "b": "La estrategia de la empresa ha de orientarse hacia la creación de valor para el cliente, manteniendo una visión de la empresa como suma sinérgica de clientes",
+        "c": "Los principales indicadores del Marketing relacional son la cuota de ventas y la cuota de mercado.",
+        "d": "La b) y la c) son correctas"
+      },
+      "explicacion": "El marketing relacional se sustenta sobre el principio de que la empresa no es una mera colección de productos o transacciones puntuales, sino una suma sinérgica de relaciones duraderas con clientes. La rentabilidad y viabilidad a largo plazo dependen de la capacidad organizativa para generar valor continuo percibido por el cliente. Las opciones a y c son erróneas porque es la empresa quien debe adaptarse al cliente, y el marketing relacional prioriza la cuota de cliente ('share of customer') frente a la tradicional cuota de mercado transaccional.\n\n**Ejemplo práctico:** Una compañía de telecomunicaciones como O2 / Telefónica reorienta su estrategia premiando la lealtad de sus abonados con mejoras periódicas de velocidad y datos sin coste adicional, protegiendo el valor de su cartera de clientes en lugar de favorecer únicamente las promociones a nuevos abonados.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

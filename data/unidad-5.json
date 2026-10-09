@@ -1,0 +1,126 @@
+{
+  "unidad": 5,
+  "titulo": "Autoevaluación Unidad 5 - Estrategia Empresarial y Comportamiento del Consumidor",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre la estrategia es correcta:",
+      "opciones": {
+        "a": "Estrategia es un conjunto de decisiones preparadas de antemano para dar respuesta a las amenazas y oportunidades externas, así como a las fortalezas y debilidades internas de la empresa, teniendo en cuenta todas las posibles reacciones del adversario y/o de la naturaleza y la limitación de recursos.",
+        "b": "Estrategia es un medio de establecer los propósitos organizativos, en términos de objetivos a largo plazo y programas de adopción de cursos de acción.",
+        "c": "La planificación estratégica es la forma de decisión anticipada para establecer objetivos y medios, teniendo en cuenta los recursos y restricciones de la empresa",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La estrategia empresarial abarca múltiples perspectivas teóricas y operativas complementarias. Comprende tanto la adaptación proactiva ante las oportunidades y amenazas del entorno a partir de las fortalezas y debilidades internas (enfoque de recursos y capacidades y posicionamiento estratégico), como el establecimiento de directrices y objetivos de largo plazo (definición clásica de Chandler), así como el proceso formal de planificación anticipada para asignar eficientemente los recursos disponibles de la organización.\n\n**Ejemplo práctico:** Inditex anticipa cambios en el comportamiento del consumidor integrando su logística de respuesta rápida (fortaleza interna) frente a la creciente competencia del comercio electrónico ultrarrápido (amenaza externa), definiendo objetivos de digitalización a largo plazo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Se reconocen tres niveles en las estrategias de empresa. Cuál de los siguientes no es uno de ellos:",
+      "opciones": {
+        "a": "Estrategias de mercado",
+        "b": "Estrategias corporativas",
+        "c": "Estrategias funcionales",
+        "d": "Estrategias de unidad de negocio"
+      },
+      "explicacion": "En la dirección estratégica se establecen formalmente tres niveles jerárquicos: 1) Estrategia corporativa o de empresa (determina en qué negocios o sectores competir), 2) Estrategia de unidad de negocio o competitiva (determina cómo competir en un sector específico), y 3) Estrategias funcionales (determinan cómo cada área —marketing, operaciones, finanzas, recursos humanos— optimiza sus recursos para apoyar la estrategia de negocio). Las «estrategias de mercado» no constituyen un nivel independiente en esta jerarquía clásica, sino decisiones o planes tácticos dentro del área funcional de marketing.\n\n**Ejemplo práctico:** En un conglomerado como Unilever, el nivel corporativo decide invertir en el sector de alimentos y cuidado personal; el nivel de negocio define la propuesta de valor diferenciada de la marca Dove frente a la competencia; y el nivel funcional diseña las campañas de comunicación y la distribución de Dove.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En el análisis estratégico se contempla:",
+      "opciones": {
+        "a": "La visión de la organización, el análisis externo y el análisis interno",
+        "b": "Ninguna de las anteriores es correcta",
+        "c": "La misión de la organización, la visión y los objetivos de la organización",
+        "d": "La misión de la organización, el análisis externo y el análisis interno"
+      },
+      "explicacion": "El análisis estratégico es la etapa fundamental en la que se examina la situación inicial de la organización para fundamentar la toma de decisiones. Este análisis integra tres pilares esenciales: la declaración de la misión (la razón de ser y propósito fundamental de la organización), el análisis del entorno externo (macroentorno y microentorno: identificación de amenazas y oportunidades) y el análisis interno (recursos, capacidades y competencias distintivas: identificación de fortalezas y debilidades).\n\n**Ejemplo práctico:** Al definir su plan estratégico, una compañía como Tesla parte de su misión de acelerar la transición del mundo hacia la energía sostenible, analiza externamente los cambios regulatorios sobre emisiones y subsidios gubernamentales, e internamente evalúa su capacidad productiva en baterías y fábricas gigafactories.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El análisis DAFO es acrónimo de las palabras:",
+      "opciones": {
+        "a": "Dirección, Amenazas, Fortalezas y Objetivos",
+        "b": "Debilidades, Amenazas, Fortalezas y Oportunidades",
+        "c": "Ninguna de las anteriores es correcta",
+        "d": "Debilidades, Amenazas, Flaquezas y Objetivos"
+      },
+      "explicacion": "El análisis DAFO (denominado SWOT en la literatura anglosajona: Strengths, Weaknesses, Opportunities, Threats) es la herramienta esencial de diagnóstico estratégico que sintetiza las Debilidades y Fortalezas derivadas del análisis interno de la organización, junto con las Amenazas y Oportunidades procedentes del análisis del entorno externo.\n\n**Ejemplo práctico:** Una bodega familiar identifica como fortalezas su tradición centenaria y viñedos propios, como debilidades su reducida red comercial digital, como oportunidades el auge internacional del enoturismo, y como amenazas el encarecimiento del vidrio y la sequía prolongada.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuáles son las tres ventajas competitivas básicas según Porter:",
+      "opciones": {
+        "a": "Liderazgo en costes, diferenciación de productos y focalización o especialización",
+        "b": "Ninguna de las anteriores es correcta",
+        "c": "Liderazgo en ventas, especialización de productos y focalización o especialización",
+        "d": "Liderazgo en costes, estrategias de productos y focalización o especialización"
+      },
+      "explicacion": "Michael Porter identificó tres estrategias genéricas fundamentales que permiten a una empresa obtener una ventaja competitiva sostenible frente a sus competidores en un sector: 1) Liderazgo en costes (producir al coste más bajo del sector para competir en precio o maximizar márgenes), 2) Diferenciación (ofrecer productos con atributos percibidos como únicos por el mercado que justifiquen un precio premium), y 3) Enfoque o alta segmentación/focalización (concentrarse en las necesidades de un nicho de mercado específico, ya sea mediante costes o mediante diferenciación).\n\n**Ejemplo práctico:** Ryanair aplica liderazgo en costes al reducir al mínimo los servicios a bordo y operar en aeropuertos secundarios; Apple compite mediante diferenciación con su diseño y ecosistema exclusivo; y Ferrari aplica una estrategia de focalización dirigiéndose únicamente al exclusivo segmento de vehículos deportivos de hiperlujo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes afirmaciones es falsa:",
+      "opciones": {
+        "a": "Las empresas crean bienes y servicios destinados a satisfacer las necesidades del mercado",
+        "b": "El Marketing ha de detectar las necesidades del mercado, desarrollar productos para atenderlas y permanecer en el mercado de forma duradera",
+        "c": "El Marketing operativo se refiere a qué mercados o segmentos se dirigirá la empresa, con qué productos y cómo se posicionará en ellos",
+        "d": "El Marketing estratégico se refiere a qué mercados o segmentos se dirigirá la empresa, con qué productos y cómo se posicionará en ellos"
+      },
+      "explicacion": "La afirmación c es falsa porque confunde el marketing operativo con el marketing estratégico. La determinación de a qué mercados o segmentos debe dirigirse la empresa, con qué productos y cuál debe ser su posicionamiento competitivo corresponde al Marketing Estratégico (enfoque a largo plazo). Por su parte, el Marketing Operativo (enfoque a corto y medio plazo) se encarga de implementar y ejecutar esas directrices estratégicas a través de las herramientas tácticas del marketing-mix (las 4 P: producto, precio, distribución y comunicación).\n\n**Ejemplo práctico:** Decidir que una marca de café se dirija al segmento joven urbano con un posicionamiento de comercio justo y ecológico es una decisión de marketing estratégico. Fijar el precio de venta en 3,50 € por paquete, colocarlo en lineales de tiendas bio y realizar una campaña en Instagram es marketing operativo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El posicionamiento de un producto puede ser por:",
+      "opciones": {
+        "a": "Por uso o aplicación",
+        "b": "Por el lugar de destino",
+        "c": "Por el tipo de comprador",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El posicionamiento de un producto es el lugar que este ocupa en la mente del consumidor en relación con los productos de la competencia. Entre las estrategias de posicionamiento reconocidas se encuentra el posicionamiento por uso o aplicación, que consiste en asociar el producto a un momento, situación o finalidad de uso muy específica para resolver una necesidad particular del cliente.\n\n**Ejemplo práctico:** Gatorade ha construido su posicionamiento por uso o aplicación vinculándose directamente a la reposición de sales minerales y rehidratación durante y después de la práctica deportiva de alta intensidad, diferenciándose de los refrescos convencionales.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El comportamiento del consumidor es una ciencia interdisciplinar, bebe de las aguas de:",
+      "opciones": {
+        "a": "La psicología, la medicina, la sociología, la economía y la antropología",
+        "b": "La psicología, la psicología social, la sociología, la economía y la arqueología",
+        "c": "La psicología, la psicología social, la psicoterapia, la economía y la antropología",
+        "d": "La psicología, la psicología social, la sociología, la economía y la antropología"
+      },
+      "explicacion": "El estudio del comportamiento del consumidor analiza los procesos que atraviesan individuos y grupos para seleccionar, comprar, usar y desechar bienes o servicios. Dado que este proceso involucra la mente individual, las interacciones con otros, las estructuras sociales, la restricción presupuestaria y los valores culturales, se nutre de forma interdisciplinar de la psicología, la psicología social, la sociología, la economía y la antropología.\n\n**Ejemplo práctico:** Al estudiar la creciente compra de vehículos eléctricos, los investigadores analizan las motivaciones y actitudes personales (psicología), la presión de los grupos de referencia y estatus percibido (psicología social y sociología), el coste total de propiedad y precio de recarga (economía), y el cambio cultural hacia la sostenibilidad medioambiental (antropología).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Según la Teoría de Maslow:",
+      "opciones": {
+        "a": "Las actitudes del consumidor influyen en la conducta de compra, con base en el uso de la experiencia pasada y en un conjunto de actitudes específicas",
+        "b": "Las necesidades aparecen de forma sucesiva, empezando por las más elementales, y a medida que se van satisfaciendo en un determinado grado, van apareciendo otras de rango superior",
+        "c": "Ninguna de las anteriores es correcta",
+        "d": "El aprendizaje se produce cuando una persona responde a un estímulo y es recompensada por dar una respuesta correcta, o castigada, por dar una respuesta incorrecta"
+      },
+      "explicacion": "La jerarquía de necesidades de Abraham Maslow postula que las motivaciones humanas están organizadas de forma piramidal. Las necesidades más básicas y elementales (fisiológicas y de seguridad) deben satisfacerse prioritariamente; a medida que el individuo logra cubrirlas en un grado suficiente, emergen como motivadores principales las necesidades de orden superior (sociales o de afiliación, de estima o reconocimiento y de autorrealización).\n\n**Ejemplo práctico:** Una persona con ingresos muy limitados prioriza adquirir alimentos básicos y pagar el alquiler de su vivienda (necesidades fisiológicas y de seguridad), mientras que un consumidor con sus necesidades básicas garantizadas está dispuesto a pagar por cursos de desarrollo personal, viajes culturales o productos de marcas de prestigio (autorrealización y estima).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Las variables ambientales externas que inciden en la conducta se componen de los siguientes factores:",
+      "opciones": {
+        "a": "La cultura, subcultura, familia, amigos y factores personales",
+        "b": "La cultura, subcultura, clase social, familia y factores económicos",
+        "c": "La cultura, subcultura, clase social, familia y factores personales",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El comportamiento de compra del consumidor está condicionado por variables del macroentorno y del microentorno social que actúan desde el exterior sobre el individuo. En los modelos teóricos del comportamiento del consumidor (como los de Kotler, Schiffman o Blackwell), estos factores ambientales externos comprenden la cultura general, las subculturas (étnicas, religiosas o regionales), la clase social a la que pertenece, el núcleo familiar directo y los factores personales derivados del rol e interacciones del individuo con su entorno próximo.\n\n**Ejemplo práctico:** La elección del menú de celebración de una boda o la compra de una casa está fuertemente influenciada por las tradiciones culturales del país, las expectativas de la clase social de los contrayentes y la opinión y consenso del núcleo familiar.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

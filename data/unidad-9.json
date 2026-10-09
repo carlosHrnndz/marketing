@@ -1,0 +1,126 @@
+{
+  "unidad": 9,
+  "titulo": "Autoevaluación Unidad 9 - Comunicación Comercial, Publicidad y Promoción",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de los siguientes no es un objetivo de una campaña publicitaria:",
+      "opciones": {
+        "a": "Ayudar a introducir el producto en el mercado",
+        "b": "Vender la imagen de marca",
+        "c": "Preparar el camino para los vendedores",
+        "d": "Todos los anteriores son objetivos de las campañas publicitarias"
+      },
+      "explicacion": "La publicidad persigue objetivos estratégicos y tácticos que trascienden la venta inmediata a corto plazo. Entre sus metas fundamentales destacan la función informativa (esencial en la etapa de introducción para dar a conocer un nuevo producto al mercado), la función persuasiva e institucional (construcción, consolidación y transmisión de la imagen de marca) y la función de facilitación y apoyo comercial (generar notoriedad y predisposición favorable en el público objetivo para allanar el camino y facilitar la labor de la fuerza de ventas). Por tanto, todas las alternativas señaladas constituyen objetivos legítimos y habituales de las campañas publicitarias.\n\n**Ejemplo práctico:** Cuando Apple presenta un dispositivo innovador como las Apple Vision Pro, la campaña publicitaria masiva educa al mercado sobre una nueva categoría de producto (introducción), consolida su reputación de vanguardia tecnológica (imagen de marca) y facilita enormemente que los asesores de ventas de las tiendas físicas y del canal B2B cierren demostraciones y pedidos con clientes ya predispuestos favorablemente.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "A qué se refiere el acrónimo USP:",
+      "opciones": {
+        "a": "Un Solo Posicionamiento",
+        "b": "Unique Selling Positioning",
+        "c": "Unique Selling Proposition",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El acrónimo USP corresponde a *Unique Selling Proposition* (Propuesta Única de Venta), un concepto clásico formulado por Rosser Reeves en la década de 1940. Esta teoría postula que todo mensaje publicitario debe formular una proposición clara y contundente al consumidor: adquirir el producto a cambio de un beneficio específico, diferenciador y exclusivo que la competencia directa no pueda ofrecer o no haya comunicado de forma relevante.\n\n**Ejemplo práctico:** El histórico eslogan de M&M's, «El chocolate se derrite en tu boca, no en tu mano», personifica a la perfección una USP: comunica una ventaja funcional concreta, exclusiva y perceptible (evitar mancharse las manos gracias al recubrimiento de azúcar) que resolvía una molestia real del consumidor y distinguía al producto de cualquier chocolatina competidora.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de los siguientes no es un medio publicitario:",
+      "opciones": {
+        "a": "La prensa",
+        "b": "La radio",
+        "c": "El medio exterior",
+        "d": "El medio interior"
+      },
+      "explicacion": "En la clasificación publicitaria convencional de medios de difusión (*above the line* o ATL), se reconocen canales como la prensa escrita (diarios y revistas), la radio, la televisión, el cine, el medio exterior (vallas publicitarias, marquesinas, monopostes, mobiliario urbano y transporte público) e internet. La denominación «medio interior» no figura en la taxonomía canónica de los medios publicitarios; las acciones promocionales y de comunicación que se desarrollan dentro de los establecimientos comerciales se encuadran formalmente dentro de la publicidad en el lugar de venta (PLV) o el merchandising, no como un medio publicitario autónomo.\n\n**Ejemplo práctico:** Al diseñar el plan de medios (*media mix*) para una campaña de concienciación de la Dirección General de Tráfico (DGT), la agencia de medios distribuye la inversión entre cuñas de radio en horas punta, inserciones en prensa digital y vallas estratégicas en el medio exterior situadas en autopistas, descartando clasificaciones inexistentes como «medio interior».",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de las siguientes no es una característica de la publicidad a través de Internet:",
+      "opciones": {
+        "a": "No es un medio completamente interactivo.",
+        "b": "Permite una gran segmentación muy precisa.",
+        "c": "Se puede medir en tiempo real y de forma continua, fiable y precisa el resultado de las campañas de publicidad.",
+        "d": "Permite continuas modificaciones y adaptaciones de las campañas en función de los resultados."
+      },
+      "explicacion": "La naturaleza intrínseca y diferencial de internet respecto a los medios de comunicación tradicionales radica en su interactividad bidireccional inmediata. En el entorno digital, el usuario no se limita a ser un espectador pasivo, sino que interactúa activamente con el anuncio (hacer clic, solicitar información, personalizar contenidos, reproducir vídeos o formalizar la compraventa en tiempo real). Por consiguiente, afirmar que «no es un medio completamente interactivo» es una premisa falsa, respondiendo a la pregunta de qué opción NO es una característica de la publicidad digital.\n\n**Ejemplo práctico:** En una campaña de publicidad en redes sociales o Google Ads de una tienda de comercio electrónico, el usuario hace clic en el anuncio, interactúa navegando por el catálogo, chatea con un asistente virtual y formaliza la compra al instante; además, la empresa mide el coste por clic (CPC) y el retorno de la inversión publicitaria (ROAS) en tiempo real para optimizar las pujas diariamente.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Qué es el Merchandising:",
+      "opciones": {
+        "a": "Una herramienta de comunicación",
+        "b": "Un tipo de marketing en el punto de venta",
+        "c": "Un tipo de comunicación que permite animar el producto, favorecer el tráfico de clientes dentro del punto de venta, crear ambiente, multiplicar los efectos de una campaña publicitaria y destacar el producto entre otros",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El merchandising constituye tanto una disciplina integral del marketing aplicado al punto de venta como una potente herramienta de comunicación comercial. Su objetivo fundamental es optimizar la presentación del producto en el establecimiento comercial para dinamizar las ventas, estimular el comportamiento de compra por impulso, orientar el flujo y circulación de clientes dentro de la tienda, crear una atmósfera atractiva y reforzar la imagen de marca, potenciando y multiplicando los efectos de las campañas publicitarias que el consumidor ha presenciado previamente en otros medios.\n\n**Ejemplo práctico:** En un hipermercado Carrefour o El Corte Inglés, la ubicación de una marca de café prémium en una cabecera de góndola destacada, acompañada de iluminación cálida focalizada, degustaciones in situ y cartelería promocional llamativa, aplica técnicas de merchandising que captan la atención del comprador y multiplican las ventas frente a su ubicación ordinaria en el lineal.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Qué es el marketing directo:",
+      "opciones": {
+        "a": "Cualquier forma de publicidad diseñada con la intención de influir sobre el consumidor en un establecimiento de libre servicio",
+        "b": "Un enfoque de contacto con el cliente, directo (sin intermediarios), personal y a distancia",
+        "c": "Las respuestas a y b son correctas",
+        "d": "Las respuestas a y b son falsas"
+      },
+      "explicacion": "El marketing directo se define como un sistema interactivo y medible de comercialización que permite contactar con clientes o clientes potenciales de forma individualizada, directa (prescindiendo de intermediarios comerciales físicos) y habitualmente a distancia (vía correo postal, teléfono, correo electrónico, aplicaciones de mensajería o plataformas web). La opción (a) describe la publicidad en el lugar de venta (PLV) en el comercio minorista de libre servicio, por lo que únicamente la opción (b) refleja con rigor y precisión el concepto de marketing directo.\n\n**Ejemplo práctico:** Una compañía aseguradora de automóviles como Línea Directa opera bajo el modelo de marketing directo contactando a los conductores por teléfono o correo electrónico para presentarles presupuestos personalizados de pólizas sin necesidad de contar con oficinas bancarias o agentes mediadores físicos intermediarios.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Qué son las ferias y exposiciones:",
+      "opciones": {
+        "a": "Una herramienta que puede situarse dentro del abanico de las relaciones públicas, y que tiene entidad propia",
+        "b": "Eventos organizados para la promoción de intercambios (de bienes y servicios e información), basados en la concentración física y temporal de oferentes de un sector o subsector de actividad y/o de oferentes de satisfactores de un área de necesidad concreta",
+        "c": "Las dos anteriores son correctas",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "Desde la perspectiva del marketing ferial y la comunicación comercial, las ferias y exposiciones son eventos organizados orientados a la promoción de intercambios mercantiles y flujos de información técnica o comercial. Se fundamentan en la concentración temporal y física de empresas oferentes pertenecientes a un sector o área de actividad concreta y de demandantes interesados en satisfacer necesidades específicas dentro de ese ámbito profesional o de consumo.\n\n**Ejemplo práctico:** El Mobile World Congress (MWC) celebrado en Barcelona o FITUR en Madrid constituyen ejemplos paradigmáticos de ferias: concentran durante unos días a miles de fabricantes, distribuidores, compradores institucionales y medios de comunicación en un único recinto para presentar novedades, establecer alianzas estratégicas y cerrar contratos internacionales de suministro.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La promoción de ventas puede dirigirse a:",
+      "opciones": {
+        "a": "El consumidor",
+        "b": "La fuerza de ventas",
+        "c": "El canal de distribución",
+        "d": "Las tres anteriores son correctas"
+      },
+      "explicacion": "Las promociones de ventas son incentivos a corto plazo diseñados para estimular una respuesta de compra más rápida o en mayor volumen de determinados bienes o servicios. Su ámbito de actuación no se restringe al comprador final, sino que abarca a todos los eslabones clave del proceso comercial: 1) el consumidor final (mediante descuentos, muestras gratuitas o 2x1), 2) el canal de distribución o intermediarios (descuentos por volumen, bonificaciones de stock o concursos de mayoristas) y 3) la fuerza de ventas interna (comisiones extraordinarias, premios por cumplimiento de cuotas o concursos comerciales).\n\n**Ejemplo práctico:** Para el lanzamiento de una nueva bebida isotónica, la marca implementa un cupón de 1 € de descuento para el consumidor en supermercados (promoción al consumidor), concede un 8% adicional de margen de beneficio a los minoristas que compren más de 50 cajas (promoción al canal) y gratifica con un viaje de fin de semana al comercial del equipo propio que consiga mayor número de puntos de venta nuevos (promoción a la fuerza de ventas).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cómo genera compras extra la promoción de ventas:",
+      "opciones": {
+        "a": "Disminuyendo las ventas de la competencia",
+        "b": "Atrayendo nuevos compradores (nuevos clientes para la empresa).",
+        "c": "Evitando las pruebas repetitivas",
+        "d": "Aumentando el consumo de otros productos de la competencia dentro del mercado, y por tanto aumentando las ventas totales dentro del sector"
+      },
+      "explicacion": "Uno de los mecanismos fundamentales a través del cual la promoción de ventas genera demanda incremental es la disminución del riesgo percibido de compra, lo que atrae a clientes no habituales o usuarios de marcas competidoras hacia la empresa. Al ofrecer incentivos económicos temporales, muestras o regalos directos, se induce al comprador indeciso a probar el producto por primera vez, atrayendo nuevos clientes e incrementando la base de compradores de la marca.\n\n**Ejemplo práctico:** Cuando Nespresso instala stands temporales en centros comerciales ofreciendo una degustación gratuita y un cupón de 10 € de descuento en la primera compra de cápsulas, logra atraer a consumidores que tomaban café tradicional de filtro o de marcas rivales, captándolos como nuevos clientes y generando un flujo de ventas incrementales para la empresa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Las relaciones públicas:",
+      "opciones": {
+        "a": "Son un tipo de publicidad en Internet",
+        "b": "Se dirigen a crear una recíproca corriente de comunicación, conocimiento y comprensión entre una institución pública o privada, o persona natural y sus públicos",
+        "c": "Son un tipo de comunicación que prácticamente no se utiliza a día de hoy",
+        "d": "Todas las anteriores son falsas."
+      },
+      "explicacion": "Las relaciones públicas (RRPP) se orientan a planificar y mantener procesos deliberados de comunicación bidireccional entre una organización (pública, privada o persona física) y sus diferentes públicos de interés (*stakeholders*: clientes, medios de comunicación, empleados, accionistas, administraciones y sociedad civil). Su meta estratégica es crear y consolidar una recíproca corriente de conocimiento, comprensión mutua, empatía y confianza, salvaguardando la reputación e imagen corporativa a largo plazo.\n\n**Ejemplo práctico:** Cuando una empresa multinacional como SEAT o Volkswagen organiza una rueda de prensa con periodistas del motor y autoridades medioambientales para presentar su plan de transición hacia fábricas de baterías sostenibles y cero emisiones, desarrolla una acción de relaciones públicas destinada a fortalecer la reputación corporativa y forjar una corriente de confianza y comprensión con la opinión pública.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

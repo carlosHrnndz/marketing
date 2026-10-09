@@ -1,0 +1,126 @@
+{
+  "unidad": 15,
+  "titulo": "Autoevaluación Unidad 15 - Redes Sociales y Social Media Marketing",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre los nuevos medios sociales y los usuarios es falsa:",
+      "opciones": {
+        "a": "La experiencia de los usuarios con las marcas a través de internet es la nueva forma de publicidad",
+        "b": "Los usuarios quieren que las marcas estén presentes en los medios sociales",
+        "c": "Los usuarios que tienen una experiencia en Internet con una marca no son simples espectadores pasivos, si no que se vuelven rápidamente una parte fundamental de la comunicación de la misma, y se convierten en sus defensores",
+        "d": "Todas las anteriores son verdaderas"
+      },
+      "explicacion": "La opción d es la correcta porque todas las afirmaciones expuestas (a, b y c) son rigurosamente verdaderas en el contexto del social media marketing. La experiencia directa del usuario con las marcas en el entorno digital se ha erigido en la nueva forma de prescripción y publicidad; los consumidores buscan e investigan activamente la presencia de las marcas en redes sociales; y los usuarios han dejado de ser meros espectadores pasivos para convertirse en participantes activos que generan contenido, difunden valoraciones y actúan como defensores o prescriptores de la marca.\n\n**Ejemplo práctico:** La comunidad de usuarios de GoPro en Instagram y YouTube no se limita a ver anuncios de la marca, sino que comparte sus propios vídeos grabados practicando deportes extremos, actuando como la principal fuerza publicitaria y defensora de la marca en la red.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Los nuevos medios sociales:",
+      "opciones": {
+        "a": "Son medios de comunicación social donde la información y en general el contenido es creado por los propios usuarios.",
+        "b": "Permiten un fácil uso y acceso mediante poderosas tecnologías de edición, publicación e intercambio.",
+        "c": "El medio social es un conjunto de plataformas digitales que disminuye el impacto del marketing \"boca a boca\".",
+        "d": "Las opciones a y b son verdaderas"
+      },
+      "explicacion": "Los nuevos medios sociales se caracterizan por ser plataformas participativas donde el contenido es generado, editado y compartido por los propios usuarios (User Generated Content - UGC), apoyándose en herramientas accesibles de publicación digital. La afirmación c es falsa porque los medios sociales no disminuyen el 'boca a boca', sino que lo amplifican a escala global y en tiempo real. Por tanto, la opción d es la respuesta correcta al ser verdaderas conjuntamente a y b.\n\n**Ejemplo práctico:** Plataformas como TikTok o TripAdvisor permiten a cualquier persona grabar un vídeo de una experiencia en un restaurante o publicar una reseña con fotos en cuestión de segundos, demostrando la facilidad de edición del usuario y multiplicando el alcance viral de las opiniones.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El impacto de los medios sociales a través de Internet es un campo que cambia rápidamente, del cual hay que tener una serie de implicaciones:",
+      "opciones": {
+        "a": "Compartir  y velocidad",
+        "b": "Actividades sin valor virtual",
+        "c": "Ubicuidad y presencia física",
+        "d": "Las opciones a y c son verdaderas"
+      },
+      "explicacion": "Las dos dinámicas fundamentales que definen el impacto y la velocidad de transformación de los medios sociales en Internet son la cultura de compartir ('sharing') y la velocidad instantánea de difusión. Los usuarios interactúan guiados por la voluntad de compartir información, emociones y experiencias personales, lo que sumado a la inmediatez de la red permite que cualquier mensaje o noticia adquiera escala viral en cuestión de minutos.\n\n**Ejemplo práctico:** Cuando una marca comete un desliz en una campaña o genera una iniciativa solidaria destacada, los usuarios comparten la publicación rápidamente en Twitter/X y WhatsApp, logrando que el mensaje se convierta en tendencia nacional en apenas unas horas.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de los siguientes NO es un medio social:",
+      "opciones": {
+        "a": "Redes sociales",
+        "b": "correo electrónico",
+        "c": "foros",
+        "d": "wikis"
+      },
+      "explicacion": "El correo electrónico (e-mail) es un medio de comunicación telemático punto a punto (de emisor a receptor o lista cerrada de destinatarios) surgido en los albores de Internet. A diferencia de las redes sociales, foros, blogs o wikis, el correo electrónico tradicional no constituye un medio social propiamente dicho, ya que carece por sí mismo de un entorno público y abierto de interacción comunitaria, muro colaborativo o creación colectiva de contenidos.\n\n**Ejemplo práctico:** Una empresa que envía un correo con una factura o una propuesta comercial realiza una comunicación privada unidireccional o bilateral estanca, mientras que si abre un hilo de debate en un foro o red social genera un espacio público y colaborativo de diálogo abierto a toda la comunidad.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los blogs:",
+      "opciones": {
+        "a": "Son medios sociales en los cuales los usuarios pueden crear, modificar o borrar un mismo texto que comparten",
+        "b": "Son contenidos generados por los usuarios, que se ordenan de forma cronológica, y con un espacio para los comentarios de otros usuarios",
+        "c": "Se trata de la simulación de mundos o entornos, denominados virtuales, en los que el hombre interacciona con la máquina u ordenador en entornos artificiales semejantes a la vida real",
+        "d": "Las opciones a y b son verdaderas"
+      },
+      "explicacion": "La definición técnica de un blog (o bitácora) es la de un sitio web o espacio digital con contenidos generados por el autor o usuarios, organizados en orden cronológico inverso (las entradas más recientes aparecen en la parte superior) y que incorpora un área de comentarios para habilitar la interacción de los lectores. La opción a corresponde a la definición de un wiki y la opción c a los entornos de realidad o mundos virtuales.\n\n**Ejemplo práctico:** Un blog de viajes corporativo como el de Skyscanner publica periódicamente artículos con guías de escapadas ordenadas por fecha de publicación, permitiendo a los viajeros dejar comentarios con preguntas o aportaciones al final de cada artículo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Hay tres tipos de redes sociales:",
+      "opciones": {
+        "a": "Generalistas, de producto, de empresa",
+        "b": "Generalistas, profesionales , especializadas",
+        "c": "Personales, de empresa, mixtas",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "En la clasificación y taxonomía del marketing digital y los medios sociales, las redes sociales se categorizan comúnmente en tres grandes grupos: 1) Generalistas u horizontales (abiertas a relaciones de amistad, ocio e interés general, como Facebook o Instagram); 2) Profesionales (centradas en el ámbito laboral, los negocios y el desarrollo de la carrera, como LinkedIn o Xing); y 3) Especializadas o verticales (enfocadas a un nicho, temática o afición concreta, como Goodreads en literatura, TripAdvisor en viajes o Strava en deporte).\n\n**Ejemplo práctico:** Un despacho de abogados difunde artículos técnicos y conecta con otros profesionales en LinkedIn (red profesional), comparte eventos corporativos en Instagram (red generalista) y participa en comunidades especializadas de juristas o foros sectoriales específicos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Facebook nos permite:",
+      "opciones": {
+        "a": "Hacer grandes campañas de publicidad pero con costes elevados",
+        "b": "Llegar al público que queremos y conectarlo con nuestra empresa.",
+        "c": "Crear una página de Facebook para nuestra empresa, marca, producto o servicio",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "Facebook ofrece herramientas integrales para la presencia corporativa: permite a las organizaciones crear una Página de Facebook ('Fan Page') para representar a la empresa, marca o servicio de forma oficial y gratuita, así como conectar directamente con el público objetivo mediante publicaciones y campañas publicitarias altamente segmentadas. La opción a es errónea porque una de las grandes fortalezas de Facebook Ads es permitir campañas con costes muy reducidos y escalables desde presupuestos muy modestos. Por ello, b y c son correctas.\n\n**Ejemplo práctico:** Una clínica veterinaria local crea su página en Facebook para publicar consejos de salud animal y lanza anuncios segmentados de 10 euros dirigidos exclusivamente a dueños de mascotas residentes en un código postal determinado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "¿Qué es Xing?",
+      "opciones": {
+        "a": "Una red social generalista",
+        "b": "Un wiki",
+        "c": "Una red social profesional",
+        "d": "Una red social especializada"
+      },
+      "explicacion": "Xing (fundada originalmente en Alemania bajo el nombre de openBC) es una red social profesional orientada a la gestión de contactos laborales, el networking empresarial y la selección de personal. Aunque LinkedIn tiene un alcance global mayor, Xing mantiene una posición histórica muy destacada como plataforma profesional de referencia en los países de habla alemana (Alemania, Austria y Suiza).\n\n**Ejemplo práctico:** Un consultor financiero en España que desea expandir sus servicios hacia clientes corporativos en Fráncfort o Zúrich mantiene actualizado su perfil profesional en Xing para ser localizado por directivos y reclutadores de dicha región europea.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Las redes sociales profesionales son beneficiosas para la empresa porque permiten:",
+      "opciones": {
+        "a": "Conseguir reuniones con posibles clientes, proveedores de servicio y expertos recomendados en una materia",
+        "b": "Conseguir nuevos conocimientos a través de debates con profesionales de ideas similares en grupos privados",
+        "c": "Anunciar y distribuir anuncios de empleo para encontrar a los candidatos más cualificados para la empresa",
+        "d": "Todas las anteriores"
+      },
+      "explicacion": "Las plataformas profesionales (como LinkedIn o Xing) generan múltiples beneficios estratégicos para las organizaciones: facilitan el contacto directo con tomadores de decisiones, proveedores y clientes potenciales ('social selling'); permiten el intercambio de conocimientos y mejores prácticas a través de grupos de debate sectoriales; y optimizan los procesos de reclutamiento de talento mediante la publicación segmentada de ofertas de empleo.\n\n**Ejemplo práctico:** El departamento de recursos humanos de una empresa de ciberseguridad utiliza LinkedIn tanto para publicar anuncios de empleo buscando perfiles técnicos altamente especializados como para interactuar en grupos de debate con expertos del sector y generar oportunidades comerciales B2B.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre las redes sociales especializadas NO es verdadera:",
+      "opciones": {
+        "a": "Son aquellas redes sociales que se centran en una temática",
+        "b": "Este tipo de redes tienen más usuarios que los otros tipos de redes sociales",
+        "c": "Pueden ser muy útiles para las empresas del sector, ya que el perfil de la gente que las utiliza está muy segmentado y demuestra un elevado interés en la temática sobre la cual versen",
+        "d": "Hay sobre prácticamente cualquier cosa que se nos pueda ocurrir"
+      },
+      "explicacion": "La afirmación b es falsa y por tanto la respuesta correcta a la pregunta: al ser redes sociales de nicho o verticales centradas en una afición o temática específica (como el coleccionismo, el deporte de aventura o la ornitología), cuentan por definición con una comunidad de usuarios significativamente más reducida que las redes generalistas masivas (como Facebook, Instagram o TikTok). No obstante, para las empresas del sector su valor cualitativo y su nivel de 'engagement' son sumamente elevados.\n\n**Ejemplo práctico:** Una red social especializada en amantes del vino como Vivino tiene muchos menos usuarios en términos absolutos que Facebook, pero para una bodega de vinos representa un canal de prescripción y valoración inmejorable al dirigirse exclusivamente a un público apasionado por el producto.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

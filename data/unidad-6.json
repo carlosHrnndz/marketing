@@ -1,0 +1,126 @@
+{
+  "unidad": 6,
+  "titulo": "Autoevaluación Unidad 6 - Política de Producto, Marca y Envase",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de los siguientes aspectos no debe tener en cuenta una empresa al realizar un producto:",
+      "opciones": {
+        "a": "Las expectativas de los consumidores",
+        "b": "Su capacidad tecnológica",
+        "c": "Su potencial comercial",
+        "d": "Las ventas de la competencia"
+      },
+      "explicacion": "Al concebir, diseñar y desarrollar un producto, la empresa debe orientarse fundamentalmente hacia el mercado y sus capacidades internas: debe conocer las necesidades y expectativas de los consumidores, disponer de la capacidad tecnológica y productiva necesaria, y evaluar el potencial comercial y de rentabilidad del proyecto. En cambio, las cifras puntuales de ventas de la competencia representan un indicador coyuntural externo que no debe dictar el diseño intrínseco del producto propio, ya que focalizarse en ellas puede conducir a la mera imitación sin atender las demandas no cubiertas de los clientes.\n\n**Ejemplo práctico:** Cuando Apple desarrolló el iPad, no basó su diseño en las bajas ventas que tenían entonces las tablets orientadas a empresas de otros fabricantes, sino en las expectativas de los usuarios sobre consumo multimedia y en su propia tecnología táctil e interfaz intuitiva.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes no es una dimensión de un producto según Kotler:",
+      "opciones": {
+        "a": "Beneficio básico",
+        "b": "Producto básico",
+        "c": "Producto esperado",
+        "d": "Producto mejorado"
+      },
+      "explicacion": "Philip Kotler categorizó cinco niveles o dimensiones concéntricas en la oferta de un producto: 1) Beneficio básico (el servicio o beneficio fundamental que adquiere el cliente), 2) Producto genérico o básico (la versión elemental del bien), 3) Producto esperado (conjunto de atributos y condiciones que los compradores normalmente esperan), 4) Producto aumentado (atributos que exceden las expectativas y diferencian la oferta de la competencia), y 5) Producto potencial (todas las posibles mejoras y transformaciones futuras). El concepto «producto mejorado» no forma parte de esta clasificación conceptual canónica de Kotler.\n\n**Ejemplo práctico:** En la industria hotelera, Kotler clasifica la habitación en beneficio básico (descanso), producto básico (cama y toallas), producto esperado (limpieza y wifi), producto aumentado (bombones de bienvenida y check-out tardío gratuito) y producto potencial (personalización automatizada de la habitación según las preferencias del huésped).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Según Kotler, podemos distinguir cinco dimensiones de los productos. A qué se refiere la dimensión del \"producto básico\":",
+      "opciones": {
+        "a": "Son las características del producto genérico",
+        "b": "Ninguna de las anteriores es correcta",
+        "c": "Son las mejoras e incorporaciones que el producto puede añadir en el futuro",
+        "d": "Son las características, accesorios o servicios añadidos que nos permiten diferenciar el producto"
+      },
+      "explicacion": "En la jerarquía de niveles de producto de Kotler, el «producto básico» (o producto genérico) representa la materialización física elemental del beneficio básico. Es decir, consiste en el conjunto de características mínimas e indispensables que configuran el producto genérico para que pueda cumplir su función esencial sin incluir aún ningún servicio complementario, diferenciador o añadido.\n\n**Ejemplo práctico:** En un servicio de transporte aéreo, si el beneficio básico es trasladarse de una ciudad a otra, el producto básico consiste estrictamente en disponer de un asiento asignado dentro del avión durante el vuelo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Si un ordenador está preparado para aumentar fácilmente su memoria, se trata de una dimensión de producto:",
+      "opciones": {
+        "a": "Producto potencial",
+        "b": "Producto básico",
+        "c": "Beneficio básico",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El «producto potencial» abarca todas las posibles adiciones, mejoras, evoluciones y transformaciones que el producto podría incorporar o desarrollar en el futuro para seguir satisfaciendo y deleitando a los clientes. La capacidad de un ordenador para ampliar fácilmente su memoria RAM o capacidad de almacenamiento en el futuro constituye una cualidad potencial que extiende el ciclo de vida y el valor futuro del producto para el usuario.\n\n**Ejemplo práctico:** Un portátil diseñado con ranuras de expansión accesibles y arquitectura modular que permite al usuario duplicar la memoria RAM o cambiar la tarjeta gráfica dentro de dos años representa un producto potencial que anticipa las necesidades futuras del usuario profesional.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "A la hora de elegir un nombre de marca, las características deseables que es conveniente que posea son:",
+      "opciones": {
+        "a": "Registrable",
+        "b": "Corta",
+        "c": "Fácil de pronunciar",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El nombre de marca es uno de los activos intangibles más valiosos de la empresa. Para que cumpla eficazmente su función de identificación y diferenciación, es conveniente que sea legalmente registrable (para gozar de protección jurídica frente a imitadores), corto (para facilitar su retención y uso en soportes digitales y físicos) y fácil de pronunciar (para favorecer el boca a boca y la comunicación comercial en múltiples mercados e idiomas).\n\n**Ejemplo práctico:** Marcas como Zara, Lego, Sony o Nike son ejemplos paradigmáticos: son términos cortos de dos sílabas, sencillos de pronunciar en prácticamente cualquier idioma del mundo y con plena capacidad de registro como marca comercial.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El nombre de una marca es mejor que no sea:",
+      "opciones": {
+        "a": "Fácil de escribir",
+        "b": "Todas las anteriores son correctas",
+        "c": "Evocadora",
+        "d": "Fácil de olvidar"
+      },
+      "explicacion": "El objetivo primordial de una marca es lograr la máxima notoriedad, recuerdo y reconocimiento en la mente del consumidor meta. Por esta razón, la cualidad más perjudicial que una empresa debe evitar en el naming es que sea «fácil de olvidar». Por el contrario, un nombre debe ser memorable, distintivo, fácil de escribir y evocador de sensaciones o beneficios positivos asociados a la propuesta de valor.\n\n**Ejemplo práctico:** Si una empresa de bebidas energéticas eligiera un nombre genérico, complejo y frío como «Bebida Estimulante Compuesta Tipo 4», sería inmediatamente olvidado en el punto de venta; por ello, marcas como «Red Bull» o «Monster» apuestan por nombres impactantes, altamente memorables y cargados de dinamismo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En la estrategia de marca única:",
+      "opciones": {
+        "a": "La empresa vende un solo producto",
+        "b": "Ninguna de las anteriores es correcta",
+        "c": "La empresa vende todos sus productos bajo una sola marca",
+        "d": "La empresa tiene productos muy diferentes entre sí"
+      },
+      "explicacion": "La estrategia de marca única (también conocida como marca paraguas o corporativa) consiste en comercializar todos los productos de la empresa, incluso pertenecientes a distintas líneas o categorías, bajo una misma e idéntica marca comercial. Esta estrategia permite rentabilizar las inversiones publicitarias y transferir el prestigio, notoriedad y confianza de la marca a todos los nuevos lanzamientos de la compañía.\n\n**Ejemplo práctico:** Philips comercializa bajo su única marca tanto televisores y equipos de sonido como maquinillas de afeitar y bombillas LED; de igual forma, Apple ampara bajo su marca corporativa el iPhone, iPad, Mac y Apple Watch.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las marcas de distribuidor:",
+      "opciones": {
+        "a": "Son las denominadas marcas blancas",
+        "b": "Son marcas privadas propiedad del distribuidor",
+        "c": "Todas las anteriores son correctas",
+        "d": "Son marcas propias del distribuidor"
+      },
+      "explicacion": "Las marcas de distribuidor (MDD) reúnen todas las características mencionadas: son comúnmente denominadas «marcas blancas» en el lenguaje coloquial del mercado, constituyen marcas privadas cuya titularidad jurídica pertenece al distribuidor (mayorista o minorista), y son las marcas propias con las que las cadenas de distribución comercializan productos fabricados normalmente por terceros bajo sus propias especificaciones de calidad y precio.\n\n**Ejemplo práctico:** Marcas como Hacendado y Bosque Verde en Mercadona, o Auchan en Alcampo, son marcas propiedad exclusiva de la empresa distribuidora, diseñadas para fidelizar al cliente a sus establecimientos y ofrecer precios competitivos.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes no es una función del envase:",
+      "opciones": {
+        "a": "Vender el producto",
+        "b": "Conservar el producto",
+        "c": "Mojar el producto",
+        "d": "Facilitar el transporte del producto"
+      },
+      "explicacion": "El envase (packaging) desempeña funciones técnicas cruciales (contener el producto, conservarlo en condiciones óptimas y facilitar su almacenamiento y transporte logístico) y funciones comerciales o de marketing (atraer la atención en el lineal, comunicar información sobre el producto y actuar como un «vendedor silencioso»). Humedecer o mojar el producto no es en absoluto una función del envase; por el contrario, el envase suele diseñarse como una barrera impermeable para evitar que la humedad externa deteriore el contenido o que el líquido interior se derrame.\n\n**Ejemplo práctico:** El envase Tetra Pak de un zumo o de la leche protege el líquido de la luz, el oxígeno y la humedad exterior, garantizando su conservación estéril durante meses sin necesidad de conservantes artificiales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Para seleccionar el tipo de envase tenemos, cuál de los siguientes factores no debe considerarse:",
+      "opciones": {
+        "a": "El coste del envase",
+        "b": "El diseño del envase",
+        "c": "Aspectos medioambientales",
+        "d": "Todas las anteriores deben tenerse en cuenta"
+      },
+      "explicacion": "La selección del tipo de envase es una decisión estratégica multidisciplinar que exige ponderar simultáneamente múltiples factores determinantes: el coste del envase (para no encarecer excesivamente el precio final ni reducir márgenes), el diseño del envase (forma, ergonomía, facilidad de apertura y atractivo visual en el punto de venta), y los aspectos medioambientales (utilización de materiales reciclables o biodegradables, reducción de peso y cumplimiento de las normativas de sostenibilidad y economía circular).\n\n**Ejemplo práctico:** Una marca de agua mineral evalúa sustituir sus botellas tradicionales por envases de plástico 100% reciclado (rPET) o cartón reciclable, analizando el incremento en el coste por unidad, la ergonomía para el consumidor y la mejora en la percepción de marca ecológica.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

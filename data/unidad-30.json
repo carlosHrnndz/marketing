@@ -1,0 +1,126 @@
+{
+  "unidad": 30,
+  "titulo": "Autoevaluación Unidad 30 - Dirección de Ventas y Gestión del Equipo Comercial",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La función de venta hace referencia a:",
+      "opciones": {
+        "a": "Todo el proceso comercial que incluye una organización de personas y medios para conseguir que el bien que produce o comercializa sea vendido en el mercado",
+        "b": "El proceso de marketing que incluye una organización de personas y medios para conseguir que el bien que produce o comercializa salga de los almacenes de la empresa",
+        "c": "Todo el proceso logístico que incluye una organización de personas y medios para conseguir que el bien que produce o comercializa tenga los mínimos costes de almacenaje y distribución",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La función de ventas constituye la vertiente operativa y ejecutiva del proceso comercial. Engloba el conjunto de recursos humanos, técnicos y organizativos coordinados por la empresa para entrar en contacto directo con los clientes potenciales y formales, culminando la transacción económica mediante la venta de los productos o servicios ofrecidos.\n\n**Ejemplo práctico:** En una empresa de soluciones tecnológicas de ciberseguridad, la función de ventas organiza a su red de ejecutivos de cuentas y consultores preventa para identificar necesidades en clientes corporativos, presentar ofertas personalizadas y cerrar la contratación de licencias.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Los objetivos de ventas:",
+      "opciones": {
+        "a": "Son específicos para cada vendedor",
+        "b": "Deben tener en cuenta el potencial del territorio asignado",
+        "c": "Se dividen por períodos de tiempo y por cada uno de los productos de la empresa",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Los objetivos de ventas deben fijarse de manera rigurosa y multidimensional: asignándose de forma individual a cada vendedor para permitir el seguimiento y la motivación, ponderando el potencial de mercado y la carga de trabajo de cada territorio o zona asignada, y desglosándose en horizontes temporales (mensuales, trimestrales) y por líneas de producto específicas.\n\n**Ejemplo práctico:** Una empresa de distribución de bebidas fija para el comercial de la zona turística costera un objetivo trimestral de 100.000 € en cervezas y refrescos, teniendo en cuenta la alta demanda estacional de su territorio frente al objetivo asignado a zonas de interior.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La formación de los vendedores:",
+      "opciones": {
+        "a": "No es necesaria, pero si se realiza tiene un impacto positivo",
+        "b": "Es sólo para los candidatos reclutados, no para los vendedores que ya están en la empresa",
+        "c": "Se concreta en cursos específicos y en las propias reuniones de ventas",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La capacitación de la fuerza de ventas no es un hecho aislado del reclutamiento inicial, sino un proceso formativo continuo que abarca tanto a los nuevos comerciales como al personal consolidado. Se instrumenta mediante cursos formativos específicos (habilidades de cierre, manejo de objeciones, novedades técnicas) y se refuerza de forma constante en las reuniones periódicas de ventas.\n\n**Ejemplo práctico:** Una entidad bancaria organiza un curso monográfico sobre las características técnicas de un nuevo fondo de inversión sostenible y aprovecha la reunión semanal de ventas para resolver dudas y realizar simulaciones de venta entre los gestores comerciales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre la figura del vendedor NO es correcta:",
+      "opciones": {
+        "a": "Es un profesional que actúa de enlace entre la empresa y el mercado",
+        "b": "Debe estar preparado para resolver y satisfacer las necesidades de sus clientes",
+        "c": "Debe actuar siempre en beneficio de sus clientes, aunque sea en detrimento de la empresa",
+        "d": "Debe planificar previamente la visita"
+      },
+      "explicacion": "El vendedor profesional actúa bajo el principio de negociación integrativa y beneficio mutuo (ganar-ganar). Aunque su misión es satisfacer las necesidades del cliente, nunca debe actuar en detrimento de los márgenes, políticas o sostenibilidad económica de su propia empresa. Su función consiste en armonizar los intereses de ambas partes.\n\n**Ejemplo práctico:** Ante un cliente que exige un 50% de descuento que dejaría a la empresa en pérdidas, el vendedor no cede en el precio, sino que propone facilidades de financiación y un paquete de servicios posventa adicionales para satisfacer al cliente protegiendo la rentabilidad empresarial.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La técnica AIDDA está muy extendida en el mundo de las ventas. Responde al acrónimo de:",
+      "opciones": {
+        "a": "Atención, Interés, Detalle, Discreción y Acción",
+        "b": "Aceptación, Interés, Discreción, Deseo y Actitud",
+        "c": "Análisis, Interés, Demostración, Discreción y Análisis de nuevo",
+        "d": "Atención, Interés, Demostración, Deseo y Acción"
+      },
+      "explicacion": "El modelo AIDDA es un método clásico de estructuración de la venta personal que describe las fases psicológicas por las que pasa el cliente durante el proceso: Atención (captar el interés inicial), Interés (focalizar la necesidad), Demostración (probar de forma tangible el valor y funcionamiento del producto), Deseo (estimular el anhelo de posesión) y Acción (conducir al cierre del pedido).\n\n**Ejemplo práctico:** Un vendedor de robots de cocina capta la Atención en una feria con un olor atractivo, despierta el Interés mostrando el ahorro de tiempo, realiza una Demostración cocinando un plato en tres minutos, genera el Deseo de tenerlo en casa y cierra con la Acción ofreciendo una promoción de lanzamiento.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Para que las funciones de marketing y ventas en una empresa funcionen bien y se saque el máximo rendimiento:",
+      "opciones": {
+        "a": "La función de marketing debe depender de ventas",
+        "b": "El área de ventas debe depender de marketing",
+        "c": "Las funciones de marketing y ventas deben estar integradas",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "En la gestión empresarial contemporánea se supera la clásica rivalidad funcional mediante la integración o alineación estratégica de marketing y ventas (concepto conocido como 'smarketing'). La integración asegura que las estrategias de posicionamiento y captación de demanda diseñadas por marketing se trasladen de forma coherente a la interacción directa y cierre de operaciones de la fuerza de ventas.\n\n**Ejemplo práctico:** En una empresa B2B de software, marketing nutre con contenidos relevantes y califica leads digitales (MQL), los cuales transfiere de forma inmediata al equipo de ventas (SQL) con información precisa sobre el comportamiento web del cliente para maximizar la tasa de conversión.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La figura del director de ventas:",
+      "opciones": {
+        "a": "El director de ventas es, ante todo, un administrador",
+        "b": "La experiencia en ventas, ayuda a tener una visión real de la problemática de los equipos de ventas (es una condición necesaria) pero no es una garantía para el éxito como directivo (pero no suficiente)",
+        "c": "El director de ventas debe asumir responsabilidades o funciones secuenciales de planificación, organización, dirección y control.",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La dirección de ventas exige un perfil gerencial completo: el director actúa como administrador riguroso de recursos y procesos, ejecuta las fases del proceso administrativo clásico (planificar, organizar, dirigir y controlar) y, si bien la experiencia comercial previa aporta conocimiento indispensable del terreno (condición necesaria), no basta por sí sola (no suficiente) sin competencias estratégicas y de gestión de personas.\n\n**Ejemplo práctico:** Una empresa farmacéutica promociona a su comercial estrella a director de ventas; el nuevo directivo debe dejar de lado el rol de visitador individual para asumir la asignación de presupuestos regionales, la motivación de 25 delegados y el análisis de desviaciones de cuota.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de las siguientes opciones NO es una función clave del director de ventas:",
+      "opciones": {
+        "a": "Definir, diseñar e implantar las estrategias de venta de la compañía.",
+        "b": "Proponer y adecuar el tamaño de la fuerza de ventas.",
+        "c": "Elaborar el marketing mix de los productos que vende su equipo",
+        "d": "Dirigir a la fuerza de ventas, reclutándola, entrenándola y motivándola, para obtener su mejor y mayor rendimiento."
+      },
+      "explicacion": "El diseño del marketing mix corporativo (definición de características del producto, política de precios, estrategia de distribución y comunicación global) es responsabilidad del Departamento de Marketing y la Dirección General. El Director de Ventas participa e implementa la estrategia comercial y gestiona el equipo humano, pero no elabora de forma unilateral el marketing mix.\n\n**Ejemplo práctico:** En Danone, el Director de Marketing establece el packaging, precio de venta al público sugerido y campañas de comunicación de un nuevo yogur vegetal, mientras que el Director de Ventas diseña los incentivos del equipo comercial para negociar la implantación del producto en los lineales de los supermercados.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuando el director de ventas contrata a un nuevo vendedor, debe conseguir que éste desarrolle ciertas técnicas, para lo cual NUNCA debe hacer:",
+      "opciones": {
+        "a": "Ayudarle a que desarrolle todo su potencial",
+        "b": "No dedicar tiempo a acompañarle ni comunicarse frecuentemente para que el vendedor se pueda desarrollar de forma independiente.",
+        "c": "Reconocer y alabar el trabajo bien hecho de los vendedores.",
+        "d": "Evaluar los resultados alcanzados."
+      },
+      "explicacion": "Durante la incorporación y formación de un vendedor novato, la dirección de ventas debe evitar a toda costa el aislamiento y la falta de apoyo. Desentenderse del nuevo empleado sin acompañarle en visitas ni comunicarse con él con el pretexto de la 'independencia' provoca desorientación, frustración, errores ante los clientes y un abandono prematuro del puesto.\n\n**Ejemplo práctico:** Un director de ventas acompaña a un nuevo delegado comercial durante sus primeras dos semanas en visitas reales con clientes clave, observando sus argumentos y ofreciéndole retroalimentación constructiva al finalizar cada reunión para afianzar sus competencias.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En la actualidad está surgiendo un nuevo tipo de director de ventas caracterizado por sus dotes de:",
+      "opciones": {
+        "a": "Liderazgo",
+        "b": "Supervisión",
+        "c": "Control",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El rol moderno del director de ventas ha transitado desde la figura del capataz o supervisor tradicional, enfocado en la vigilancia y el control estricto de cifras, hacia la de un líder transformacional y facilitador que inspira, motiva, entrena (coaching) y empodera a su equipo comercial para alcanzar el alto rendimiento.\n\n**Ejemplo práctico:** Un director comercial lidera manteniendo sesiones individuales de mentoring para identificar puntos de mejora emocional y estratégica de sus vendedores, ayudándoles a superar bloqueos en grandes cuentas en lugar de limitarse a fiscalizar el número de llamadas diarias.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

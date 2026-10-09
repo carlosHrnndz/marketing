@@ -1,0 +1,126 @@
+{
+  "unidad": 10,
+  "titulo": "Autoevaluación Unidad 10 - El Plan de Marketing Estratégico y Operativo",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Marca la opción que consideres verdadera:",
+      "opciones": {
+        "a": "El plan de Marketing es la herramienta básica de gestión que debe utilizar toda empresa, orientada al mercado, que quiera ser competitiva",
+        "b": "Con un plan de Marketing nunca sabremos cómo hemos alcanzado los resultados de nuestra empresa, ya que distorsiona la información original",
+        "c": "El plan de Marketing es una herramienta costosa y, por tanto, en la práctica sólo puede ser puesta en marcha por grandes empresas con muchos recursos financieros",
+        "d": "El plan de Marketing, para ser eficaz, debe contemplar un horizonte temporal de tres meses"
+      },
+      "explicacion": "El plan de marketing es la herramienta básica e insustituible de gestión estratégica y operativa para cualquier organización que aspire a mantener su competitividad en un entorno de mercado dinámico. Permite articular la visión estratégica de la empresa con las demandas reales de los clientes, asignando de manera eficiente los recursos humanos y económicos, coordinando las actividades del departamento comercial y mitigando la improvisación y la incertidumbre.\n\n**Ejemplo práctico:** Una empresa emergente de base tecnológica (startup) que desarrolla soluciones de telemedicina formula su plan de marketing para identificar los segmentos de clínicas privadas con mayor disposición al pago, definir una estrategia de precios por suscripción escalonada y calendarizar sus acciones comerciales, logrando captar clientes de forma rentable y previsible.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La puesta a punto de un plan de marketing se apoya en dos principios básicos:",
+      "opciones": {
+        "a": "La rapidez en su elaboración y un máximo de tres personas implicadas en su redacción para evitar distorsionar el mensaje.",
+        "b": "Su concepción secuencial y la existencia de un control continuo de los resultados obtenidos a lo largo de la ejecución del plan.",
+        "c": "Facilitar el avance progresivo hacia la consecución de los objetivos, pero impedir el control de la gestión.",
+        "d": "El análisis de los competidores y el análisis interno de la empresa"
+      },
+      "explicacion": "La metodología de elaboración e implantación de un plan de marketing reposa sobre dos principios cardinales: 1) la concepción secuencial (cada fase es consecuencia lógica y necesaria de la anterior: análisis de situación -> diagnóstico DAFO -> fijación de objetivos -> formulación de estrategias -> diseño de planes de acción tácticos y presupuestación), y 2) la existencia de un control continuo de los resultados obtenidos a lo largo de la ejecución del plan, lo que permite monitorizar las desviaciones respecto a las previsiones y ejecutar acciones correctoras inmediatas.\n\n**Ejemplo práctico:** Una cadena hotelera sigue rigurosamente la secuencia al no definir sus campañas de promoción hasta haber concluido el análisis de la ocupación turística del ejercicio precedente; asimismo, establece cuadros de mando mensuales para monitorizar las reservas por canal y rectificar promociones si el ritmo de ventas no alcanza las metas presupuestadas.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Marca la opción que consideres verdadera sobre la caracterización del plan de marketing:",
+      "opciones": {
+        "a": "Es un documento escrito, con un contenido sistematizado y estructura, pero que no entra a definir los campos de responsabilidad de las personas",
+        "b": "La información que proporciona el plan de Marketing es aprovechada principalmente por la contabilidad de la empresa",
+        "c": "Es un instrumento de gestión fácilmente realizable, por lo que suele ser responsabilidad del personal de inferior categoría",
+        "d": "Se puede considerar que el plan de Marketing constituye un seguro contra el riesgo comercial, inherente a la mayor parte de las decisiones comerciales y de Marketing"
+      },
+      "explicacion": "Toda decisión comercial y de marketing se adopta en entornos marcados por la incertidumbre económica, la volatilidad de la demanda y la presión de la competencia. El plan de marketing no elimina totalmente la incertidumbre del mercado, pero actúa como un auténtico «seguro contra el riesgo comercial» al fundamentar las decisiones en análisis rigurosos de datos empíricos, prever escenarios contingentes, coordinar los recursos organizativos y minimizar la probabilidad de fracaso o dispersión de esfuerzos.\n\n**Ejemplo práctico:** Al planificar la expansión de una cadena de cafeterías especializadas a una nueva comunidad autónoma, el plan de marketing evalúa el tráfico peatonal, la renta disponible y los costes de suministro, evitando que la empresa abra locales a ciegas en ubicaciones deficitarias y reduciendo al mínimo la exposición a pérdidas de capital.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Marca la opción que consideres falsa sobre los conceptos de misión y visión:",
+      "opciones": {
+        "a": "La visión es una herramienta que ayuda a la organización a concentrarse en el futuro, trabajando con un plazo de tres a seis meses",
+        "b": "La visión se desarrolla a través de un proceso de \"imaginación\" que describe o visualiza una situación ideal en el futuro y que no existe en la actualidad",
+        "c": "La visión puede usarse como una herramienta gerencial para comunicar dónde deseamos estar o a dónde queremos llegar en el futuro, y para seleccionar oportunidades o áreas de mejora",
+        "d": "La misión es la concreción de la visión pero en un plazo más corto desde el punto de vista temporal y cuya ejecución (de la misión) llevará a la consecución de la visión establecida. Es por lo tanto la definición para el corto y medio plazo del \"para qué está nuestra empresa en el mercado\", del \"qué pretende hacer\" y del \"cómo queremos ser reconocidos\""
+      },
+      "explicacion": "La visión estratégica define la imagen mental del estado futuro ideal que la organización aspira a alcanzar en el largo plazo (típicamente en horizontes de 5 a 10 años o más), actuando como brújula inspiradora para la dirección corporativa. Afirmar que la visión trabaja con un horizonte temporal de «tres a seis meses» es conceptualmente falso, ya que ese plazo tan reducido corresponde a la programación operativa o táctica de corto plazo, no a la visión estratégica institucional.\n\n**Ejemplo práctico:** La visión estratégica de Tesla de «acelerar la transición del mundo hacia la energía sostenible» es una aspiración de largo alcance formulada para décadas, mientras que incrementar en un 5% las entregas del Modelo Y en el mercado europeo durante el segundo trimestre constituye un objetivo operativo a corto plazo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El pensamiento estratégico suele considerar tres niveles básicos. Cuál de los siguientes no es uno de estos tres niveles básicos:",
+      "opciones": {
+        "a": "Las estrategias corporativas o de empresa",
+        "b": "Las estrategias de negocio o de división",
+        "c": "Las estrategias funcionales",
+        "d": "Las estrategias de mercado"
+      },
+      "explicacion": "La teoría de la dirección estratégica (consolidada por autores clásicos como Igor Ansoff y Michael Porter) categoriza el pensamiento y la toma de decisiones estratégicas en tres niveles jerárquicos fundamentales: 1) Las estrategias corporativas o de empresa (definen el campo de actividad global y en qué negocios debe participar la compañía), 2) Las estrategias de negocio o de división (establecen la estrategia competitiva específica para cada unidad estratégica de negocio) y 3) Las estrategias funcionales (optimizan la asignación de recursos en áreas operativas como marketing, finanzas, operaciones o I+D). La categoría «estrategias de mercado» no constituye un nivel jerárquico autónomo dentro de este esquema tridimensional formal.\n\n**Ejemplo práctico:** En el Grupo Inditex, la estrategia corporativa decide la diversificación en moda joven y hogar; la estrategia de negocio define cómo Zara compite mediante moda rápida y alta rotación en su segmento; y la estrategia funcional de marketing diseña la política de precios y el escaparate digital de cada enseña. «Estrategias de mercado» no constituye un nivel jerárquico independiente.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones no es una característica que deben cumplir los objetivos:",
+      "opciones": {
+        "a": "Preciso. El objetivo debe ser interpretado sin género de duda por todos los miembros de la empresa implicados en su consecución",
+        "b": "Medible. El objetivo debe fijarse en términos cuantitativos y medibles",
+        "c": "Retador pero posible. El objetivo debe constituir un reto para las personas que lo asumen como propio",
+        "d": "Todas las anteriores son características que deben cumplir los objetivos"
+      },
+      "explicacion": "La formulación eficaz de objetivos en dirección de marketing exige que estos cumplan criterios SMART y principios directivos fundamentales: deben ser precisos (claros y sin ambigüedad en su enunciado para que sean interpretados sin género de duda por todos los implicados), medibles (fijados en términos cuantitativos para posibilitar el control objetivo de su consecución mediante KPIs) y retadores pero posibles (constituyendo un reto motivador para los equipos que los asumen como propios, sin resultar inalcanzables). Por consiguiente, todas las alternativas propuestas representan características que deben cumplir los objetivos de forma inexcusable.\n\n**Ejemplo práctico:** Un objetivo de marketing bien formulado no dice vagamente «vender más», sino: «Alcanzar una cuota de mercado del 18% en el segmento de yogures proteicos en España durante el ejercicio 2024, aumentando la facturación neta en un 12%»: es preciso, medible cuantitativamente y retador pero viable para el equipo comercial.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el plan de marketing es falsa:",
+      "opciones": {
+        "a": "Debe materializarse en un soporte físico en el que recoja todos sus contenidos de forma estructurada",
+        "b": "Debe poder ser presentado, analizado, sancionado por la dirección general y puesto en práctica por los correspondientes órganos ejecutivos",
+        "c": "Debe tener un contenido amplio, y debe cubrir varios períodos sin determinar el horizonte temporal de los objetivos",
+        "d": "Debe definir claramente los campos de responsabilidad y establece procedimientos de control"
+      },
+      "explicacion": "Un principio ineludible de cualquier plan de marketing es la definición temporal estricta de sus metas y programas (*time-bound*). Afirmar que el plan «debe cubrir varios períodos sin determinar el horizonte temporal de los objetivos» es falso, dado que un objetivo carente de plazo temporal de ejecución es completamente inoperante, imposibilita la programación presupuestaria y anula cualquier procedimiento de control y exigencia de responsabilidades.\n\n**Ejemplo práctico:** Si un plan de marketing para una marca de bebidas energéticas planteara «conseguir un millón de usuarios registrados» sin especificar si debe lograrse en 6 meses, 2 años o una década, los directores de producto y finanzas no podrían dimensionar los recursos económicos ni evaluar si el desempeño del equipo comercial fue satisfactorio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Un rasgo característico de un plan de Marketing es la sistematización y estructuración de su contenido, con lo cual es falsa una de las siguientes afirmaciones:",
+      "opciones": {
+        "a": "Parte de la realización de análisis y estudios al objeto de describir la situación del pasado y del presente para, basándose en ella, y como consecuencia del análisis dinámico del mercado, deducir las oportunidades y problemas que se le puedan presentar a la empresa",
+        "b": "Señala las estrategias de Marketing más adecuadas para aprovechar las oportunidades del mercado, independientemente de si están o no en consonancia con la estrategia general de la empresa",
+        "c": "Detalla los medios de acción que, siendo consecuentes con la estrategia elegida, permitirán el cumplimiento de los objetivos propuestos en el plazo previsto",
+        "d": "Traduce los objetivos y planes de acción en términos de costes y resultados"
+      },
+      "explicacion": "Las estrategias funcionales de marketing jamás pueden operar de manera autónoma o disociada de las directrices corporativas; deben estar rigurosamente alineadas y subordinadas a la estrategia general y a la misión de la empresa. Afirmar que se eligen estrategias de marketing «independientemente de si están o no en consonancia con la estrategia general de la empresa» es falso, pues rompería el principio de coherencia estratégica corporativa y generaría graves contradicciones en el posicionamiento de la firma.\n\n**Ejemplo práctico:** Si la estrategia corporativa de una marca de lujo como Hermès o Rolex se basa en la exclusividad, la artesanía y el precio premium, el departamento de marketing no puede implementar de forma independiente una estrategia de descuentos masivos o venta en hipermercados para ganar cuota rápida, ya que destruiría el posicionamiento de marca de la matriz.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el PME (Plan de Marketing Estratégico) es falsa:",
+      "opciones": {
+        "a": "El PME debe ser elaborado por la Dirección General de la empresa, y posteriormente el departamento de Marketing será el encargado de que se lleva a cabo",
+        "b": "El PME debe asociarse con el desarrollo del plan de negocio",
+        "c": "El PME seguirá una estructura basada en el desarrollo dado al analizar el Marketing estratégico y que respondía a la secuencia misión, definición del negocio, análisis estratégico (interno y externo), definición de estrategias de Marketing, segmentación y posicionamiento",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El Plan de Marketing Estratégico (PME) es una responsabilidad técnica y metodológica directa del departamento o dirección de Marketing, que cuenta con los especialistas, los datos de mercado y las herramientas analíticas para su diseño. La Dirección General interviene para supervisar, validar, alinear y aprobar el plan en conjunción con el plan de negocio corporativo, pero no lo elabora de forma aislada para luego simplemente ordenar su ejecución al departamento comercial. Por ello, la afirmación (a) es falsa.\n\n**Ejemplo práctico:** En una multinacional de telecomunicaciones como Telefónica, el Director de Marketing y su equipo de inteligencia competitiva investigan el mercado, segmentan la demanda de fibra y 5G y diseñan la propuesta estratégica; posteriormente la presentan al Comité de Dirección y al CEO para su validación, aprobación presupuestaria y alineación estratégica global.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el PAM (Plan Anual de Marketing-mix) es falsa:",
+      "opciones": {
+        "a": "Toma como referencia fundamental el plan de Marketing estratégico",
+        "b": "Se basa en los planes de Marketing-mix de años anteriores, salvo en el caso del lanzamiento de un nuevo producto o negocio, donde predominarán los aspectos estratégicos",
+        "c": "Se trata de un enfoque intermedio que integra en un único documento el PME (Plan de Marketing Estratégico) y el PMI (Plan de Marketing integral)",
+        "d": "Muchas veces es denominado simplemente plan de Marketing"
+      },
+      "explicacion": "El PAM (Plan Anual de Marketing-mix) es el documento operativo a corto plazo (anual) que concreta y aterriza las directrices del Plan de Marketing Estratégico en los programas tácticos de producto, precio, distribución y comunicación. No es un enfoque intermedio que integre o fusione en un único documento el PME (Plan de Marketing Estratégico) y el PMI (Plan de Marketing integral), sino el despliegue anual operativo del marketing-mix derivado de la estrategia previamente fijada.\n\n**Ejemplo práctico:** En una compañía cervecera como Mahou San Miguel, el PME marca a 3-5 años la meta de liderar el segmento de cervezas sin alcohol y artesanales; el PAM aterriza esa visión para el ejercicio anual definiendo el presupuesto de publicidad en televisión, el calendario de promociones en hostelería y los acuerdos comerciales con distribuidores para ese año concreto.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

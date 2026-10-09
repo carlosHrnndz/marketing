@@ -1,0 +1,126 @@
+{
+  "unidad": 22,
+  "titulo": "Autoevaluación Unidad 22 - Gestión de la Cartera de Productos y Ciclo de Vida",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Una de las actividades de la gestión de la cartera de productos consiste en:",
+      "opciones": {
+        "a": "La modificación de productos",
+        "b": "La eliminación de productos",
+        "c": "El análisis de los consumidores",
+        "d": "Las respuestas a y b son correctas"
+      },
+      "explicacion": "La gestión estratégica de la cartera de productos (product portfolio management) abarca un conjunto de decisiones destinadas a mantener la competitividad y rentabilidad global de la gama de la empresa. Entre sus actividades operativas y tácticas más relevantes se encuentran la modificación de productos existentes (mediante adaptaciones funcionales, rediseño de envases o reformulaciones) y la eliminación de productos deficitarios o en fase de declive irreversible para liberar recursos hacia líneas más prometedoras.\n\n**Ejemplo práctico:** Una compañía de alimentación decide eliminar una referencia de cereales con ventas residuales y simultáneamente reformular su producto estrella reduciendo el contenido de azúcar y renovando el packaging para reactivar su demanda.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuando hablamos de nuevos productos podemos afirmar que:",
+      "opciones": {
+        "a": "De forma muy frecuente se lanzan productos que suponen verdaderas innovaciones para el mercado",
+        "b": "La mayoría de nuevos  productos son imitaciones o nuevas versiones de productos ya existentes",
+        "c": "Los nuevos productos no tienen mucha rentabilidad para la empresa, ya que las ventas de las empresas provienen de productos con una vida superior a diez años",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En el ámbito de la innovación de productos, las innovaciones verdaderamente rupturistas o radicales (nuevas para el mundo) son excepcionales y representan un porcentaje mínimo de los lanzamientos al mercado. La inmensa mayoría de los productos que las empresas presentan como «nuevos» son innovaciones incrementales, extensiones de línea, reposicionamientos, mejoras de fórmulas preexistentes o imitaciones directas de propuestas exitosas de la competencia.\n\n**Ejemplo práctico:** Cuando una marca de refrescos lanza una versión con sabor a lima de su cola tradicional o una empresa de tecnología introduce un teléfono con una lente adicional, está comercializando una versión o extensión incremental y no un invento completamente inédito.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuando se quiere lanzar un nuevo producto al mercado, una de las etapas es el filtrar las ideas, que nos permite:",
+      "opciones": {
+        "a": "Rechazar muchas de las ideas por no ser técnica o económicamente factibles",
+        "b": "Aceptar muchas ideas que antes no se habían tenido en consideración",
+        "c": "Generar nuevas ideas",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La etapa de filtrado o cribado de ideas (idea screening) es un punto de control crítico en el proceso de desarrollo de nuevos productos. Su finalidad es someter todas las propuestas generadas a un riguroso análisis preliminar para descartar y rechazar con rapidez aquellas que no resultan técnica, operativa, comercial o económicamente factibles, evitando que la empresa malgaste recursos financieros y humanos en proyectos inviables.\n\n**Ejemplo práctico:** En el comité de I+D de una empresa de electrodomésticos se presentan 40 ideas surgidas en dinámicas de diseño; en la fase de filtrado se rechazan 32 porque requieren patentes de terceros inalcanzables o costes de componentes que dispararían el precio final fuera del alcance del público objetivo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de las siguientes opciones NO es un paso que hay que seguir al lanzar un nuevo producto al mercado:",
+      "opciones": {
+        "a": "Análisis de la viabilidad económica",
+        "b": "El diseño",
+        "c": "El uso",
+        "d": "Todos los anteriores son pasos a seguir al lanzar un nuevo producto al mercado"
+      },
+      "explicacion": "El proceso riguroso de desarrollo y lanzamiento de nuevos productos incorpora fases obligatorias como el análisis de viabilidad económica (evaluación de costes, ventas potenciales, punto de equilibrio y rentabilidad esperada), el diseño industrial y técnico del producto, y las pruebas de uso con prototipos y consumidores para validar su funcionalidad y aceptación. Por tanto, todas estas etapas forman parte ineludible del proceso previo a la comercialización masiva.\n\n**Ejemplo práctico:** Antes de lanzar una cafetera automática, un fabricante modela los flujos de caja y el umbral de rentabilidad (viabilidad económica), define la arquitectura y estética del aparato (diseño) y entrega unidades piloto a 100 hogares para verificar la usabilidad y resistencia del mecanismo (test de uso).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El diseño de nuevos productos:",
+      "opciones": {
+        "a": "Es fundamental para el éxito en los mercados",
+        "b": "Es importante para la seguridad de los consumidores",
+        "c": "Emplea equipos multidisciplinares",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El diseño de nuevos productos es una disciplina integradora y estratégica de alto impacto. No solo resulta determinante para diferenciar la oferta y asegurar el éxito comercial en el mercado, sino que condiciona de forma directa la seguridad, ergonomía y usabilidad para el usuario. Por ello, exige la participación coordinada de equipos multidisciplinares donde convergen ingenieros, diseñadores industriales, especialistas en marketing, finanzas y control de calidad.\n\n**Ejemplo práctico:** En el desarrollo de un patinete eléctrico urbano, ingenieros mecánicos, diseñadores de producto, expertos en seguridad vial y analistas de marketing colaboran estrechamente para lograr un vehículo ligero, visualmente atractivo, con un sistema de frenado infalible y a un coste competitivo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En la construcción de prototipos:",
+      "opciones": {
+        "a": "Hay que suponer que los consumidores serán cuidadosos",
+        "b": "Hay que suponer que los consumidores van a leer el manual de instrucciones",
+        "c": "Hay que diseñar los productos de forma que aunque el consumidor no tenga cuidado no se produzcan accidentes",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En la ingeniería de diseño y desarrollo de prototipos rige el principio del diseño a prueba de errores (fail-safe / poka-yoke). La empresa no puede asumir ingenuamente que todos los usuarios leerán las instrucciones o utilizarán el producto con prudencia y pericia. Por motivos éticos, legales y de responsabilidad del fabricante, los prototipos deben concebirse para prevenir accidentes y daños físicos incluso ante usos indebidos, descuidados o imprevistos por parte del cliente.\n\n**Ejemplo práctico:** Un fabricante de batidoras de vaso diseña un prototipo que incorpora un sensor de enclavamiento que impide físicamente el funcionamiento del motor si la tapa superior no está sellada herméticamente, protegiendo al usuario en caso de que intente manipular el vaso en marcha.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Para lanzar un nuevo producto al mercado, hay que hacer un test de mercado:",
+      "opciones": {
+        "a": "Cuando el producto ya está en el mercado para ver si tiene éxito",
+        "b": "Una prueba limitada nos proporciona información sobre la reacción de los distribuidores y de los consumidores",
+        "c": "Una prueba de mercado antes del lanzamiento",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "El test de mercado es una etapa experimental previa al despliegue comercial definitivo (opción c). Consiste en comercializar el nuevo producto en un entorno geográfico o canal delimitado pero representativo para evaluar a escala reducida tanto la respuesta real de los consumidores (tasas de prueba, satisfacción y repetición de compra) como el comportamiento y apoyo de la red de distribución (rotación, colocación en lineal y aceptación de márgenes, opción b).\n\n**Ejemplo práctico:** Una marca de cerveza artesanal lanza una nueva variedad con aroma a cítricos exclusivamente en supermercados de tres ciudades medianas durante cuatro meses para medir la tasa de rotación y la acogida de los tenderos antes de emprender una campaña de distribución nacional.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El ciclo de vida de un producto:",
+      "opciones": {
+        "a": "Consta de cuatro fases o etapas",
+        "b": "Cada etapa tiene la misma duración para todos los productos",
+        "c": "Cada etapa requiere la misma estrategia financiera",
+        "d": "Consta de cinco fases o etapas"
+      },
+      "explicacion": "El modelo clásico del Ciclo de Vida del Producto (CVP) describe la evolución de las ventas y beneficios de un producto a lo largo del tiempo a través de cuatro etapas fundamentales: Introducción (lanzamiento inicial), Crecimiento (rápida aceptación y expansión), Madurez (estabilización de ventas y saturación) y Declive (caída de la demanda por obsolescencia o cambios de hábitos).\n\n**Ejemplo práctico:** La trayectoria comercial de las cámaras fotográficas digitales compactas atravesó su fase de introducción a finales de los 90, un fuerte crecimiento en los 2000, su madurez hacia 2010 y un declive pronunciado posterior al ser sustituidas por los smartphones.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "En la etapa de crecimiento:",
+      "opciones": {
+        "a": "Es la etapa inicial del ciclo de vida de un producto",
+        "b": "Atrae a nuevos competidores",
+        "c": "Tiene gran importancia la innovación",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La etapa de crecimiento se distingue por una rápida expansión de las ventas totales del mercado y un aumento notable de los beneficios unitarios gracias a las economías de escala. Este dinamismo y atractivo económico captan de inmediato el interés de nuevos competidores que entran al mercado con versiones alternativas o precios agresivos para arrebatar cuota a las marcas pioneras.\n\n**Ejemplo práctico:** Durante la fase de crecimiento del mercado de las freidoras de aire (airfryers), el éxito de las marcas pioneras atrajo rápidamente a decenas de fabricantes de electrodomésticos que inundaron las tiendas con sus propios modelos y promociones.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En la etapa de madurez:",
+      "opciones": {
+        "a": "Se produce una disminución drástica de las ventas",
+        "b": "La producción adquiere un mayor grado de estandarización",
+        "c": "Existe un mayor enfoque en la reducción de costes de producción",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "En la etapa de madurez, la penetración del producto alcanza su techo y el crecimiento de la demanda se frena. En este escenario de saturación y competencia intensa, la producción alcanza altos niveles de estandarización técnica (opción b) y las compañías orientan prioritariamente sus esfuerzos hacia la optimización de procesos y la reducción de costes de producción (opción c) para defender sus márgenes comerciales ante la presión a la baja en los precios.\n\n**Ejemplo práctico:** En el mercado maduro de los ordenadores portátiles de uso doméstico, las arquitecturas de hardware y componentes están totalmente estandarizadas entre fabricantes, lo que obliga a las marcas a optimizar su logística y ensamblaje para competir en precio y mantener márgenes operativos.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

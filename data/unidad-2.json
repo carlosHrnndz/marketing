@@ -1,0 +1,126 @@
+{
+  "unidad": 2,
+  "titulo": "Autoevaluación Unidad 2 - Ámbitos y Tipologías del Marketing",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones es cierta:",
+      "opciones": {
+        "a": "El marketing financiero acoge el marketing de servicios",
+        "b": "El marketing de servicios acoge el marketing financiero y el marketing turístico",
+        "c": "Ninguna de las anteriores es correcta",
+        "d": "El marketing turístico acoge el marketing de servicios"
+      },
+      "explicacion": "El marketing de servicios constituye la disciplina marco que aglutina a todas las actividades económicas caracterizadas por la intangibilidad, inseparabilidad, variabilidad y caducidad. Por consiguiente, tanto el marketing financiero (banca, seguros, fondos) como el marketing turístico (alojamiento, transporte, intermediación de viajes) son ramas sectoriales específicas acogidas bajo el paraguas del marketing de servicios.\n\n**Ejemplo práctico:** Tanto una entidad bancaria que ofrece un plan de pensiones como una cadena hotelera que vende noches de estancia deben gestionar la experiencia del cliente y la evidencia física del servicio, principios esenciales del marketing de servicios.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuáles son las dos perspectivas en el marketing público según Pérez del Campo (1997):",
+      "opciones": {
+        "a": "Marketing de los servicios públicos y marketing de los servicios privados",
+        "b": "Marketing de los servicios públicos y marketing de ONGs",
+        "c": "Marketing institucional y marketing de ONGs",
+        "d": "Marketing de servicios públicos y marketing institucional"
+      },
+      "explicacion": "Pérez del Campo (1997) clasifica el marketing público en dos grandes vertientes complementarias: por un lado, el marketing de los servicios públicos, centrado en optimizar la prestación, uso y satisfacción de los servicios prestados a la comunidad (sanidad, educación, transporte público); y por otro, el marketing institucional, orientado a la comunicación corporativa, la transmisión de valores cívicos y la legitimidad de las instituciones del Estado.\n\n**Ejemplo práctico:** Un consistorio municipal emplea el marketing de servicios públicos al promocionar la red de autobuses urbanos y abonos de transporte, y recurre al marketing institucional para difundir campañas de convivencia ciudadana y pago puntual de tributos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El Marketing en actividades empresariales específicas engloba los siguientes sectores:",
+      "opciones": {
+        "a": "Marketing ecológico",
+        "b": "Todas las anteriores",
+        "c": "Marketing masivo",
+        "d": "Marketing nacional"
+      },
+      "explicacion": "En la clasificación del marketing aplicado a áreas y actividades empresariales específicas, destaca el marketing ecológico o verde (*green marketing*). Este ámbito adapta el diseño de productos, la cadena de suministro, los envases y la comunicación comercial a las exigencias de sostenibilidad y preservación del entorno natural.\n\n**Ejemplo práctico:** Una marca de productos de limpieza doméstica que reformula sus productos con componentes biodegradables y envasado en plástico 100% reciclado desarrolla una estrategia explícita de marketing ecológico.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Las siglas TIC significan:",
+      "opciones": {
+        "a": "Teorías de la Información y la Comunicación",
+        "b": "Ninguna de las anteriores",
+        "c": "Tecnologías de la Información y la Comunicación",
+        "d": "Tecnologías de la Industrialización y la Comunicación"
+      },
+      "explicacion": "Las siglas TIC corresponden inequívocamente a «Tecnologías de la Información y la Comunicación». Abarcan el conjunto de infraestructuras, redes, dispositivos informáticos y software que permiten la captura, procesamiento, almacenamiento y transmisión digital de datos, transformando la relación entre organizaciones y mercados.\n\n**Ejemplo práctico:** La implantación de soluciones TIC como plataformas e-commerce, computación en la nube y terminales móviles en tiendas físicas permite gestionar el inventario omnicanal y atender consultas de clientes en tiempo real.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes afirmaciones es correcta",
+      "opciones": {
+        "a": "Los objetivos del Marketing on-line siguen siendo los mismos que en el Marketing tradicional",
+        "b": "Los objetivos del Marketing on-line son complementarios a los del Marketing tradicional",
+        "c": "Ninguna de las anteriores es correcta",
+        "d": "Los objetivos del Marketing on-line no tienen nada que ver con los objetivos del Marketing tradicional"
+      },
+      "explicacion": "Aunque internet y los entornos digitales aportan nuevos instrumentos, soportes interactivos y métricas en tiempo real, los fines esenciales del marketing online son idénticos a los del marketing tradicional: identificar necesidades, crear notoriedad de marca, captar clientes, fidelizarlos y generar beneficios sostenibles para la empresa.\n\n**Ejemplo práctico:** Una empresa textil que lanza anuncios en Google Ads o en prensa escrita persigue en ambos casos el mismo objetivo comercial: captar usuarios cualificados, cerrar ventas de su nueva colección y construir valor de marca.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Qué es importante al entrar en una tienda:",
+      "opciones": {
+        "a": "Sentir una temperatura agradable",
+        "b": "Escuchar la música que me gusta",
+        "c": "Todas las anteriores",
+        "d": "Disfrutar de un ambiente decorativo acorde con mis preferencias"
+      },
+      "explicacion": "En el marketing sensorial y el retail marketing, la experiencia de compra en el establecimiento físico se configura mediante un conjunto integral de estímulos ambientales: la temperatura ambiental (confort térmico), la música ambiental adaptada al público objetivo y una ambientación visual coherente con la identidad de marca, factores que aumentan el tiempo de permanencia y la predisposición al gasto.\n\n**Ejemplo práctico:** Las tiendas del grupo Inditex (como Massimo Dutti o Stradivarius) diseñan con precisión el hilo musical, la iluminación focalizada y la temperatura de sus locales para crear una atmósfera inmersiva que invite al cliente a probarse prendas y comprar.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "De qué palabras es acrónimo CRM:",
+      "opciones": {
+        "a": "Consumer Relationship Management",
+        "b": "Custumer Related Management",
+        "c": "Custumer Relationship Management",
+        "d": "Consumer Relations Management"
+      },
+      "explicacion": "CRM es el acrónimo reconocido internacionalmente de *Customer Relationship Management* (Gestión de las Relaciones con los Clientes, manteniendo en el material docente la variante ortográfica «Custumer Relationship Management»). Engloba tanto una orientación estratégica relacional como los sistemas informáticos diseñados para registrar, organizar y rentabilizar todas las interacciones de la empresa con sus clientes.\n\n**Ejemplo práctico:** Una compañía de telecomunicaciones utiliza un CRM como Salesforce para registrar incidencias, contratos previos y preferencias de cada abonado, permitiendo a los operadores ofrecer soluciones personalizadas en cada contacto.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Según Naver y Slater (1990), la orientación al mercado se entiende como un constructo formado por tres componentes de comportamiento, que son los siguientes:",
+      "opciones": {
+        "a": "Orientación al cliente, orientación a la competencia y coordinación interfuncional",
+        "b": "Orientación al cliente, orientación a la competencia y rentabilidad",
+        "c": "Ninguna de las anteriores",
+        "d": "Orientación al cliente, orientación a la competencia y enfoque a largo plazo"
+      },
+      "explicacion": "En su modelo teórico seminal de orientación al mercado, Narver y Slater (1990) determinan que este constructo se articula en tres dimensiones de comportamiento esenciales: la orientación al cliente (comprensión sistemática de sus necesidades y valor percibido), la orientación a la competencia (seguimiento continuo de las capacidades y estrategias rivales) y la coordinación interfuncional (colaboración coordinada de todos los departamentos de la empresa para aportar valor superior).\n\n**Ejemplo práctico:** Al desarrollar un nuevo software empresarial, los directores de ingeniería, marketing y soporte técnico analizan los requerimientos de los clientes y las tarifas de los competidores para lanzar una solución con funcionalidades superiores.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La orientación al mercado supone:",
+      "opciones": {
+        "a": "Anteponer a la actividad diaria del marketing operacional los principios del marketing estratégico",
+        "b": "Dar la misma importancia a la actividad diaria del marketing operacional que a los principios del marketing estratégico",
+        "c": "Anteponer a los principios del marketing estratégico la actividad diaria del marketing operacional",
+        "d": "Ninguna de las anteriores"
+      },
+      "explicacion": "La orientación al mercado exige que la reflexión estratégica (análisis del entorno, segmentación, posicionamiento y ventaja competitiva a largo plazo) guíe, condicione y preceda a la actividad diaria del marketing operacional (ejecución táctica de promociones, ventas diarias o publicidad). Actuar de forma puramente reactiva u operativa sin visión estratégica destruye el valor de la empresa.\n\n**Ejemplo práctico:** Una marca de cosmética de alta gama decide rechazar una campaña de descuentos agresivos a corto plazo en grandes superficies para preservar la imagen de exclusividad y el posicionamiento de marca fijado en su plan estratégico.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes afirmaciones es correcta respecto al marketing relacional:",
+      "opciones": {
+        "a": "Considera que la empresa ha de aplicar el marketing en todos los departamentos de la empresa",
+        "b": "Ninguna de las anteriores",
+        "c": "Considera que la empresa ha de aplicar el Marketing en los ámbitos de actuación más rentables",
+        "d": "Considera que la empresa ha de aplicar el Marketing en todos los ámbitos de su actuación"
+      },
+      "explicacion": "El marketing relacional concibe que el marketing no es una función exclusiva y aislada del departamento de ventas o publicidad, sino una cultura y compromiso que la empresa debe aplicar en todos los ámbitos de su actuación y en cada punto de contacto directo o indirecto con el cliente (administración, logística, facturación, atención técnica y dirección directiva).\n\n**Ejemplo práctico:** En empresas como Zappos o Ritz-Carlton, cualquier empleado de logística o mantenimiento está facultado y formado para atender y satisfacer al cliente con empatía, aplicando los principios del marketing en la operativa diaria.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

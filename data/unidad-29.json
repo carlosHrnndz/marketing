@@ -1,0 +1,126 @@
+{
+  "unidad": 29,
+  "titulo": "Autoevaluación Unidad 29 - La Publicidad: Formas, Soportes y Formatos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La definición de publicidad comprende varias ideas que delimitan su naturaleza y esencia. Cuál de las siguientes opciones NO es una de estas ideas:",
+      "opciones": {
+        "a": "Es una forma de comunicación pagada y controlada",
+        "b": "Utiliza medios masivos",
+        "c": "Tiene carácter impersonal",
+        "d": "Todas las respuestas son ideas comprendidas dentro de la definición de publicidad"
+      },
+      "explicacion": "La definición canónica de la publicidad (establecida tanto por la doctrina de marketing como por la legislación publicitaria) la conceptualiza como un proceso de comunicación de masas, unilateral, remunerado e impersonal, planificado y controlado por el emisor o anunciante con un objetivo comercial o persuasivo. Por lo tanto, el hecho de ser pagada y controlada (a), utilizar medios de difusión masivos (b) y tener carácter impersonal (c) son notas intrínsecas esenciales a su definición.\n\n**Ejemplo práctico:** Cuando Coca-Cola lanza un spot en prime time en televisión nacional, financia la compra del espacio publicitario, controla de forma milimétrica el mensaje y guion emitido, impacta masivamente a millones de espectadores y lo hace sin interactuar de forma personalizada ni física con cada uno de ellos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El fin genérico de la publicidad puede desglosarse en dos niveles básicos:",
+      "opciones": {
+        "a": "Informar y decidir",
+        "b": "Informar y persuadir",
+        "c": "Informar y atacar a la competencia",
+        "d": "Persuadir y eliminar la competencia"
+      },
+      "explicacion": "En la teoría de la comunicación comercial, los dos fines genéricos y esenciales de la publicidad son informar y persuadir. Informar implica dar a conocer al mercado la existencia de un producto, sus atributos, funciones o precios; persuadir implica influir sobre la percepción, preferencias y motivaciones del público objetivo para inclinar la decisión de compra a favor de la marca.\n\n**Ejemplo práctico:** En el lanzamiento de un vehículo eléctrico, Volvo primero informa detallando la autonomía de la batería y los puntos de recarga disponibles, y simultáneamente persuade asociando la conducción del coche con la protección medioambiental y la máxima seguridad de la familia.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Un anunciante es:",
+      "opciones": {
+        "a": "Cualquier persona, física o jurídica, en cuyo interés se realiza una acción publicitaria",
+        "b": "Es el responsable último de la emisión de una campaña publicitaria",
+        "c": "Quien paga una campaña publicitaria, con el objetivo de conseguir un determinado beneficio, en términos económicos, de imagen o sociales",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Desde el punto de vista jurídico (según la Ley General de Publicidad) y conceptual en marketing, el anunciante es la persona física o jurídica en cuyo interés propio se realiza la publicidad, asumiendo la responsabilidad jurídica y económica última del mensaje y financiando la campaña para obtener un rendimiento comercial, de imagen o un impacto social.\n\n**Ejemplo práctico:** La organización Cruz Roja actúa como anunciante cuando contrata una campaña publicitaria en prensa y televisión: es una persona jurídica interesada, financia los espacios publicitarios y asume la responsabilidad de la emisión con el fin de captar socios y sensibilizar a la sociedad.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El briefing es:",
+      "opciones": {
+        "a": "Un documento escrito de larga extensión con información relevante del anunciante",
+        "b": "Un documento escrito que realiza el anunciante que recoge toda la información relevante para la agencia y lo que se espera conseguir con la publicidad",
+        "c": "Una explicación verbal, breve y corta, que contiene recoge toda la información relevante para la agencia y lo que se espera conseguir con la publicidad",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El briefing es el documento estratégico y operativo básico que el anunciante elabora para la agencia de publicidad. Debe ser un documento escrito, estructurado y sintético que contenga toda la información relevante de la empresa, el producto, el público objetivo, los objetivos de comunicación perseguidos, el presupuesto asignado y los plazos de ejecución.\n\n**Ejemplo práctico:** Una marca de zapatillas sostenibles entrega a su agencia publicitaria un briefing donde especifica su objetivo de aumentar el reconocimiento de marca un 25% entre deportistas urbanos jóvenes, resaltando su fabricación con plásticos marinos reciclados y un presupuesto total de 80.000 euros.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las formas publicitarias hacen referencia a:",
+      "opciones": {
+        "a": "Los vehículos susceptibles de transportar en un momento dado un mensaje publicitario a un número amplio de personas",
+        "b": "Los diferentes subcanales de comunicación que pueden existir dentro de un mismo medio para hacer llegar el mensaje a los destinatarios",
+        "c": "La variedad de manifestaciones que puede adoptar un mensaje dentro de un determinado soporte o medio publicitario",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En la terminología publicitaria, se distingue conceptualmente entre medios (canales genéricos como TV o prensa), soportes (vehículos concretos como una cabecera de periódico o un canal de TV) y formas publicitarias, que corresponden a la variedad de modalidades expresivas o manifestaciones específicas que adopta el mensaje dentro de un determinado medio o soporte (anuncio gráfico, publirreportaje, spot, faldón, etc.).\n\n**Ejemplo práctico:** Dentro del soporte de la revista National Geographic (medio prensa), la empresa Patagonia puede elegir entre diferentes formas publicitarias, tales como un anuncio a doble página, un publirreportaje sobre biodiversidad o un encarte publicitario suelto.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones NO es un formato que ofrezca la prensa diaria:",
+      "opciones": {
+        "a": "Encartes",
+        "b": "Anuncios clasificados o por palabras",
+        "c": "El product placement o emplazamiento de producto",
+        "d": "Notas o comunicados de prensa"
+      },
+      "explicacion": "El product placement o emplazamiento de producto es una técnica publicitaria audiovisual que consiste en insertar de manera deliberada un producto, marca o servicio dentro del guion o escenario de una obra de ficción (película, serie de televisión o videojuego). Por su naturaleza audiovisual y narrativa, no constituye un formato propio de la prensa diaria escrita, donde sí se utilizan encartes, clasificados o notas de prensa.\n\n**Ejemplo práctico:** Mientras que un concesionario de automóviles inserta en el periódico local un encarte publicitario con ofertas de ocasión, la aparición del vehículo Aston Martin en una persecución de la película de James Bond representa un claro product placement en el medio cinematográfico.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La radio es un medio publicitario que se caracteriza por:",
+      "opciones": {
+        "a": "Presentar una gran facilidad para repetir los mensajes, ya que el coste medio por contacto es muy bajo.",
+        "b": "Presenta muy poca o nula flexibilidad temporal al tener un horario reducido en sus emisiones",
+        "c": "Ser un medio de carácter visual y auditivo muy utilizado por los anunciantes",
+        "d": "Ninguna de las opciones anteriores es correcta"
+      },
+      "explicacion": "La radio se caracteriza por ser un medio con un coste por impacto (CPM) muy reducido y una alta agilidad de producción y emisión, lo que permite a los anunciantes diseñar pautas publicitarias con alta repetición y frecuencia a un coste asequible. Además, posee un carácter exclusivamente sonoro/auditivo y una notable flexibilidad temporal y de programación.\n\n**Ejemplo práctico:** Una cadena de supermercados regional contrata una pauta en Cadena SER y COPE para emitir cuñas de 20 segundos repetidas seis veces a lo largo de la mañana informando sobre las ofertas del día de pescado fresco, logrando un alto recuerdo de marca a bajo coste.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El patrocinio de programas es una forma publicitaria de la televisión que se caracteriza por:",
+      "opciones": {
+        "a": "Insertar estratégicamente productos comerciales en secuencias de una película o de una serie de televisión",
+        "b": "Diseñar un programa e introducir en él la acción publicitaria del anunciante",
+        "c": "Pagar parte o el total de la producción a cambio de un emplazamiento estratégico en la emisión del programa",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El patrocinio televisivo es una técnica publicitaria y de mecenazgo comercial en la que el anunciante financia parte o la totalidad de los costes de producción o emisión de un espacio televisivo determinado a cambio de una mención privilegiada y asociación de imagen (caretas de entrada y salida, sobreimpresiones y fórmulas de cortesía).\n\n**Ejemplo práctico:** Banco Santander patrocina la retransmisión de las sesiones de Fórmula 1 en televisión cubriendo costes de retransmisión y mostrando la cortinilla corporativa «Este espacio está patrocinado por Banco Santander» antes y después de cada corte publicitario.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes opciones NO es un soporte de publicidad exterior:",
+      "opciones": {
+        "a": "El metro",
+        "b": "Autobuses",
+        "c": "Vallas",
+        "d": "Cine"
+      },
+      "explicacion": "La publicidad exterior comprende todos aquellos soportes ubicados en la vía pública o en recintos de transporte y tránsito colectivo (vallas fijas o digitales, mupis, marquesinas, mobiliario urbano, estaciones de metro y rotulación de autobuses). El cine, en cambio, es considerado un medio publicitario independiente que se proyecta en salas cerradas de exhibición cinematográfica antes de la película.\n\n**Ejemplo práctico:** Para promocionar una serie nueva, HBO contrata vallas de gran formato en accesos a la ciudad y vinilos integrales en los vagones del metro (publicidad exterior), mientras que el spot proyectado en la gran pantalla de los cines Kinépolis corresponde al medio cine.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Una nueva corriente de comunicación de Marketing es el advertinment, una fusión de publicidad (advertising) y entretenimiento (entertaiment):",
+      "opciones": {
+        "a": "Consiste en que el consumidor pruebe el producto e interactúe con la marca hasta las últimas consecuencias",
+        "b": "Incita al cliente a vivir experiencias que lo enganchen emocional y vivencialmente a la marca o compa",
+        "c": "Entretiene al cliente aportando un valor adicional, además de comunicar los valores de la marca a través de los contenidos.",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El advertainment (fusión de advertising y entertainment) es una estrategia de comunicación donde la marca crea y financia contenidos de entretenimiento con valor intrínseco para la audiencia (cortometrajes, series, videojuegos o programas), integrando los valores y la filosofía de marca de manera atractiva y no invasiva para el consumidor.\n\n**Ejemplo práctico:** El cortometraje anual de Estrella Damm para la campaña «Mediterráneamente», protagonizado por actores reconocidos y con directores de prestigio, ofrece al público una historia cinematográfica entretenida y de calidad mientras transmite de forma orgánica el estilo de vida y valores de la marca cervecera.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

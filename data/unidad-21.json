@@ -1,0 +1,126 @@
+{
+  "unidad": 21,
+  "titulo": "Autoevaluación Unidad 21 - Técnicas Cuantitativas: Encuestas y Paneles",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Los estudios descriptivos se encuentran dentro de la investigación cuantitativa. Consisten en:",
+      "opciones": {
+        "a": "Describir las características de una población",
+        "b": "Estudiar al consumidor tratando de que responda a preguntas como: ¿qué?, ¿cómo?, ¿dónde?, ¿Por qué?, ¿cuándo?, etc.",
+        "c": "Permitir al investigador tener una noción mucho más clara de las necesidades, gustos, etc. de sus posibles consumidores",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La investigación descriptiva tiene como objetivo caracterizar con precisión los fenómenos de mercado y cuantificar los patrones de conducta, perfiles sociodemográficos y actitudes de los consumidores. A través de este enfoque cuantitativo, se responde de manera sistemática a las preguntas clave del comportamiento de compra (qué, cómo, dónde, por qué y cuándo compran o utilizan los productos), lo que permite al investigador y a la dirección de marketing obtener una visión diáfana y estructurada de las necesidades y preferencias de su mercado objetivo.\n\n**Ejemplo práctico:** Un fabricante de bebidas isotónicas realiza un estudio descriptivo a 2.000 deportistas para identificar con exactitud qué porcentaje consume su producto tras entrenar, en qué canales lo adquieren habitualmente (supermercados vs. gimnasios) y qué sabores prefieren según su franja de edad.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Dentro de las técnicas cuantitativas se encuentran:",
+      "opciones": {
+        "a": "Las entrevistas en profundidad",
+        "b": "Las encuestas",
+        "c": "Las reuniones de grupo",
+        "d": "Las técnicas proyectivas"
+      },
+      "explicacion": "Las encuestas constituyen la técnica cuantitativa fundamental en la investigación de mercados, basada en la recopilación estandarizada de datos mediante cuestionarios aplicados a muestras representativas de la población objeto de estudio. Por el contrario, las entrevistas en profundidad, las reuniones de grupo (focus groups) y las técnicas proyectivas son metodologías cualitativas cuyo propósito es explorar motivaciones inconscientes y significados subjetivos sin pretensión de representatividad estadística.\n\n**Ejemplo práctico:** Una entidad bancaria aplica una encuesta telefónica estructurada a una muestra aleatoria de 3.000 clientes para medir con precisión porcentual el índice de satisfacción y la tasa de recomendación neta de sus canales digitales.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Las encuestas son técnicas que utilizan:",
+      "opciones": {
+        "a": "Reuniones de grupo",
+        "b": "Cuestionarios",
+        "c": "Entrevistas en profundidad",
+        "d": "La experimentación."
+      },
+      "explicacion": "El instrumento metodológico nuclear de la técnica de encuesta es el cuestionario. Este documento estructurado contiene un conjunto ordenado y estandarizado de preguntas que se formulan de idéntica manera a todos los encuestados para asegurar la uniformidad, validez y comparabilidad estadística de las respuestas. Otras técnicas mencionadas como las reuniones de grupo o las entrevistas en profundidad emplean guiones cualitativos abiertos, mientras que la experimentación manipula variables en entornos de prueba.\n\n**Ejemplo práctico:** Una marca de comercio electrónico diseña un cuestionario online estandarizado de 12 preguntas cerradas para evaluar la experiencia de navegación y pago de los usuarios tras completar su compra.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Una de las fases del diseño de un cuestionario es las instrucciones que se le dan al entrevistador, como por ejemplo:",
+      "opciones": {
+        "a": "Los entrevistadores pueden pasar los cuestionarios en diferentes condiciones",
+        "b": "Los entrevistadores deben ser chicas de entre 18 y 25 años",
+        "c": "Los entrevistadores pueden pasar los cuestionarios en las mismas condiciones",
+        "d": "Es indiferente las condiciones en las que se pasen los cuestionarios"
+      },
+      "explicacion": "La estandarización del trabajo de campo es un principio esencial en la investigación cuantitativa. Las instrucciones metodológicas que la dirección de la investigación traslada al equipo de entrevistadores tienen como finalidad primordial garantizar que todos ellos apliquen el cuestionario bajo las mismas condiciones y criterios (mismo orden, idéntica entonación, sin inducir respuestas), reduciendo al mínimo el sesgo del encuestador y preservando la fiabilidad de los datos.\n\n**Ejemplo práctico:** En un estudio a la salida de supermercados, la agencia proporciona un manual estricto que indica a los encuestadores abordar al tercer cliente que cruce la puerta en una franja horaria determinada y leer las preguntas textualmente sin añadir explicaciones personales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes opciones NO es una buena recomendación a la hora de diseñar un cuestionario:",
+      "opciones": {
+        "a": "Las preguntas tienen que tratar de ser neutras",
+        "b": "No deben incluirse temas difíciles de contestar o que sea necesario realizar cálculos",
+        "c": "Redacción de las preguntas debe invitar a colaborar",
+        "d": "Las preguntas deben ser lo más largas posibles para que no queden dudas"
+      },
+      "explicacion": "En el diseño técnico de cuestionarios, la longitud excesiva de las preguntas es un error metodológico grave que debe evitarse. Las preguntas largas generan fatiga cognitiva, provocan distracciones o malentendidos y elevan exponencialmente la tasa de abandono del cuestionario. Las buenas prácticas exigen que las preguntas sean concisas, breves, formuladas con redacción neutra, comprensibles y fáciles de responder sin exigir cálculos complejos.\n\n**Ejemplo práctico:** En lugar de formular una pregunta farragosa con múltiples cláusulas subordinadas sobre gastos trimestrales estimados en telefonía, una compañía formula una pregunta directa y breve: «¿Cuál fue el importe aproximado de su última factura mensual?» con rangos de respuesta predefinidos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Una pregunta abierta es aquella en la cual:",
+      "opciones": {
+        "a": "La respuesta está previamente dirigida",
+        "b": "El entrevistado debe elegir entre una o varias de las respuestas previamente definidas",
+        "c": "Se le da libertad al entrevistado para expresar aquellas ideas que considera adecuadas a la pregunta",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Las preguntas abiertas se definen por no delimitar ni predeterminar el abanico de respuestas posibles, otorgando al encuestado plena libertad para responder con sus propias palabras, expresar sus ideas y aportar matices personales. A diferencia de las preguntas cerradas, resultan especialmente útiles para captar opiniones imprevistas, percepciones espontáneas y sugerencias cualitativas que enriquecen la investigación.\n\n**Ejemplo práctico:** Al final de una encuesta sobre un vehículo eléctrico, el fabricante formula la pregunta: «¿Qué aspectos mejoraría usted en el diseño interior del vehículo?», permitiendo a los usuarios mencionar libremente detalles sobre la visibilidad, los compartimentos o los materiales del salpicadero.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Una entrevista estructurada es aquella que:",
+      "opciones": {
+        "a": "Se desarrolla de acuerdo con un cuestionario previamente establecido",
+        "b": "Se desarrolla según las instrucciones concretas recibidas por el director de la investigación",
+        "c": "Se desarrolla sin un cuestionario previamente establecido",
+        "d": "Las opciones a y b son correctas"
+      },
+      "explicacion": "Una entrevista estructurada se define por un alto grado de rigor y formalización metodológica: se desarrolla obligatoriamente conforme a un cuestionario previo y cerrado, y se ejecuta siguiendo escrupulosamente las directrices e instrucciones específicas impartidas por la dirección de la investigación para evitar cualquier desviación o sesgo por parte del encuestador.\n\n**Ejemplo práctico:** En un estudio sociológico y de mercado mediante el sistema CATI (encuestas telefónicas asistidas por ordenador), los operadores siguen una pantalla con un guion rígido preprogramado del que no pueden apartarse bajo ninguna circunstancia.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La encuesta postal es aquella que:",
+      "opciones": {
+        "a": "Se envía por email",
+        "b": "Se envía por email y se devuelve por correo",
+        "c": "Se envía y se devuelve por correo",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "La encuesta postal tradicional se caracteriza por ser un método autoadministrado en el que el cuestionario físico en papel se envía al domicilio del destinatario a través del correo postal y, tras ser cumplimentado de forma autónoma por este, se remite de vuelta a la empresa investigadora por la misma vía postal, habitualmente empleando un sobre prefranqueado incluido en el envío.\n\n**Ejemplo práctico:** Una asociación médica profesional envía anualmente por correo ordinario a sus colegiados jubilados un cuestionario impreso para evaluar los servicios del colegio, adjuntando un sobre con franqueo en destino para facilitar su devolución.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El panel de detallistas de AC Nielsen es importante para los analistas de investigación:",
+      "opciones": {
+        "a": "Debido a que proporciona una cantidad pequeña de variables de Marketing, y por tanto es muy manejable.",
+        "b": "Por la representatividad de la muestra",
+        "c": "Por la información continua que proporciona",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "El panel de detallistas de AC Nielsen (Retail Measurement) es una herramienta de referencia global para los analistas de marketing por dos fortalezas clave: la representatividad estadística de su muestra de establecimientos comerciales y la continuidad temporal en la recogida de datos mediante auditorías periódicas y lectura de escáner. Esta continuidad permite analizar con exactitud evoluciones de cuota de mercado, precios medios, rotación de stocks y distribución ponderada a lo largo del tiempo.\n\n**Ejemplo práctico:** Un director de marca de yogures analiza bimestralmente los informes del panel Nielsen para comprobar si una campaña promocional en hipermercados logró aumentar la cuota de mercado en volumen y en valor frente a la marca blanca de la competencia.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes opciones NO es un establecimiento que defina AC Nielsen:",
+      "opciones": {
+        "a": "Hipermercado",
+        "b": "Quiosco",
+        "c": "Autoservicio",
+        "d": "Tienda tradicional"
+      },
+      "explicacion": "En la clasificación canónica de formatos y canales comerciales de gran consumo utilizada históricamente por AC Nielsen, los establecimientos auditados en los paneles de alimentación y droguería se dividen en categorías como hipermercados, supermercados / autoservicios y tiendas tradicionales de ultramarinos. Los quioscos corresponden al canal de venta por impulso y prensa, por lo que no forman parte de esta tipología básica de distribución de gran consumo definida por la compañía.\n\n**Ejemplo práctico:** Al contratar una auditoría del panel de detallistas de Nielsen para monitorizar la venta de detergentes, la empresa recibe datos desglosados de hipermercados (más de 2.500 m²), autoservicios de proximidad y comercio tradicional, quedando los quioscos fuera del perímetro del panel.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

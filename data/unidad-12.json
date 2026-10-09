@@ -1,0 +1,126 @@
+{
+  "unidad": 12,
+  "titulo": "Autoevaluación Unidad 12 - Marketing Directo y Publicidad Directa",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones respecto al marketing directo es falsa:",
+      "opciones": {
+        "a": "Se engloba dentro de las técnicas que configuran lo que se ha venido a denominar comunicación integral",
+        "b": "Está formado por un conjunto de técnicas que facilitan el contacto inmediato con el posible comprador",
+        "c": "Tiene como objetivo crear una relación de interactividad con los clientes de la empresa",
+        "d": "Todas las anteriores son verdaderas"
+      },
+      "explicacion": "El marketing directo se integra plenamente en la comunicación comercial moderna: forma parte inseparable de las herramientas que componen la comunicación integral de la empresa (a), se apoya en un conjunto de técnicas que facilitan el contacto inmediato y ágil con el comprador potencial (b) y tiene como finalidad esencial entablar una relación interactiva, personalizada y duradera con los clientes (c). Al ser todas las afirmaciones rigurosamente verdaderas, la opción correcta es que todas las anteriores son verdaderas.\n\n**Ejemplo práctico:** Un banco digital diseña una campaña de comunicación integral en la que apoya sus anuncios en televisión con mensajes directos e interactivos vía app y WhatsApp a clientes preseleccionados, ofreciéndoles préstamos preconcedidos con un solo clic y obteniendo una respuesta instantánea.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes definiciones se ajusta mejor al concepto de marketing directo:",
+      "opciones": {
+        "a": "Conjunto de acciones encaminadas a establecer y mantener una relación comercial personalizada con los clientes, y satisfacer sus necesidades de forma individualizada y directa",
+        "b": "Conjunto de acciones encaminadas a establecer y mantener una relación comercial personalizada con los consumidores, utilizando los medios de comunicación para obtener una respuesta medible o una transacción económica",
+        "c": "Conjunto de acciones que utilizan los medios de comunicación online para obtener respuestas directas de los consumidores",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La definición canónica y técnica de marketing directo (como la formulada por la *Direct Marketing Association* - DMA) pone el énfasis en tres pilares fundamentales: la personalización del vínculo comercial con los consumidores, la utilización de medios de comunicación para contactar con ellos y, de forma indispensable, la obtención de una respuesta medible o una transacción económica directa. La opción (c) es restrictiva al limitarse al entorno online, mientras que la (b) recoge la definición completa y precisa del concepto.\n\n**Ejemplo práctico:** Una editorial envía un catálogo con un cupón de pedido por correo postal o correo electrónico a sus suscriptores, ofreciendo un 15% de descuento en novedades si responden en 10 días; la empresa mide con exactitud cuántos cupones se canjean y la facturación exacta generada por cada envío.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes opciones no es una ventaja del marketing directo:",
+      "opciones": {
+        "a": "Permite una acción difusa en varios mercados o clientelas genéricas",
+        "b": "Puede ser \"confidencial\", adaptándose a las características de cada consumidor",
+        "c": "Supone una comunicación personal en la que no interfiere ningún otro mensaje publicitario",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Una de las propiedades definitorias del marketing directo es precisamente la antítesis de la acción difusa o masiva: se caracteriza por una alta selectividad y microsegmentación sobre públicos objetivos claramente identificados y cualificados. Por tanto, actuar de forma «difusa en varios mercados o clientelas genéricas» es propio de la publicidad de masas convencional, constituyendo un rasgo ajeno e impropio del marketing directo (es decir, NO es una ventaja de este).\n\n**Ejemplo práctico:** Mientras que un anuncio en televisión abierta impacta a una masa heterogénea y difusa de espectadores, el marketing directo de una clínica dental envía una propuesta de blanqueamiento exclusivamente a pacientes que se realizaron una limpieza en los últimos seis meses, logrando máxima precisión y cero dispersión publicitaria.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El marketing directo está formado por tres elementos estructurales, que tienen el siguiente grado de importancia asociado:",
+      "opciones": {
+        "a": "La base de datos (50% de importancia), la oferta realizada (30% de importancia) y la creatividad (20% de importancia)",
+        "b": "La base de datos (70% de importancia), la oferta realizada (20% de importancia) y la creatividad (10% de importancia)",
+        "c": "La base de datos (40% de importancia), la oferta realizada (40% de importancia) y la creatividad (20% de importancia)",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La regla empírica clásica del marketing directo (regla 50-30-20 postulada por referentes de la disciplina como Edward Nash y Bob Stone) pondera el peso relativo del éxito de una campaña de la siguiente forma: la base de datos representa el 50% de la importancia (llegar al público objetivo adecuado); la oferta realizada supone el 30% (el atractivo comercial de la propuesta, precio y condiciones); y la creatividad aporta el 20% restante (el diseño, redacción o mensaje). Una creatividad excelente enviada a una base de datos incorrecta aboca la campaña al fracaso absoluto.\n\n**Ejemplo práctico:** Una empresa de alarmas para el hogar logra un récord de conversiones cuando prioriza una base de datos cualificada de nuevos compradores de chalets unifamiliares (50%), acompañada de una oferta de instalación gratuita durante el primer año (30%), transmitida mediante un folleto y correo claro y elegante (20%).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La creatividad en marketing directo:",
+      "opciones": {
+        "a": "Es independiente del medio escogido",
+        "b": "Es proporcional al número de consumidores que se quiere alcanzar",
+        "c": "Es una creatividad \"a medida\" del consumidor",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "A diferencia de la creatividad en la publicidad convencional orientada a la notoriedad y al impacto masivo homogéneo, la creatividad en el marketing directo es funcional, personalizada y concebida «a medida» del consumidor. Su diseño, tono, argumentación y llamada a la acción (*call to action*) se adaptan a las características, preferencias y comportamiento específico del perfil de cliente al que se dirige, con el fin primordial de provocar una respuesta inmediata.\n\n**Ejemplo práctico:** En un correo electrónico de fidelización de una cadena de moda, la creatividad se adapta dinámicamente mostrando el nombre de la clienta, los artículos que dejó pendientes en su carrito de compras y recomendaciones basadas en su talla y estilo habitual, generando una experiencia publicitaria hecha a su medida.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Una de las ventajas del telemarketing es:",
+      "opciones": {
+        "a": "Evita el mantenimiento de las bases de datos",
+        "b": "Proporciona una respuesta desfasada en el tiempo",
+        "c": "Asegura la posibilidad de alcanzar a nuestro grupo objetivo",
+        "d": "Ninguna de las anteriores son correctas"
+      },
+      "explicacion": "El telemarketing (marketing telefónico) opera sobre bases de datos con números de teléfono previamente cualificados y segmentados, lo que otorga la ventaja decisiva de garantizar el contacto directo con el público objetivo concreto (*target*). Además, permite la interactividad humana inmediata, la resolución de objeciones en tiempo real y la obtención de una respuesta instantánea (al contrario de la opción b, que menciona respuesta desfasada).\n\n**Ejemplo práctico:** Una compañía proveedora de software contable para asesorías fiscales utiliza telemarketing emisor para contactar directamente con los directores de los despachos profesionales colegiados de una provincia, asegurándose de que la propuesta de valor llega exactamente al decisor de compra en el momento de la llamada.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La publicidad directa incluye:",
+      "opciones": {
+        "a": "Toda la publicidad enviada por correo",
+        "b": "La publicidad entregada en persona al consumidor potencial",
+        "c": "La venta por correo",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El concepto amplio de publicidad directa engloba todas aquellas modalidades y soportes en los que el mensaje publicitario se hace llegar de manera individualizada y física al destinatario: incluye toda la publicidad enviada por correo postal a domicilios o empresas (a), la publicidad entregada en persona al consumidor potencial en la vía pública o establecimientos (b), y las fórmulas tradicionales de venta por catálogo o correspondencia (c). Por consiguiente, todas las anteriores son modalidades correctas de publicidad directa.\n\n**Ejemplo práctico:** Una empresa de productos ortopédicos combina en su estrategia de publicidad directa el envío postal de catálogos periódicos a personas registradas, la entrega en mano de folletos explicativos a la salida de centros de salud y la gestión de pedidos a través de cupones de respuesta postal franqueada.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El mailing consiste en:",
+      "opciones": {
+        "a": "Enviar por correo una carta o paquete sin personalizar a personas que creemos que pueden estar interesadas por nuestros productos o servicios",
+        "b": "Enviar por correo una carta o paquete personalizado a un grupo de personas cuyas direcciones están en nuestra base de datos",
+        "c": "Un envío masivo de una carta o paquete a las personas de una determinada zona geográfica",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El mailing (o correo directo publicitario) se define específicamente como el envío postal de una carta, folleto o paquete personalizado dirigido con nombre, apellidos y dirección específica a un grupo de personas identificadas en la base de datos de la empresa. El reparto masivo sin personalizar en buzones de una determinada zona geográfica constituye buzoneo (*unaddressed mail*), no mailing personalizado.\n\n**Ejemplo práctico:** Un club de fidelización automovilístico como el RACE o una aseguradora remite por correo postal una carta personalizada dirigida a «D. Juan Pérez», con un folleto explicativo y un formulario prerrellenado con sus datos personales para invitarle a renovar su suscripción con ventajas exclusivas.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El \"e-mail Marketing\" se caracteriza por los siguientes aspectos:",
+      "opciones": {
+        "a": "Permite realizar una oferta personalizada y exclusiva a cada persona a través de un medio inmediato, el e-mail",
+        "b": "El coste del medio empleado, en este caso el correo electrónico, para hacer llegar la oferta es reducido",
+        "c": "Los resultados se pueden medir casi inmediatamente, como máximo dos días",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El marketing por correo electrónico (*email marketing*) reúne tres grandes fortalezas competitivas: 1) permite realizar ofertas altamente personalizadas y exclusivas a cada usuario a través de un canal directo e íntimo (a), 2) el coste del medio empleado para hacer llegar la propuesta es sumamente reducido en comparación con el correo postal o los medios masivos (b), y 3) los resultados analíticos (tasas de apertura, clics y conversiones) se pueden medir de forma continua y casi inmediata, en un plazo máximo de uno a dos días tras el envío (c). Por consiguiente, todas las características son correctas.\n\n**Ejemplo práctico:** Una tienda online como Fnac o Amazon envía una newsletter con ofertas personalizadas según los libros visitados por el usuario; el coste de envío es de fracciones de céntimo por correo y a las 24 horas el equipo de marketing analiza con exactitud la tasa de apertura del 28% y las ventas directas generadas por la campaña.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Ventajas que aporta el buzoneo:",
+      "opciones": {
+        "a": "El porcentaje de respuesta suele ser alto",
+        "b": "El mercado todavía no está saturado",
+        "c": "El tiempo de respuesta es mínimo",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Entre las características operativas del buzoneo (distribución de folletos no direccionados en buzones de viviendas de un área geográfica determinada), destaca que el tiempo de respuesta es mínimo: el consumidor que recoge el folleto al llegar a su domicilio decide casi al instante (el mismo día o en un plazo de pocas horas) si aprovecha la oferta comercial (por ejemplo, pidiendo comida a domicilio o acudiendo a un comercio de proximidad). Por el contrario, los porcentajes de respuesta medios del buzoneo suelen ser bajos (en torno al 1-2%) y los buzones sufren a menudo saturación publicitaria.\n\n**Ejemplo práctico:** Una pizzería de barrio reparte folletos con una promoción de «2x1 en pizzas medianas esta noche» en los buzones del vecindario a las 18:00 horas; el tiempo de respuesta es mínimo, ya que los vecinos que recogen el folleto al volver del trabajo llaman directamente esa misma noche para realizar sus pedidos de cena.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

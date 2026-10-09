@@ -1,0 +1,126 @@
+{
+  "unidad": 24,
+  "titulo": "Autoevaluación Unidad 24 - Métodos de Fijación de Precios: Coste, Valor y Competencia",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Una de las paradojas de fijar los precios en función del coste es que:",
+      "opciones": {
+        "a": "Se ponen precios superiores en los mercados fuertes y precios inferiores en los mercados débiles.",
+        "b": "Cuanto menos vendemos, más suben los costes y, en consecuencia, más suben los precios.",
+        "c": "Se ponen precios iguales tanto en los mercados fuertes como en los mercados débiles.",
+        "d": "Cuanto menos vendemos, más bajan los costes y, en consecuencia, más bajan los precios."
+      },
+      "explicacion": "La paradoja de los métodos basados en costes (cost-plus pricing) radica en su razonamiento circular: el coste unitario depende del volumen producido debido al reparto de los costes fijos. Si las ventas disminuyen, los costes fijos deben absorberse entre menos unidades producidas, provocando un aumento del coste unitario; si la empresa traslada ese mayor coste al precio de venta encareciendo el producto, la demanda caerá todavía más, acelerando una espiral viciosa.\n\n**Ejemplo práctico:** Una imprenta que soporta 20.000 € de costes fijos y preveía fabricar 10.000 cuadernos asume un coste fijo de 2 € por unidad; si sus ventas bajan a 5.000 cuadernos, el coste unitario se eleva a 4 €. Si decide subir el precio para compensarlo, sus ventas caerán aún más frente a los competidores.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La fijación del precio en función del valor sigue el siguiente esquema:",
+      "opciones": {
+        "a": "Producto ' Valor ' Consumidor ' Precio ' Coste",
+        "b": "Valor ' Consumidores ' Precio ' Coste ' Producto",
+        "c": "Consumidores ' Valor ' Producto ' Precio ' Coste",
+        "d": "Consumidores ' Valor ' Precio ' Coste ' Producto"
+      },
+      "explicacion": "El enfoque de fijación de precios basado en el valor (value-based pricing) invierte radicalmente la lógica tradicional de los costes. El proceso se inicia comprendiendo a los Consumidores y sus necesidades específicas; a partir de ahí se cuantifica el Valor que estos perciben en la solución; sobre ese valor percibido se fija el Precio que están dispuestos a pagar; este precio determina el Coste máximo admisible (coste objetivo o target cost) y, finalmente, se diseña y fabrica el Producto que cumpla con dicho coste sin mermar la calidad requerida.\n\n**Ejemplo práctico:** Antes de producir un reloj inteligente para corredores, la marca analiza las demandas de los atletas (Consumidores), identifica que pagarían por una batería de dos semanas (Valor), establece un precio comercial de 250 € (Precio), deduce que el coste de producción no puede exceder los 140 € (Coste) y encarga a los ingenieros diseñar los circuitos dentro de ese margen (Producto).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El precio en función de la competencia:",
+      "opciones": {
+        "a": "Permite que el precio lo marquen los compradores",
+        "b": "Se trata de utilizar el precio para competir en el mercado",
+        "c": "Se trata de fijar el precio en función del deseo de los consumidores",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La fijación de precios orientada a la competencia utiliza el precio de forma activa como un instrumento estratégico y táctico de rivalidad en el mercado. En lugar de aislarse en sus costes internos o en estudios teóricos de demanda, la empresa calibra sus precios para posicionarse, capturar cuota, neutralizar movimientos de competidores o disuadir la entrada de nuevos operadores.\n\n**Ejemplo práctico:** Una aerolínea adapta dinámicamente las tarifas de sus vuelos en una ruta específica tras la entrada de un operador de trenes de alta velocidad, ajustando los precios para no perder cuota de viajeros corporativos en dicho trayecto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Los métodos basados en el coste incluyen:",
+      "opciones": {
+        "a": "El margen sobre el coste",
+        "b": "El margen sobre el precio de venta",
+        "c": "La tasa de rentabilidad",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Los métodos de fijación de precios fundamentados en los costes engloban diversas técnicas contables y financieras habituales en la empresa: la fijación mediante un margen añadido sobre el coste (cost-plus o markup), la fijación mediante un margen porcentual sobre el precio final de venta al público y el método de la tasa de rentabilidad objetivo sobre el capital invertido (target return pricing).\n\n**Ejemplo práctico:** Una empresa de distribución de suministros industriales aplica un margen del 35% sobre el coste de compra de herramientas, verifica que dicho importe garantiza un margen bruto del 26% sobre el precio de venta y corrobora que satisface la rentabilidad mínima exigida por los accionistas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes opciones NO debe utilizarse como método de fijación de precios basado en la competencia:",
+      "opciones": {
+        "a": "Fijar un precio medio muy diferente al de la competencia cuando los productos son parecidos o equivalentes.",
+        "b": "Tener en cuenta que es el líder el que marca la pauta, y así se sigue a este líder en precios.",
+        "c": "Colocarse en el mercado en una posición claramente superior o claramente inferior respecto a los precios medios del sector.",
+        "d": "Casos especiales como son las licitaciones o concursos."
+      },
+      "explicacion": "En la fijación de precios orientada a la competencia, desviarse ostensiblemente del precio medio del mercado cuando los productos son homogéneos o percibidos como equivalentes es un error estratégico grave. Si una empresa fija un precio significativamente mayor para un producto indiferenciado, los clientes comprarán a los competidores; si fija un precio muy inferior sin justificación de costes, erosionará sus márgenes y desatará una guerra de precios destructiva.\n\n**Ejemplo práctico:** En el mercado de azúcar blanco estándar empaquetado, si una marca fija su paquete un 40% más caro que las restantes marcas del lineal sin aportar ningún atributo diferenciador de valor añadido, sufrirá un colapso inmediato en sus ventas.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En la reacción a la competencia en precios, si el competidor es más débil y la reacción de precios es demasiado costosa, la conducta recomendable es:",
+      "opciones": {
+        "a": "Ignorar",
+        "b": "Atacar",
+        "c": "Defender",
+        "d": "Acomodarse"
+      },
+      "explicacion": "En la dinámica competitiva de precios, la doctrina estratégica establece que si un competidor de escaso tamaño y recursos financieros limitados emprende un recorte de precios, y responder con una rebaja generalizada resultaría sumamente costosa para la empresa líder (al erosionar los márgenes de toda su amplia base instalada de clientes), la respuesta más racional y rentable es ignorar la provocación, ya que el impacto de la fuga de clientes es mínimo comparado con el coste de igualar precios.\n\n**Ejemplo práctico:** Una aseguradora de salud líder con dos millones de pólizas decide ignorar una promoción puntual agresiva lanzada por una pequeña startup de seguros online local, pues rebajar la cuota a todos sus asegurados le costaría millones de euros frente a la pérdida residual de apenas unas decenas de clientes.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En los métodos de fijación de precios basados en el mercado o la demanda, el precio es función de:",
+      "opciones": {
+        "a": "Reproducción de un producto ya existente y grado de precisión en la realización de la copia del original",
+        "b": "El carácter complementario respecto a otro ya adquirido",
+        "c": "Conocimiento de productos sustitutivos",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "En los métodos orientados a la demanda y al mercado, la elasticidad y la disposición a pagar de los clientes vienen fuertemente moduladas por el contexto de consumo. Concretamente, el carácter complementario de un producto respecto a otro bien principal ya adquirido reduce la sensibilidad al precio (el cliente acepta un precio mayor para no perder la utilidad del bien principal), mientras que la disponibilidad y conocimiento de productos sustitutivos alternativos presiona el precio a la baja al dotar de alternativas al consumidor.\n\n**Ejemplo práctico:** Una empresa vende cámaras de fotos profesionales y puede fijar precios más holgados en sus baterías y accesorios complementarios patentados; sin embargo, en cuanto aparecen adaptadores compatibles de terceras marcas (sustitutivos), la demanda se vuelve sumamente sensible al precio y obliga a moderar las tarifas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "En el método de fijación de precios basado en el valor percibido:",
+      "opciones": {
+        "a": "Se reconoce expresamente el fenómeno competitivo y la concepción del consumidor como individuo sensible al valor",
+        "b": "El valor percibido se compone de diversos elementos como la imagen, los sistemas de entrega del producto, calidad de la garantía, servicios de atención al cliente, reputación del proveedor, responsabilidad, etc.",
+        "c": "Se reconoce expresamente la concepción del consumidor como individuo sensible a la relación calidad-precio",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El método de fijación de precios basado en el valor percibido reconoce explícitamente la madurez del consumidor contemporáneo y la presión competitiva en el mercado (opciones a y c). El valor total no se limita al producto físico, sino que comprende una arquitectura integral de factores tangibles e intangibles: reputación y solvencia de la marca, excelencia en los canales y tiempos de entrega, fiabilidad de las garantías, calidad del soporte técnico posventa y responsabilidad social corporativa (opción b).\n\n**Ejemplo práctico:** Caterpillar fija precios notablemente superiores en su maquinaria pesada de construcción frente a fabricantes asiáticos porque los contratistas valoran su garantía de suministro de repuestos en menos de 24 horas y su red global de talleres, minimizando paradas de obra.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La creación de valor se realiza a través de un proceso denominado por Nagle y Holden como las cinco Cs. Cuál de las siguientes opciones NO pertenece a este modelo:",
+      "opciones": {
+        "a": "Comprender lo que constituye valor.",
+        "b": "Crear valor.",
+        "c": "Comunicar el valor que se crea.",
+        "d": "Consumir el valor que se crea"
+      },
+      "explicacion": "El célebre modelo de las 5 Cs de la gestión del valor desarrollado por Nagle y Holden estructura la fijación de precios en cinco etapas empresariales: Comprender (Comprehend) el valor real para el cliente, Crear (Create) dicho valor mediante soluciones diferenciadas, Comunicar (Communicate) el valor con efectividad, Convencer (Convince) al comprador de su superioridad y Capturar (Capture) dicho valor a través de la política de precios. «Consumir el valor» es la acción que ejecuta el usuario, no una etapa estratégica del modelo de pricing.\n\n**Ejemplo práctico:** Una compañía de software empresarial analiza las ineficiencias del cliente (Comprender), desarrolla un algoritmo de optimización (Crear), demuestra con métricas el ahorro de tiempo (Comunicar), persuade al comité de compras (Convencer) y establece una suscripción acorde a una fracción de los ahorros logrados (Capturar).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El método de fijación de precios basados en el canal de distribución:",
+      "opciones": {
+        "a": "Un canal más largo tendrá más intermediarios, cada uno de estos tendrá unos costes que recuperar y un margen que conseguir, lo que producirá un mayor precio en el mercado para el consumidor.",
+        "b": "Un canal corto, sin embargo tendrá menos intermediarios, menos costes, márgenes y por lo tanto menor precio.",
+        "c": "Las dos anteriores son ciertas",
+        "d": "Las dos anteriores son falsas"
+      },
+      "explicacion": "La configuración y longitud del canal de distribución ejerce una repercusión directa e ineludible sobre el precio de venta al público (PVP). En un canal largo, la presencia sucesiva de múltiples intermediarios (mayoristas en origen, distribuidores comisionistas, detallistas) acumula costes operativos y márgenes comerciales en cascada, encareciendo el producto final para el consumidor. Por contra, un canal corto o directo suprime eslabones intermediarios, reduciendo márgenes agregados y permitiendo un precio más competitivo o un mayor margen neto para el fabricante.\n\n**Ejemplo práctico:** Una cooperativa vinícola que comercializa sus botellas mediante su propia web de venta directa (canal corto) ofrece el vino a 10 €, mientras que esa misma botella exportada a través de un importador mayorista y una cadena de tiendas gourmet (canal largo) alcanza un PVP de 22 € para retribuir a cada intermediario.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

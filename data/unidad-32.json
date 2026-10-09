@@ -1,0 +1,126 @@
+{
+  "unidad": 32,
+  "titulo": "Autoevaluación Unidad 32 - Habilidades Directivas, Negociación y Gestión del Tiempo",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Para hacer una buena gestión del tiempo es necesario analizar:",
+      "opciones": {
+        "a": "Lo que creemos que hacemos.",
+        "b": "Lo que creemos que deberíamos hacer.",
+        "c": "Lo que creemos que estamos haciendo realmente.",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Una gestión eficaz del tiempo requiere un diagnóstico analítico riguroso que contraste la percepción subjetiva con la prescripción del puesto y la realidad empírica. Es imprescindible analizar lo que creemos que hacemos (nuestra autopercepción), lo que creemos que deberíamos hacer (nuestras prioridades y responsabilidades estratégicas) y lo que realmente estamos haciendo (el registro cuantitativo del tiempo real invertido).\n\n**Ejemplo práctico:** Un director comercial audita su agenda semanal con una aplicación de control horario y descubre que, aunque piensa que dedica su tiempo a la prospección de cuentas clave (lo que cree que hace) y su rol exige diseñar el plan de ventas (lo que debería hacer), en realidad pasa 25 horas semanales respondiendo correos electrónicos operativos (lo que realmente hace).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes opciones NO es un ladrón del tiempo:",
+      "opciones": {
+        "a": "Cumplir con los objetivos que nos ha puesto la empresa",
+        "b": "Una reunión",
+        "c": "El teléfono",
+        "d": "Las visitas e interrupciones"
+      },
+      "explicacion": "Los ladrones del tiempo son elementos perturbadores, distracciones o actividades no planificadas e improductivas (llamadas imprevistas, reuniones interminables y sin orden del día, interrupciones de compañeros o visitas no anunciadas) que desvían la atención de lo prioritario. Cumplir con los objetivos fijados por la empresa constituye el núcleo productivo y la finalidad misma del puesto de trabajo, por lo que nunca es un ladrón del tiempo.\n\n**Ejemplo práctico:** Cuando un ejecutivo reserva un bloque de dos horas sin interrupciones para preparar la propuesta económica de un cliente está trabajando directamente en sus objetivos; si durante ese tiempo atiende tres llamadas irrelevantes y dos visitas de pasillo, estas últimas constituyen auténticos ladrones de tiempo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes opciones es un elemento característico de los conflictos:",
+      "opciones": {
+        "a": "El conflicto tiene su origen en la diversidad de visiones, criterios y opiniones.",
+        "b": "El conflicto supone la interrupción del proceso de cooperación.",
+        "c": "El conflicto tiene un coste emocional derivado de la tensión que genera.",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En el análisis del comportamiento organizacional, el conflicto es un fenómeno multidimensional caracterizado por originarse en la disparidad de criterios, percepciones y valores entre individuos o departamentos, provocar una ruptura o bloqueo temporal en la dinámica colaborativa y generar un desgaste emocional y tensión psicológica entre las partes implicadas.\n\n**Ejemplo práctico:** En un debate entre el departamento de marketing y el de producción sobre el adelanto de una fecha de lanzamiento, surgen discrepancias sobre la calidad técnica (diversidad de visiones), se paralizan los pedidos de materiales (interrupción de la cooperación) y se crea un ambiente de hostilidad en el comité de dirección (coste emocional).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Una negociación colaborativa es aquella que:",
+      "opciones": {
+        "a": "Las partes no pretenden imponer sus preferencias",
+        "b": "Hay una confrontación de poder a poder",
+        "c": "Las partes pretenden generar un sistema de relaciones diferente que integre las expectativas de ambas lados",
+        "d": "Las respuestas a y c son correctas"
+      },
+      "explicacion": "La negociación colaborativa o integrativa (basada en el modelo de principios de Harvard) se caracteriza porque las partes no buscan imponer unilateralmente sus posiciones mediante la fuerza o el poder, sino cooperar de manera constructiva para construir un acuerdo que satisfaga las expectativas e intereses mutuos, transformando la relación en una alianza de beneficio recíproco a largo plazo.\n\n**Ejemplo práctico:** Un proveedor de embalajes y una tienda online negocian no discutiendo agresivamente por un descuento, sino acordando diseñar conjuntamente cajas a medida que reducen el coste de envío para la tienda y optimizan el proceso de fabricación del proveedor, beneficiando a ambas partes.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Una buena negociación incluye:",
+      "opciones": {
+        "a": "Evitar el entorno adecuado",
+        "b": "Hablar pero no escuchar",
+        "c": "Formular propuestas",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El núcleo resolutivo de una negociación exitosa radica en la capacidad de formular propuestas y contrapropuestas creativas y estructuradas que permitan avanzar hacia un acuerdo. Por el contrario, un buen negociador nunca evita el entorno adecuado (debe propiciar un clima idóneo) ni habla sin escuchar (la escucha activa es una competencia indispensable).\n\n**Ejemplo práctico:** Durante la renegociación de un contrato de arrendamiento de un local comercial, el inquilino formula una propuesta innovadora ofreciendo una renta fija más baja combinada con un porcentaje variable sobre las ventas mensuales, desbloqueando la negociación con el propietario.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En una negociación comercial:",
+      "opciones": {
+        "a": "En la mayoría de los casos el vendedor está en una situación de poder",
+        "b": "El comprador conoce mucho mejor el producto que el vendedor",
+        "c": "El vendedor que emplea tiempo desde el comienzo de la operación (desarrollando las especificaciones) siempre se encuentra en mejor posición",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En la venta consultiva y B2B, el vendedor que participa desde el inicio del proceso de compra colaborando activamente con el cliente en la definición de las especificaciones y necesidades técnicas se sitúa en una posición de gran ventaja competitiva, ya que orienta los criterios de decisión hacia las fortalezas exclusivas de su propia propuesta.\n\n**Ejemplo práctico:** Una consultora informática ayuda al director de tecnología de un hospital a redactar los pliegos técnicos para renovar el sistema de historia clínica; al diseñar los requisitos en torno a su propia arquitectura tecnológica, se garantiza una posición privilegiada al licitar formalmente.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La visión como habilidad directiva:",
+      "opciones": {
+        "a": "Es el principio del proceso de reinventarse uno mismo o de que una organización se reinvente a sí misma",
+        "b": "Debe partir de un profundo conocimiento de la compañía en la que se trabaja, para así conseguir una panorámica general de la misma.",
+        "c": "Representa deseos, sueños, esperanzas, metas y planes, que no son meras fantasías, sino una realidad aún no llevada a la esfera física",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La visión estratégica es una de las habilidades directivas fundamentales: impulsa la transformación y reinvención continua de personas y organizaciones, se apoya en un conocimiento exhaustivo y riguroso de las capacidades internas y del entorno de la empresa, y proyecta metas y planes ambiciosos pero alcanzables que sirven de brújula operativa para movilizar a la organización.\n\n**Ejemplo práctico:** Cuando Satya Nadella asumió la dirección ejecutiva de Microsoft, partió de su profundo conocimiento de la ingeniería de la casa para proyectar una visión clara hacia los servicios en la nube («Cloud First, Mobile First»), transformando radicalmente la cultura y el valor bursátil de la compañía.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Para dirigir equipos de trabajo es importante:",
+      "opciones": {
+        "a": "Utilizar el tacto",
+        "b": "Poner en práctica la \"escucha activa\"",
+        "c": "Que el líder monopolice las reuniones",
+        "d": "Las opciones a y b son correctas"
+      },
+      "explicacion": "La dirección y liderazgo eficaz de equipos de trabajo requiere habilidades interpersonales avanzadas: el tacto y la asertividad para comunicar decisiones y corregir desviaciones con respeto, y la escucha activa para comprender las inquietudes, motivaciones y aportaciones del equipo. Monopolizar las reuniones, por el contrario, desmotiva a los colaboradores y asfixia la iniciativa colectiva.\n\n**Ejemplo práctico:** Un responsable de proyecto de marketing reúne a su equipo multidisciplinar y practica la escucha activa prestando atención a los problemas de diseño expresados por los creativos, interviniendo con tacto para reorientar el enfoque sin descalificar ninguna aportación.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Un buen directivo debe ser innovador:",
+      "opciones": {
+        "a": "Debe estar alerta a cualquier idea, ya sea propia o de los colaboradores.",
+        "b": "Debe centrarse sólo en aquellas innovaciones que suponga grandes cambios",
+        "c": "Debe adelantarse a los acontecimientos",
+        "d": "Las opciones a y c son correctas"
+      },
+      "explicacion": "El directivo innovador debe mantener una actitud receptiva y de alerta continua ante cualquier idea o propuesta de mejora, provenga de su propia reflexión o de cualquier miembro de su equipo (innovación abierta y ascendente), al tiempo que debe anticiparse proactivamente a las tendencias y demandas del mercado. La innovación no debe restringirse a cambios radicales, pues la mejora incremental es vital.\n\n**Ejemplo práctico:** El director de operaciones de una cadena hotelera acoge la sugerencia de un recepcionista para implantar un sistema de llaves digitales en el smartphone y se anticipa a los cambios regulatorios eliminando los envases plásticos antes de que sea exigido por ley.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Una de las principales características de un buen líder es:",
+      "opciones": {
+        "a": "El humor",
+        "b": "La honestidad",
+        "c": "La humanidad",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En los modelos contemporáneos de liderazgo transformacional y humanista, un líder sobresaliente combina una sólida honestidad e integridad (que genera credibilidad y confianza), una profunda humanidad (empatía, comprensión y trato digno a las personas) y un adecuado sentido del humor (que rebaja el estrés, fomenta la resiliencia y afianza un clima laboral positivo).\n\n**Ejemplo práctico:** En un periodo de alta presión por el cierre de un ejercicio fiscal, una directora general lidera comunicando con honestidad la situación financiera, preocupándose genuinamente por el bienestar de su equipo (humanidad) y recurriendo a anécdotas con humor para desdramatizar los momentos de tensión.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

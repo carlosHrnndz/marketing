@@ -1,0 +1,126 @@
+{
+  "unidad": 8,
+  "titulo": "Autoevaluación Unidad 8 - Distribución Comercial y Canales de Venta",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones define mejor el objetivo de la variable distribución del marketing mix:",
+      "opciones": {
+        "a": "Poner el producto a disposición del consumidor final en la cantidad demandada, en el momento en el que lo necesite y en el lugar donde desee adquirirlo",
+        "b": "Poner el producto a disposición del consumidor final en una cantidad adecuada, en el momento en el que lo necesite y en un lugar donde su adquisición sea cómoda, todo ello de una forma que estimule su adquisición para que sea lo mayor posible y aporte el máximo de beneficios a la empresa",
+        "c": "Poner el producto a disposición del consumidor final en la cantidad demandada, en el momento en el que lo necesite y en el lugar donde desee adquirirlo, todo ello de una forma que estimule su adquisición en el punto de venta y a un coste razonable",
+        "d": "Ninguna de las anteriores define correctamente el objetivo de la variable distribución del marketing mix"
+      },
+      "explicacion": "La distribución comercial es la variable del marketing mix responsable de hacer llegar los productos desde el fabricante hasta el consumidor final. Su objetivo primordial se define con precisión técnica como: poner el bien a disposición del cliente en la cantidad demandada, en el momento preciso en que lo necesite y en el lugar exacto donde desee adquirirlo, todo ello mediante acciones de merchandising y animación en el punto de venta que estimulen su adquisición y manteniendo los costes logísticos y comerciales en un nivel razonable y eficiente para la empresa.\n\n**Ejemplo práctico:** Coca-Cola diseña su distribución masiva para que cualquier consumidor que sienta sed pueda comprar una lata fría en una máquina de vending en una estación, en una tienda de conveniencia o en un supermercado cercano, estimulando la compra por impulso a un coste logístico optimizado.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Está muy extendido considerar que la dirección de la distribución comprende un conjunto de actividades básicas (Díez de Castro, 2004). Cuál de las siguientes opciones no es una de estas actividades:",
+      "opciones": {
+        "a": "Diseño y selección del canal de distribución",
+        "b": "Localización y dimensión de los puntos de venta",
+        "c": "Logística de la distribución o distribución física",
+        "d": "Todas ellas son actividades de la dirección de la distribución"
+      },
+      "explicacion": "Según el marco teórico de la dirección de la distribución comercial (Díez de Castro, 2004), la gestión de los canales engloba tres grandes bloques de actividades básicas: 1) El diseño y selección estratégica del canal de distribución (elección de intermediarios, longitud y cobertura), 2) La localización y dimensión física y comercial de los puntos de venta, y 3) La logística de la distribución o distribución física (transporte, almacenaje, gestión de pedidos y control de inventarios). Al ser todas ellas actividades nucleares, la opción d es la correcta.\n\n**Ejemplo práctico:** Una cadena de moda como Mango planifica simultáneamente el diseño de sus canales (combinando tiendas propias con franquicias), la ubicación estratégica de sus locales en las principales calles comerciales de cada ciudad, y su sistema logístico automatizado para reabastecer el stock en 24 horas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuando se diseña el canal de distribución de la empresa, uno de los condicionantes a tener en cuenta es la compatibilidad con el producto. Cuál de los siguientes aspectos hay que tener en cuenta:",
+      "opciones": {
+        "a": "Capacidad financiera",
+        "b": "Tipos de envase",
+        "c": "Dimensión del mercado",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Al diseñar y seleccionar el canal de distribución, la empresa debe analizar de forma integrada un conjunto de condicionantes clave para garantizar la compatibilidad con el producto y la viabilidad del negocio: los tipos de envase y características del producto (peso, volumen, fragilidad o perecederidad que exigen frío o manipulación especial), la capacidad financiera de la empresa (recursos necesarios para asumir una red de ventas propia o recurrir a intermediarios), y la dimensión y dispersión geográfica del mercado meta.\n\n**Ejemplo práctico:** Un fabricante de helados artesanos debe considerar que su producto requiere envases isotérmicos especiales y transporte ultracongelado (tipo de envase), evaluar si dispone de capital para comprar su propia flota de camiones frigoríficos (capacidad financiera) y analizar si su mercado está concentrado localmente o repartido en todo el país (dimensión del mercado).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuándo se da un canal largo:",
+      "opciones": {
+        "a": "Cuando el fabricante asume todas las funciones de distribución",
+        "b": "Cuando hay tres o más tipos de intermediarios",
+        "c": "Cuando entre el fabricante y el consumidor existen dos niveles de intermediarios",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "En la clasificación estructural de los canales de distribución según su nivel o longitud, se distinguen: canal directo (cero intermediarios entre fabricante y consumidor), canal corto (un único nivel de intermediario, generalmente el detallista), y canal largo (cuando intervienen dos o más niveles de intermediarios; canónicamente se considera canal largo cuando intervienen tres o más tipos de intermediarios, como mayorista en origen, mayorista en destino y minorista).\n\n**Ejemplo práctico:** En el sector de frutas y hortalizas, el canal largo típico se compone de: agricultor -> mayorista en origen (almacén acopiador) -> mayorista en destino (Mercamadrid) -> detallista (frutería de barrio) -> consumidor final, totalizando tres intermediarios antes de llegar al hogar.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes no es una modalidad básica de venta en los canales de distribución:",
+      "opciones": {
+        "a": "Venta directa",
+        "b": "Venta indirecta",
+        "c": "Venta al por mayor",
+        "d": "Venta al detalle"
+      },
+      "explicacion": "Las modalidades básicas de venta en la estructura de los canales de distribución comercial se clasifican operativamente en: venta directa (realizada sin intermediarios del fabricante al cliente), venta al por mayor o mayorista (transacciones destinadas a la reventa o a uso profesional/industrial), y venta al detalle o minorista (transacciones destinadas al consumidor final para su uso personal). La «venta indirecta» no es una modalidad básica de venta en esta clasificación, sino el concepto genérico opuesto a la distribución directa.\n\n**Ejemplo práctico:** Un fabricante de herramientas puede practicar venta directa a través de su página web corporativa, venta al por mayor suministrando palés de herramientas a ferreterías mayoristas, o venta al detalle a través de tiendas propias dirigidas a aficionados al bricolaje.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes afirmaciones es la más correcta:",
+      "opciones": {
+        "a": "Desde el punto de vista del coste, el sistema de distribución física será eficiente cuando, para un nivel de servicio dado, sólo pequeñas modificaciones de las actividades del sistema permitan reducir el coste del mismo",
+        "b": "Desde el punto de vista del coste, el sistema de distribución física será eficiente cuando, para un nivel de servicio dado, sólo grandes modificaciones de las actividades del sistema permitan reducir el coste del mismo",
+        "c": "Desde el punto de vista del coste, el sistema de distribución física será eficiente cuando, para un nivel de servicio dado, ninguna modificación de las actividades del sistema permita reducir el coste del mismo",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "Desde la óptica de la gestión de costes y la logística comercial, un sistema de distribución física alcanza la máxima eficiencia económica cuando opera en la frontera de optimización: es decir, cuando para un estándar o nivel de servicio al cliente previamente fijado (por ejemplo, plazo de entrega garantizado en 24 horas y rotura de stock menor al 1%), ninguna modificación o reorganización de las actividades logísticas (transporte, rutas, almacenaje) permite reducir aún más el coste total del sistema sin mermar la calidad de dicho servicio.\n\n**Ejemplo práctico:** Una empresa de distribución de suministros farmacéuticos optimiza sus rutas de reparto y niveles de stock de tal forma que cumple con su promesa de tres entregas diarias a farmacias al mínimo coste posible; cualquier recorte adicional implicaría retrasar entregas críticas a los pacientes.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes opciones no es una ventaja de los intermediarios:",
+      "opciones": {
+        "a": "Reducen el número de transacciones que deben realizar las partes",
+        "b": "Adecuan la oferta a la demanda",
+        "c": "Asumen parte del transporte y del almacenamiento del producto",
+        "d": "Todas las anteriores son ventajas de los intermediarios"
+      },
+      "explicacion": "Los intermediarios comerciales existen y aportan un inmenso valor económico porque generan eficiencias sustanciales en el sistema de distribución: reducen drásticamente el número de transacciones necesarias entre fabricantes y consumidores (principio de economía de contactos), adecuan la oferta masiva a la demanda fraccionada (compran en grandes lotes y venden en unidades individuales adaptadas al consumo), y asumen funciones críticas de financiación, transporte y almacenamiento de stocks.\n\n**Ejemplo práctico:** Si 10 fabricantes de galletas tuvieran que vender directamente a 5.000 hogares, se requerirían 50.000 transacciones y envíos independientes. Al introducir un supermercado intermediario, los 10 fabricantes venden al supermercado y los hogares compran allí, reduciendo las transacciones totales a 5.010.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "¿Qué hacen los mayoristas?",
+      "opciones": {
+        "a": "Venden los productos que han adquirido a los fabricantes y/o otros mayoristas al consumidor final",
+        "b": "Adquieren bienes y servicios a otros mayoristas o a productores y los venden a detallistas, aunque también pueden revenderlos a otros mayoristas",
+        "c": "Las opciones a y b son correctas",
+        "d": "Las opciones a y b son incorrectas"
+      },
+      "explicacion": "Los mayoristas son intermediarios comerciales que compran bienes y servicios a fabricantes u otros mayoristas y los revenden principalmente a comerciantes detallistas, a otros mayoristas o a clientes institucionales e industriales. Su característica definitoria esencial es que nunca venden en cantidades significativas ni de forma predominante al consumidor final, función que corresponde en exclusiva a los minoristas.\n\n**Ejemplo práctico:** Una empresa mayorista de alimentación como Makro adquiere miles de cajas de aceite directamente a las almazaras productoras y las revende en palés o cajas a bares, restaurantes y pequeñas tiendas de barrio para su negocio, no a familias particulares.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes opciones no es un formato de comercio minorista:",
+      "opciones": {
+        "a": "Centros comerciales",
+        "b": "Franquicias",
+        "c": "Autoservicios de mayoristas",
+        "d": "Tiendas tradicionales"
+      },
+      "explicacion": "Los centros comerciales, las franquicias de tiendas y las tiendas tradicionales son formatos indiscutibles de comercio minorista o detallista, cuyo propósito es vender bienes al consumidor final para su uso individual o doméstico. En cambio, los autoservicios de mayoristas (conocidos internacionalmente como «Cash & Carry») pertenecen por definición al comercio mayorista, estando su acceso y venta restringidos legal y operativamente a profesionales, hosteleros y comerciantes acreditados.\n\n**Ejemplo práctico:** Mientras que cualquier consumidor puede entrar libremente a comprar ropa en una tienda en franquicia de Mango o en una tienda de comestibles tradicional, para comprar en un autoservicio mayorista tipo Makro se exige obligatoriamente un carné profesional o CIF de empresa.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de los siguientes no es un factor de éxito del comercio minorista:",
+      "opciones": {
+        "a": "Disponen de una gran superficie de exposición y venta",
+        "b": "El método de autoservicio permite un contacto directo entre los clientes y los productos",
+        "c": "No ahorran tiempo a los consumidores",
+        "d": "Concentran en un único edificio, un gran número de productos de una amplia gama de fabricantes"
+      },
+      "explicacion": "Uno de los principales motivos del éxito del comercio minorista moderno (supermercados, hipermercados y tiendas de autoservicio) es precisamente el enorme ahorro de tiempo y esfuerzo que proporcionan al comprador al ofrecer una amplia variedad de productos bajo un mismo techo (concepto one-stop shopping). Por consiguiente, la proposición «No ahorran tiempo a los consumidores» es falsa y no puede considerarse un factor de éxito, sino todo lo contrario.\n\n**Ejemplo práctico:** Un hipermercado como Carrefour triunfa comercialmente porque permite a una familia realizar en una sola visita semanal de una hora la compra completa de alimentación fresca, productos de limpieza, papelería y pequeños electrodomésticos, ahorrándoles múltiples desplazamientos a tiendas individuales dispersas.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

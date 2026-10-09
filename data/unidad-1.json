@@ -1,0 +1,126 @@
+{
+  "unidad": 1,
+  "titulo": "Autoevaluación Unidad 1 - Fundamentos del Marketing y Orientación al Cliente",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál es el eje fundamental de la actividad de marketing:",
+      "opciones": {
+        "a": "Los productos",
+        "b": "Los empleados",
+        "c": "Los clientes",
+        "d": "Todas las respuestas son correctas"
+      },
+      "explicacion": "La concepción moderna del marketing sitúa al cliente en el epicentro de toda la estrategia y operativa empresarial (enfoque centrado en el cliente o *customer-centric*). A diferencia del enfoque clásico orientado exclusivamente a la producción o a la venta agresiva de existencias, el marketing parte del análisis riguroso de las necesidades, deseos y expectativas del consumidor para diseñar propuestas de valor que generen satisfacción mutua y relaciones comerciales duraderas.\n\n**Ejemplo práctico:** Amazon articula toda su cultura corporativa bajo el principio directivo de «obsesión por el cliente», adaptando continuamente su logística, catálogo y algoritmos de recomendación en función de la experiencia y satisfacción del comprador en lugar de centrarse solo en la competencia.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de los siguientes es un elemento clave en la actuación de marketing:",
+      "opciones": {
+        "a": "Innovar",
+        "b": "Diferenciarse",
+        "c": "Especializarse",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Para alcanzar y consolidar una ventaja competitiva sostenible en mercados dinámicos y saturados, la actuación de marketing exige integrar la innovación constante (desarrollo de nuevas soluciones y procesos de valor), la diferenciación (creación de atributos percibidos como únicos e inimitables) y la especialización (atención experta y focalizada en determinados segmentos o nichos cuyas necesidades se atienden mejor que los competidores generalistas).\n\n**Ejemplo práctico:** Apple combina la innovación continua en su ecosistema de dispositivos y software, una marcada diferenciación a través del diseño minimalista y la privacidad, y una especialización en el segmento de tecnología premium.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes opciones NO es una pauta de marketing:",
+      "opciones": {
+        "a": "Segmentar el público",
+        "b": "Fomentar la guerra de precios",
+        "c": "Fidelizar cliente",
+        "d": "Ser diferente"
+      },
+      "explicacion": "Fomentar una guerra de precios resulta contraproducente en la disciplina del marketing, ya que erosiona gravemente los márgenes operativos, destruye el valor percibido de la marca y sitúa a la empresa en una dinámica destructiva difícil de sostener. Las directrices fundamentales del marketing persiguen competir en valor mediante la segmentación rigurosa, la diferenciación de producto y la fidelización duradera del cliente.\n\n**Ejemplo práctico:** Nespresso comercializa cápsulas de café con un posicionamiento exclusivo basado en calidad, diseño de máquinas y atención en boutique, evitando conscientemente entrar en guerras de precios frente a las marcas blancas de café de los supermercados.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Hacer comunicación integral significa:",
+      "opciones": {
+        "a": "Buscar el máximo impacto en la comunicación con el máximo esfuerzo económico",
+        "b": "Ninguna de las anteriores",
+        "c": "Buscar el mínimo impacto en la comunicación con el mínimo esfuerzo económico",
+        "d": "Buscar el máximo impacto en la comunicación con el mínimo esfuerzo económico"
+      },
+      "explicacion": "La Comunicación Integrada de Marketing (CIM) persigue la coordinación estratégica y coherente de todos los canales, soportes y herramientas de comunicación (publicidad, relaciones públicas, marketing digital, promociones) con el fin de generar el máximo impacto en el público objetivo optimizando los recursos y la inversión presupuestaria (máxima eficiencia económica sin redundancias ni dispersión de gasto).\n\n**Ejemplo práctico:** Una marca automovilística que sincroniza spots televisivos, eventos de relaciones públicas con la prensa del motor, anuncios segmentados en redes sociales y materiales en los concesionarios bajo un único mensaje creativo, logrando una enorme repercusión de marca optimizando el presupuesto.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Una idea es:",
+      "opciones": {
+        "a": "Conocimiento, imagen o representación de algo en nuestra mente",
+        "b": "Un estado psicológico",
+        "c": "Formulación expresa de un deseo",
+        "d": "El acto de obtener un objeto deseado"
+      },
+      "explicacion": "En el ámbito conceptual del marketing y la comunicación, una idea se define como una noción, conocimiento, imagen o representación mental abstracta. En el marketing social y de causas, la oferta que se transmite e intercambia no es un bien físico o un servicio tangible, sino una idea o valor que busca influir en las percepciones, actitudes o conductas de los individuos.\n\n**Ejemplo práctico:** Las campañas de la Dirección General de Tráfico (DGT) sobre la conducción responsable comercializan la idea del respeto a los límites de velocidad y la prudencia al volante para inducir un cambio cívico en los conductores.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La demanda se puede definir como:",
+      "opciones": {
+        "a": "El deseo de un producto específico y viene determinada por los recursos disponibles del demandante y por los estímulos de Marketing recibidos",
+        "b": "El deseo de un producto específico, pero sin venir determinada por los recursos disponibles del demandante y por los estímulos de Marketing recibidos",
+        "c": "Ninguna de las anteriores",
+        "d": "La necesidad y el deseo de un producto, servicio o idea, en un momento y sitio específicos"
+      },
+      "explicacion": "En la teoría clásica del marketing formulada por Philip Kotler, la demanda representa la manifestación de un deseo por un producto concreto respaldada por el poder adquisitivo del consumidor (recursos financieros disponibles) y activada por los estímulos de marketing (precio, promociones, publicidad y distribución) desplegados por las organizaciones.\n\n**Ejemplo práctico:** Muchos conductores pueden desear adquirir un vehículo deportivo de gama alta, pero únicamente aquellos que cuentan con los recursos económicos para financiarlo y que responden a las acciones comerciales del fabricante constituyen la demanda real del mercado.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes ideas delimitan el marketing:",
+      "opciones": {
+        "a": "El marketing es desempeñado por individuos y organizaciones",
+        "b": "Todas las anteriores son correctas",
+        "c": "El Marketing incluye actividades diversas e integradas",
+        "d": "El Marketing acentúa la conciencia de los consumidores"
+      },
+      "explicacion": "El marketing contemporáneo abarca una dimensión amplia: es ejecutado tanto por individuos (marca personal, profesionales autónomos) como por organizaciones (empresas, instituciones públicas, ONG); articula un conjunto diverso e integrado de actividades estratégicas y operativas (investigación, producto, precio, comunicación y distribución); y fomenta la conciencia crítica de los consumidores al exigir estándares de transparencia y valor real.\n\n**Ejemplo práctico:** Desde un consultor independiente que promociona sus servicios en redes profesionales hasta una multinacional que lanza una línea de productos respetuosa con el medio ambiente, ambos aplican marketing integrado respondiendo a consumidores con alta conciencia de compra.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El marketing relacional es aquel que:",
+      "opciones": {
+        "a": "Propicia relaciones satisfactorias de intercambio y orientadas a largo plazo",
+        "b": "Propicia relaciones satisfactorias de intercambio pero sólo en el corto plazo",
+        "c": "Ninguna de las anteriores",
+        "d": "Propicia las relaciones de intercambio, ya sean satisfactorias o no"
+      },
+      "explicacion": "El marketing relacional trasciende la orientación a la transacción puntual e inmediata (marketing transaccional) y se fundamenta en la creación, desarrollo y consolidación de relaciones satisfactorias, estrechas y continuadas en el tiempo entre la empresa y sus clientes, maximizando el valor del cliente a lo largo de su ciclo de vida (*Customer Lifetime Value*).\n\n**Ejemplo práctico:** Los programas de fidelización aérea como Iberia Plus o Miles & More premian los vuelos recurrentes de los pasajeros con puntos canjeables por billetes, accesos a salas VIP y atención personalizada para garantizar su vinculación a largo plazo con la aerolínea.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El marketing acentúa la conciencia de los consumidores. Esta afirmación es:",
+      "opciones": {
+        "a": "Correcta",
+        "b": "Ninguna de las anteriores",
+        "c": "No se sabe",
+        "d": "Incorrecta"
+      },
+      "explicacion": "La afirmación es correcta porque las actividades de marketing exponen a los consumidores a nueva información, opciones de mercado, certificaciones de calidad y criterios de sostenibilidad. Esto amplía el conocimiento del público y estimula su conciencia crítica, permitiéndoles exigir mayor transparencia, responsabilidad social y valor real en sus decisiones de compra.\n\n**Ejemplo práctico:** La proliferación de campañas de marketing sobre productos con ingredientes ecológicos y comercio justo ha elevado la conciencia del consumidor respecto al impacto medioambiental y ético de la industria textil y alimentaria.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El marketing:",
+      "opciones": {
+        "a": "Es un proceso directivo",
+        "b": "Todas las anteriores son correctas",
+        "c": "Determina la distribución, precio y comunicación más adecuados",
+        "d": "Trata de la creación de ideas."
+      },
+      "explicacion": "Entre sus múltiples facetas, el marketing no solo se orienta a la distribución de bienes manufacturados o servicios operativos, sino que constituye un proceso directivo y creativo enfocado en la concepción, gestación y difusión de ideas, significados de marca y propuestas de valor que transforman las actitudes de la sociedad.\n\n**Ejemplo práctico:** Marcas como Patagonia desarrollan campañas de comunicación centradas en la idea de la sostenibilidad extrema («Don't buy this jacket»), promoviendo el consumo responsable y la reparación de prendas para reducir la huella ecológica.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

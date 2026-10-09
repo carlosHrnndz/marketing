@@ -1,0 +1,126 @@
+{
+  "unidad": 23,
+  "titulo": "Autoevaluación Unidad 23 - Estrategias de Precios y Estructura de Costes",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones respecto a las estrategias de precios NO es correcta:",
+      "opciones": {
+        "a": "La estrategia de precios debe ser coherente con el resto de estrategias de marketing",
+        "b": "La estrategia de precios escogida debe implicar una clara proposición de valor para el consumidor",
+        "c": "Debe decirnos hacia dónde queremos ir",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En la teoría y praxis de la dirección de marketing, las tres afirmaciones (a, b y c) son premisas fundamentales y plenamente ciertas: la estrategia de precios debe integrarse con coherencia en el marketing mix, comunicar una propuesta de valor inequívoca al comprador y articular los objetivos de largo plazo de la compañía. Al ser las tres totalmente correctas, la opción que agrupa dicha condición es «Todas las anteriores son correctas».\n\n**Ejemplo práctico:** Una firma de moda de lujo como Chanel no puede rebajar sus precios un 70% porque destruiría la coherencia con su comunicación exclusiva, su canal de boutiques seleccionadas y su propuesta de valor basada en el estatus y la alta artesanía.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿En qué momento es especialmente importante la selección y fijación de una estrategia de precio?",
+      "opciones": {
+        "a": "Cuando se quiere eliminar el producto del mercado porque ya casi no hay ventas (fase de declive)",
+        "b": "En el momento de lanzar un nuevo producto",
+        "c": "En la fase de madurez de un producto",
+        "d": "Ninguna de las anteriores opciones es correcta"
+      },
+      "explicacion": "El momento más trascendente para formular y fijar la estrategia de precios es el lanzamiento de un nuevo producto al mercado. Esta decisión inicial condiciona la percepción de valor y posicionamiento de la marca, determina la capacidad financiera para amortizar las inversiones en I+D y marketing, y establece una referencia psicológica (precio ancla) en los consumidores que resulta muy difícil de corregir posteriormente sin deteriorar la imagen corporativa.\n\n**Ejemplo práctico:** Cuando Sony introduce una nueva consola de videojuegos (como PlayStation 5), fijar adecuadamente su precio de lanzamiento resulta vital: un precio excesivo frenaría la adopción de usuarios y la venta de juegos, mientras que un precio demasiado bajo erosionaría la rentabilidad del hardware.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La selección de los objetivos de precio pueden ser:",
+      "opciones": {
+        "a": "Maximización de los beneficios",
+        "b": "Maximización de los costes",
+        "c": "Maximización de la cuota de mercado",
+        "d": "Las opciones a y c son correctas"
+      },
+      "explicacion": "Los objetivos estratégicos de fijación de precios orientados a resultados económicos comprenden tanto la maximización del beneficio (persiguiendo el mayor margen unitario o rentabilidad sobre la inversión) como la maximización de la cuota de mercado (fijando precios competitivos para alcanzar economías de escala y liderazgo en volumen). En contraposición, maximizar los costes es un contrasentido económico que arruinaría la eficiencia empresarial.\n\n**Ejemplo práctico:** Una tecnológica como Spotify ofrece suscripciones promocionales iniciales muy reducidas con el objetivo de maximizar su cuota de mercado y base de suscriptores, mientras que una marca de relojes de lujo busca maximizar el margen de beneficio en cada pieza vendida.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Los tipos de costes y su relación con los diferentes niveles de producción son:",
+      "opciones": {
+        "a": "Costes fijos",
+        "b": "Costes variables",
+        "c": "Costes totales",
+        "d": "Todas las opciones son correctas"
+      },
+      "explicacion": "La gestión de precios exige un análisis riguroso de la estructura de costes según su variabilidad con el nivel de actividad de la empresa. Se consideran costes fijos aquellos que permanecen inalterados ante fluctuaciones del volumen de producción a corto plazo (como alquileres de instalaciones y amortizaciones), costes variables aquellos que varían en proporción directa a las unidades elaboradas (materias primas, envases), y costes totales como la suma integral de ambos factores.\n\n**Ejemplo práctico:** Una bodega calcula sus costes fijos (mantenimiento de las bodegas y nóminas del equipo directivo) y sus costes variables (botellas de vidrio, corchos y uva recolectada por litro) para determinar el coste total por botella y establecer su precio mayorista mínimo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes opciones NO es un método para fijar costes:",
+      "opciones": {
+        "a": "Para alcanzar una tasa de rentabilidad",
+        "b": "En función del valor percibido",
+        "c": "Que el coste sea el máximo posible",
+        "d": "Basados en la competencia"
+      },
+      "explicacion": "Los métodos de fijación de precios se articulan en torno a la rentabilidad del capital (tasa de retorno sobre la inversión), la estimación del valor percibido por los clientes o la posición de la competencia en el mercado. Fijar como criterio «que el coste sea el máximo posible» es conceptualmente erróneo y opuesto a cualquier racionalidad de gestión empresarial, donde el objetivo es minimizar y controlar los costes productivos.\n\n**Ejemplo práctico:** Una constructora fija el precio de venta de una promoción inmobiliaria calculando el margen necesario para lograr un 18% de rentabilidad sobre el capital invertido, procurando reducir los costes de materiales y subcontratas mediante licitaciones competitivas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La estrategia de precios de penetración de mercado se basa en:",
+      "opciones": {
+        "a": "Establecer de entrada un precio alto",
+        "b": "Dominar el mercado de forma rápida, a través de un precio bajo",
+        "c": "Mantener una imagen de prestigio",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La estrategia de precios de penetración consiste en fijar un precio inicial sensiblemente bajo con el propósito de capturar con rapidez una elevada cuota de mercado, estimular la adopción masiva por parte de los clientes sensibles al precio, generar barreras de entrada a competidores y alcanzar rápidamente economías de escala que reduzcan los costes unitarios de la empresa.\n\n**Ejemplo práctico:** Al irrumpir en el mercado español de fibra y telefonía móvil, la operadora Digi aplicó tarifas sumamente reducidas en comparación con los operadores tradicionales, logrando captar millones de líneas y una importante cuota de mercado en pocos años.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La fijación de precios para una línea o gama de productos dirigida a un segmento:",
+      "opciones": {
+        "a": "Es cuando para un segmento de clientes se diseña una gama de diferentes productos (desde el más básico a otros con más \"pluses\" o beneficios) dentro de una misma línea y se fija un intervalo de precios para toda esta gama.",
+        "b": "Es cuando en trocear el precio del producto o servicio en varias partes, de tal forma que sea el cliente o comprador quien al final decida qué combinación tomar.",
+        "c": "Las opciones a y b son correctas",
+        "d": "Ninguna de las opciones a y b es correcta"
+      },
+      "explicacion": "La fijación de precios para una línea o gama de productos (product line pricing) consiste en diseñar diferentes versiones de un producto dentro de una misma categoría (desde un modelo básico de entrada hasta modelos prémium con mayores prestaciones y beneficios) y establecer un escalonamiento de precios coherente entre ellos para que cada subsegmento elija la opción idónea según su disposición a pagar.\n\n**Ejemplo práctico:** En la gama de ordenadores portátiles de Lenovo, el modelo básico para estudiantes se comercializa a 450 €, el modelo intermedio con mejor procesador a 750 €, y la gama alta profesional orientada a creativos se fija en 1.400 €.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La fijación de un precio único consiste en:",
+      "opciones": {
+        "a": "Poner un diferentes precios a una gama determinada de productos",
+        "b": "Poner un único precio a una gama determinada de productos",
+        "c": "Poner algunos precios iguales y otros diferentes a una gama determinada de productos",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La estrategia de precio único (single-price policy) se basa en comercializar una variedad de artículos o una gama completa de productos a un único precio idéntico para todos ellos. Este mecanismo aporta simplicidad cognitiva al comprador, elimina la fricción de comparar precios en tienda y agiliza la gestión operativa y de cobro del distribuidor.\n\n**Ejemplo práctico:** El modelo comercial histórico de las tiendas «Todo a 100» o la sección de promociones de una tienda de regalos donde cualquier accesorio o libreta de la estantería se vende al precio único de 3 euros.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La fijación de precio en base a los precios de la competencia consiste en:",
+      "opciones": {
+        "a": "Fijar un precio para conseguir más ventas",
+        "b": "Fijar los precios de los precios de nuestras marcas y productos en función de los precios fijados por la competencia de cada uno de ellos.",
+        "c": "Establecer un precio teniendo en cuenta el margen de los productos vendidos",
+        "d": "Establecer un precio teniendo en cuenta la rentabilidad de los productos vendidos"
+      },
+      "explicacion": "La fijación de precios basada en la competencia toma como referencia rectora los precios fijados por las marcas rivales para productos comparables o sustitutivos. La empresa analiza las tarifas del mercado y determina si establece sus precios al mismo nivel (paridad competitiva), por encima (para reflejar una prima de marca o calidad superior) o por debajo (para atraer a clientes sensibles al precio).\n\n**Ejemplo práctico:** Una estación de servicio independiente revisa diariamente los paneles de precios de la gasolinera de Repsol contigua y calibra su precio de gasolina y diésel para mantenerse exactamente tres céntimos por debajo del competidor.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En la fijación de precios psicológicos:",
+      "opciones": {
+        "a": "El precio tiene un componente psicológico importante que afecta a la intención de compra del cliente",
+        "b": "Un precio alto implica un producto de calidad o especial",
+        "c": "Un precio barato se relaciona con algo de baja calidad",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Las estrategias de precios psicológicos aprovechan las percepciones subjetivas, sesgos y asociaciones mentales del consumidor frente al precio. En la mente del comprador, el precio actúa frecuentemente como señal de calidad intrínseca (un precio alto se interpreta como indicador de excelencia, prestigio y estatus, mientras que un precio excesivamente bajo puede suscitar desconfianza sobre la fiabilidad del producto), condicionando decisivamente la predisposición a la compra.\n\n**Ejemplo práctico:** Un perfume de alta gama fijado en 130 € proyecta exclusividad y sofisticación en el consumidor; si se vendiese a 4,99 €, los compradores dudarían de la calidad de sus esencias o sospecharían que se trata de una falsificación.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

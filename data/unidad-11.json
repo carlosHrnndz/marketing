@@ -1,0 +1,126 @@
+{
+  "unidad": 11,
+  "titulo": "Autoevaluación Unidad 11 - El Plan Anual de Marketing-Mix (PAM)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál es el horizonte temporal de un Plan de Marketing-mix (PAM):",
+      "opciones": {
+        "a": "6 meses",
+        "b": "1 año",
+        "c": "3 años",
+        "d": "5 años"
+      },
+      "explicacion": "El Plan de Marketing-mix (PAM) es, por su propia denominación y naturaleza metodológica, un plan de carácter operativo anual. Su horizonte temporal abarca exactamente doce meses (un año), coincidiendo habitualmente con el ejercicio económico, presupuestario y fiscal de la empresa, sirviendo como guía rectora para desplegar las 4P y coordinar las acciones comerciales durante dicho ejercicio.\n\n**Ejemplo práctico:** Al cierre de cada ejercicio fiscal, el director de marketing de Danone presenta el PAM para el año siguiente, calendarizando los lanzamientos, el gasto publicitario y las promociones mes a mes de enero a diciembre en consonancia con el presupuesto anual asignado.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El PAM debe ser:",
+      "opciones": {
+        "a": "La continuación lógica y en el corto plazo del plan de Marketing estratégico",
+        "b": "La continuación lógica y en el medio plazo del plan de Marketing estratégico",
+        "c": "La continuación lógica y en el largo plazo del plan de Marketing estratégico",
+        "d": "Ninguna de las anteriores"
+      },
+      "explicacion": "El PAM representa la materialización operativa y a corto plazo (un ejercicio anual) de las directrices fijadas en el plan de marketing estratégico (que opera a medio y largo plazo). Existe una relación jerárquica y de coherencia directa: la estrategia plurianual señala el rumbo y los objetivos de fondo, y el PAM diseña el plan de acción concreto e inmediato para ese año.\n\n**Ejemplo práctico:** Si el plan estratégico a cuatro años de SEAT establece posicionar a Cupra como la marca de electrificación deportiva del grupo, el PAM del primer año traduce esa directriz en el plan de lanzamiento del nuevo Cupra Tavascan con acciones concretas en concesionarios y campañas de captación a corto plazo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Un buen plan de Marketing (PAM) ha de responder una serie de pre preguntas. Cuál de las siguientes no es una de ellas:",
+      "opciones": {
+        "a": "¿Dónde estuvimos en el pasado?",
+        "b": "¿Dónde estamos?",
+        "c": "¿A dónde queremos ir?, ¿a dónde vamos?, ¿cómo vamos? y ¿por qué vamos?",
+        "d": "¿Se están cumpliendo los objetivos?"
+      },
+      "explicacion": "La lógica directiva de un plan de marketing operativo se articula en torno al diagnóstico de la situación presente («¿Dónde estamos?» a través del análisis de situación), la formulación de metas y rumbo estratégico («¿A dónde queremos ir?, ¿a dónde vamos?, ¿cómo vamos? y ¿por qué vamos?»), y el sistema de seguimiento y control («¿Se están cumpliendo los objetivos?»). Mirar al pasado («¿Dónde estuvimos en el pasado?») no forma parte de las preguntas directivas clave del PAM, que se enfoca en el presente, futuro y control de gestión.\n\n**Ejemplo práctico:** Al reunirse para perfilar el PAM de una fintech de medios de pago, el equipo directivo se centra en diagnosticar su cuota actual frente a competidores (¿dónde estamos?), fijar las metas de nuevos usuarios activos (¿a dónde queremos ir y cómo?) y diseñar los cuadros de mando de seguimiento semanal (¿se están cumpliendo los objetivos?).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Una de las etapas del plan de marketing es el análisis estratégico de la situación, que incluye el estudio de una serie de aspectos. Cuál de los siguientes no es uno de estos aspectos:",
+      "opciones": {
+        "a": "Entorno general o macroentorno.",
+        "b": "Entorno específico o microentorno (sector y competencia).",
+        "c": "Análisis interno de la propia empresa",
+        "d": "Las tres anteriores forman parte del análisis estratégico"
+      },
+      "explicacion": "El análisis estratégico de la situación en marketing requiere una perspectiva integral e interactiva que abarca obligatoriamente tres dimensiones: 1) el entorno general o macroentorno (factores políticos, económicos, sociales, tecnológicos, ecológicos y legales mediante el análisis PESTEL), 2) el entorno específico o microentorno (análisis del sector, competidores, clientes y canales de distribución mediante el modelo de Porter) y 3) el análisis interno de la propia empresa (recursos, capacidades, cadena de valor y debilidades/fortalezas). Por tanto, los tres aspectos forman parte indispensable de dicho análisis estratégico.\n\n**Ejemplo práctico:** Antes de lanzar un nuevo modelo de patinete eléctrico compartido, la compañía analiza la nueva normativa municipal y tipos de interés (macroentorno), las tarifas de competidores directos como Bolt o Lime (microentorno) y la capacidad de su propia red técnica de recarga y mantenimiento de baterías (análisis interno).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El análisis interno se refiere a:",
+      "opciones": {
+        "a": "El análisis de todos los factores generales que pueden afectar a la empresa: económicos, sociales, políticos, legales, culturales, etc.",
+        "b": "El estudio del sector de actividad: competidores, evolución del mercado, relaciones existentes, etc.",
+        "c": "El análisis de aspectos clave de nuestra empresa: los productos actuales, experiencia, know-how, relaciones con los proveedores, etc.",
+        "d": "Las tres anteriores son correctas"
+      },
+      "explicacion": "El análisis interno focaliza su atención exclusivamente en las variables endógenas controlables por la propia organización: gama de productos y servicios actuales, experiencia acumulada, capacidades tecnológicas (*know-how*), solvencia financiera, recursos humanos, eficiencia productiva y relaciones con proveedores y socios. La opción (a) describe el macroentorno y la opción (b) define el microentorno sectorial.\n\n**Ejemplo práctico:** Al realizar su análisis interno, una bodega de la D.O. Ribera del Duero audita la calidad y rotación de sus vinos embotellados actuales, la experiencia de sus enólogos en crianza ecológica, la eficiencia de sus líneas de embotellado y la solidez de sus alianzas de suministro con los viticultores locales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Una de las fases del plan de marketing se refiere a las estrategias. Cuál de las siguientes afirmaciones es falsa:",
+      "opciones": {
+        "a": "La estrategia se puede considerar como el modo en el que la empresa pretende ganar dinero a corto plazo",
+        "b": "La estrategia define el conjunto de elementos a través de los cuales la empresa va a perseguir una ventaja competitiva sostenible.",
+        "c": "La empresa debe invertir tiempo, a partir de la información procedente del análisis estratégico, en decidir qué es exactamente lo que se quiere lograr, para qué se hace, dónde se pretende llegar y cuándo puede conseguirse, planteándolo de una forma a la vez ambiciosa y razonable",
+        "d": "Todas las anteriores son verdaderas"
+      },
+      "explicacion": "En el marco didáctico de la dirección de marketing, la formulación estratégica sintetiza la forma en que el negocio genera rentabilidad y flujos de caja a corto plazo en su actividad ordinaria (a), define la búsqueda metódica de ventajas competitivas defendibles y sostenibles en el tiempo (b), y exige una profunda reflexión directiva para conciliar ambición y realismo temporal a partir de los datos del diagnóstico estratégico (c). Por consiguiente, se evalúan como verdaderas todas las premisas propuestas.\n\n**Ejemplo práctico:** Una cadena de gimnasios de bajo coste estructura su estrategia definiendo cómo monetizar de inmediato las cuotas mensuales (generación de ingresos a corto plazo), manteniendo una ventaja de costes insuperable mediante tecnología automatizada sin recepción presencial (ventaja sostenible) y planificando hitos de expansión rigurosos en las principales capitales de provincia.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre la fase del plan de marketing que habla de establecer objetivos es falsa:",
+      "opciones": {
+        "a": "Se pueden distinguir dos tipos de objetivos básicos: los financieros y los de Marketing.",
+        "b": "Los objetivos financieros deberán convertirse en objetivos de Marketing.",
+        "c": "Los objetivos han de ser precisos, medibles y retadores.",
+        "d": "Todas las anteriores son verdaderas"
+      },
+      "explicacion": "Dentro de la doctrina de marketing estratégico y financiero, se reconoce la complementariedad entre los objetivos financieros (rentabilidad del capital, EBITDA, flujo de caja libre) y los objetivos de marketing (cuota de mercado, volumen de ventas, notoriedad de marca y fidelización). Además, es un principio fundamental de gestión que las metas financieras deben traducirse operativamente a metas comerciales concretas, y que todo objetivo debe poseer atributos de precisión, mensurabilidad y exigencia motivadora (SMART). Por tanto, no habiendo falsedad alguna, la opción correcta es que todas las afirmaciones son verdaderas.\n\n**Ejemplo práctico:** Si el consejo de administración de una multinacional de alimentación fija el objetivo financiero de alcanzar un beneficio operativo de 50 millones de euros, la dirección de marketing lo traduce en un objetivo comercial de elevar la penetración de mercado al 22% y facturar 200 millones mediante la venta de 40 millones de unidades a un precio medio determinado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuando se habla de las 4P de marketing se hace referencia a:",
+      "opciones": {
+        "a": "Producto, precio, personas y distribución",
+        "b": "Producto, precio, comunicación y personas",
+        "c": "Producto, precio, comunicación y distribución",
+        "d": "Producto, precio, comunicación y ventas"
+      },
+      "explicacion": "El modelo paradigmático del marketing-mix formulado por E. Jerome McCarthy y popularizado por Philip Kotler está integrado por las cuatro variables tácticas controlables por la empresa, conocidas como las 4P (*Product, Price, Place, Promotion*). En su traducción canónica al español corresponden exactamente a Producto, Precio, Distribución (*Place*) y Comunicación (*Promotion*).\n\n**Ejemplo práctico:** Para comercializar un nuevo smartphone de gama alta, la marca define las prestaciones técnicas y el diseño (Producto), fija un PVP de 899 € acorde a su segmento (Precio), selecciona su venta exclusiva en grandes almacenes y tiendas online propias (Distribución) y lanza una potente campaña de publicidad y relaciones públicas con creadores de contenido (Comunicación).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de los siguientes factores no es uno de los que debe considerarse en la fase de presupuestos:",
+      "opciones": {
+        "a": "La previsión de ventas",
+        "b": "Cálculo de balance provisional",
+        "c": "El análisis del punto de equilibrio",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La fase presupuestaria de un plan de marketing no se limita a estimar los gastos de publicidad, sino que requiere una evaluación económico-financiera integral de viabilidad. Esto incluye proyectar rigurosamente los ingresos futuros esperados (previsión de ventas), calcular el balance provisional y la cuenta de resultados provisional del plan, y determinar el punto de equilibrio o umbral de rentabilidad (*break-even point*) para conocer a partir de qué volumen de ventas se cubren todos los costes fijos y variables. Por consiguiente, todos los factores señalados deben ser considerados en esta fase.\n\n**Ejemplo práctico:** Al presupuestar el lanzamiento de una línea de cosmética natural, la dirección financiera y de marketing estima ingresar 1,5 millones de euros (previsión de ventas), proyecta los activos y pasivos necesarios en el balance provisional y calcula que el punto de equilibrio se sitúa en 25.000 unidades vendidas, umbral a partir del cual el proyecto empieza a generar beneficios netos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La fase de control sirve para:",
+      "opciones": {
+        "a": "Conocer las realizaciones parciales de los objetivo en períodos relativamente cortos de tiempo",
+        "b": "Controlar lo que está haciendo la competencia",
+        "c": "Que la empresa conozca desde el primer momento qué objetivos no se van a realizar y los elimine del plan de marketing",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La función directiva de control dentro del plan de marketing tiene como propósito fundamental monitorizar de forma continua y periódica (mensual, trimestral) el grado de cumplimiento de los objetivos e hitos intermedios en lapsos de tiempo relativamente cortos. Este seguimiento permite detectar desviaciones de manera temprana respecto a las previsiones y ejecutar acciones correctoras oportunas antes de que finalice el ejercicio.\n\n**Ejemplo práctico:** Una empresa de suscripciones de software revisa a fin de cada mes el coste de adquisición de clientes (CAC) y la tasa de bajas (*churn rate*); si a cierre del primer trimestre la captación está un 15% por debajo del objetivo previsto en el PAM, ajusta inmediatamente los mensajes de las campañas publicitarias sin esperar al balance final del año.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

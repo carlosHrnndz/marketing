@@ -1,0 +1,126 @@
+{
+  "unidad": 16,
+  "titulo": "Autoevaluación Unidad 16 - Blogs Corporativos, Wikis y Social Media Optimization",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Un enlace inverso en un blog…",
+      "opciones": {
+        "a": "es un enlace a a fotografías o videos",
+        "b": "es una noticia con múltiples enlaces",
+        "c": "permite revisar el correo electrónico a distancia",
+        "d": "permite avisar a otro blog que estamos citando una de sus entradas"
+      },
+      "explicacion": "En la arquitectura tecnológica y los protocolos de los blogs, un enlace inverso (conocido como 'trackback' o 'pingback') es una funcionalidad automatizada que permite notificar a un blog externo cuando otro blog ha citado o enlazado una de sus entradas. De este modo, el blog referenciado recibe un aviso electrónico y suele publicar automáticamente un enlace de retorno ('backlink') en su sección de comentarios, conectando conversaciones entre distintos blogs de la blogosfera.\n\n**Ejemplo práctico:** Si un bloguero sobre tecnología publica un artículo comentando un tutorial de otro blog y lo enlaza, el sistema envía un pingback automático al blog original, apareciendo en este último una mención que avisa a sus lectores de que ha sido citado con un enlace al nuevo artículo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿Qué es un blogger o bloguero?",
+      "opciones": {
+        "a": "Alguien que lee blogs",
+        "b": "Alguien que escribe en un blog",
+        "c": "Alguien interesado en los blogs",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Por definición conceptual y terminológica, un 'blogger' (término anglosajón) o 'bloguero' (término adaptado en español) es la persona que crea, redacta, edita y publica entradas de contenido de forma continuada en un blog o bitácora digital. El mero lector o visitante interesado no recibe la consideración de bloguero a menos que ejerza la labor activa de escritura y gestión de un blog.\n\n**Ejemplo práctico:** Un experto en nutrición deportiva que investiga, elabora artículos semanales y gestiona las publicaciones de su propio portal especializado actúa formalmente como el bloguero de dicho espacio digital.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Cuál de los siguientes es un tipo de blog corporativo?",
+      "opciones": {
+        "a": "Blog profesional",
+        "b": "Blog relacional",
+        "c": "Blog de producto",
+        "d": "Las respuestas b y c son correctas"
+      },
+      "explicacion": "Dentro de las estrategias de comunicación y relaciones públicas corporativas, los blogs empresariales se clasifican en diversas tipologías: los blogs de producto (orientados a presentar características, utilidades, demostraciones y lanzamientos de bienes o servicios específicos) y los blogs relacionales (cuyo propósito principal es humanizar la marca, fomentar el compromiso de la comunidad y establecer un diálogo cercano con clientes y grupos de interés). Por consiguiente, b y c son correctas.\n\n**Ejemplo práctico:** Microsoft dispone de blogs de producto técnicos (como el blog oficial de Microsoft Azure, centrado en herramientas en la nube) y blogs corporativos relacionales donde aborda iniciativas de sostenibilidad, accesibilidad y cultura organizativa para conectar con la sociedad.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "¿Qué tipo de medio social es Twitter?",
+      "opciones": {
+        "a": "Wiki",
+        "b": "Microblogging",
+        "c": "Red social",
+        "d": "Correo electrónico"
+      },
+      "explicacion": "Twitter (hoy X) se define y cataloga académicamente dentro de los medios sociales como una plataforma de 'microblogging' (o nanoblogging). Esta categoría se caracteriza por la difusión de mensajes muy breves y directos en tiempo real (limitados originalmente a 140 caracteres), combinando la agilidad de la mensajería instantánea con la visibilidad y alcance público de un blog tradicional.\n\n**Ejemplo práctico:** Una agencia de noticias utiliza el formato de microblogging de Twitter para emitir alertas informativas urgentes en 280 caracteres acompañadas de un enlace a la crónica completa, proporcionando cobertura en directo de un acontecimiento de actualidad.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los wikis a nivel de empresa:",
+      "opciones": {
+        "a": "Son una herramienta colaborativa que permite trabajar conjuntamente a personas de diferentes áreas o situaciones geográficas, compartir conocimientos y llevar a cabo proyectos que de otra forma sería más difícil.",
+        "b": "Permiten almacenar información, modificarla, enriquecerla, cambiarla y compartirla, de manera que se puede trabajar sobre documentos internos de la empresa con un alto nivel de colaboración, y sólo a través de un navegador web.",
+        "c": "Son buenas herramientas para gestionar el conocimiento dentro de la empresa",
+        "d": "Todas las respuestas son correctas"
+      },
+      "explicacion": "Las wikis corporativas constituyen una de las herramientas de gestión del conocimiento ('Knowledge Management') y trabajo colaborativo más potentes para las organizaciones. Permiten a los profesionales de distintas áreas y ubicaciones geográficas crear, editar, organizar y enriquecer documentos internos de manera conjunta y asíncrona a través de un navegador web estándar, eliminando silos de información y documentando el saber hacer de la empresa.\n\n**Ejemplo práctico:** En una empresa multinacional como IBM, los equipos de desarrollo y consultoría utilizan una wiki interna (como Atlassian Confluence) para documentar arquitecturas de software, protocolos de seguridad y procedimientos operativos que cualquier miembro del equipo global puede consultar y actualizar al instante.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿Qué son los jams de IBM?",
+      "opciones": {
+        "a": "Unos wikis creados por la propia empresa",
+        "b": "Los blogs corporativos de IBM",
+        "c": "Reuniones virtuales que realiza IBM con personas de todo el mundo",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "Los 'IBM Jams' son masivos procesos colaborativos y foros de debate virtual organizados periódicamente por IBM. A través de estas sesiones interactivas por Internet, IBM convoca a decenas de miles de personas de todo el mundo —empleados de todas las jerarquías, directivos, clientes, investigadores y académicos— para debatir durante varios días temas estratégicos, aportar ideas disruptivas e impulsar la innovación abierta.\n\n**Ejemplo práctico:** En el recordado 'IBM Innovation Jam', más de 150.000 participantes de más de un centenar de países aportaron ideas online en tiempo real, lo que permitió a la multinacional seleccionar e invertir 100 millones de dólares en diez nuevas áreas de negocio tecnológico identificadas colaborativamente.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El concepto de Social Media Optimization hace referencia a:",
+      "opciones": {
+        "a": "Es una parte del concepto SEM (Search Marketing Engine)",
+        "b": "Hace referencia a la estrategia y actividades que se llevan a cabo en las redes sociales, blogs y comunidades online, con una finalidad comercial o publicitaria",
+        "c": "Las respuestas a y b son correctas",
+        "d": "Las respuestas a y b son incorrectas"
+      },
+      "explicacion": "El Social Media Optimization (SMO) o Optimización de Medios Sociales comprende el conjunto de técnicas, metodologías y tácticas aplicadas en redes sociales, blogs, foros y comunidades virtuales con el objetivo de potenciar la visibilidad de una marca, incrementar el tráfico hacia su web y optimizar la presencia digital con fines comerciales y de comunicación. La opción a es falsa porque el SMO no forma parte del SEM (el cual se refiere a la publicidad de pago en buscadores patrocinados como Google Ads).\n\n**Ejemplo práctico:** Un portal de noticias online implementa botones interactivos para compartir contenido en WhatsApp y LinkedIn, añade metadatos 'Open Graph' para que los enlaces se muestren con imágenes atractivas y formula titulares que incentivan el debate social, optimizando así la difusión orgánica en redes de sus publicaciones.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las reglas definidas por Bhargava para SMO (Social Media Optimization) son:",
+      "opciones": {
+        "a": "Impedir el mashup (híbridos)",
+        "b": "Ayudar al contenido a \"viajar\"",
+        "c": "Disminuir los links",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "Rohit Bhargava formuló en 2006 las reglas fundacionales del Social Media Optimization (SMO), entre las cuales figura como precepto destacado 'Ayudar al contenido a viajar' ('Help content travel'). Esta regla establece que las organizaciones deben facilitar al máximo la propagación de sus contenidos (mediante sindicación RSS, códigos de inserción 'embed', widgets, archivos descargables y enlaces compartibles), permitiendo que el contenido fluya hacia las plataformas donde ya se encuentran los usuarios. Las opciones a y c contradicen los principios del SMO, ya que Bhargava aboga por favorecer los 'mashups' y multiplicar los enlaces.\n\n**Ejemplo práctico:** YouTube aplica de forma magistral la regla de ayudar al contenido a viajar al facilitar un código 'embed' para que cualquier usuario o medio digital pueda incrustar un vídeo en su propia web o blog sin fricción, expandiendo la visibilidad del vídeo por toda la red.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "¿Cuál es la era de las redes sociales que ya ha finalizado?",
+      "opciones": {
+        "a": "Era de las relaciones sociales",
+        "b": "Era de la funcionalidad social",
+        "c": "Era de la colonización social",
+        "d": "Era del contexto social"
+      },
+      "explicacion": "En el informe analítico de Forrester Research elaborado por Jeremiah Owyang y Charlene Li sobre las cinco eras de las redes sociales ('The Five Eras of Social Networking'), la primera de ellas fue la 'Era de las relaciones sociales' (Social Relationships Era, 1995-2007 aprox.). Esta fase inicial, centrada primordialmente en conectar a personas con sus amigos y conocidos en plataformas pioneras como SixDegrees o Friendster, se consideró finalizada al evolucionar el sector hacia fases superiores de funcionalidad, colonización, contexto y comercio social integrado.\n\n**Ejemplo práctico:** Mientras que en los primeros años de las redes sociales el objetivo casi exclusivo de los usuarios era buscar a viejos compañeros de colegio y agregarlos como 'amigos', las plataformas actuales han trascendido esa fase básica para convertirse en ecosistemas de comercio, contenido en streaming y servicios interactivos.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En la era de la funcionalidad social, la segunda de las cinco eras descritas por Forrester:",
+      "opciones": {
+        "a": "La gente se empieza a conectar a través de la red con sus amigos",
+        "b": "Las redes sociales van más allá del contacto entre amigos, y se transforman en plataformas interactivas que proporcionan nuevos usos a las comunidades.",
+        "c": "Dejarán de existir las redes sociales",
+        "d": "Las respuestas a y c son ciertas"
+      },
+      "explicacion": "En la 'Era de la funcionalidad social' (segunda fase del modelo de cinco eras de Forrester), las redes sociales superaron su etapa inicial de meros directorios de perfiles personales para transformarse en plataformas de software interactivas y dinámicas. Durante esta era, las redes incorporaron aplicaciones, widgets interactivos y herramientas colaborativas que proporcionaron nuevas utilidades lúdicas, informativas y operativas a las comunidades online.\n\n**Ejemplo práctico:** El lanzamiento por parte de Facebook de su plataforma de aplicaciones abiertas (Facebook Platform) en 2007, que permitió a desarrolladores externos crear juegos sociales como FarmVille o herramientas de encuestas y eventos dentro de la propia red, marcó de lleno el florecimiento de la era de la funcionalidad social.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

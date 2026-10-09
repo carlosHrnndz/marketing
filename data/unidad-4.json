@@ -1,0 +1,126 @@
+{
+  "unidad": 4,
+  "titulo": "Autoevaluación Unidad 4 - Marketing vs Ventas y el Proceso de Marketing",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Diferencias entre marketing y ventas. Cuál de las siguientes afirmaciones es falsa:",
+      "opciones": {
+        "a": "El esfuerzo de la venta persigue que el cliente compre los productos que oferta la empresa",
+        "b": "Hay un mayor alcance del marketing frente a la venta",
+        "c": "El marketing trata de conseguir que la empresa tenga lo que el cliente desea",
+        "d": "Hay un mayor alcance de la venta frente al marketing"
+      },
+      "explicacion": "La afirmación de que «hay un mayor alcance de la venta frente al marketing» es falsa. El marketing tiene un alcance conceptual y estratégico notablemente superior a la venta. La venta es una acción operativa centrada en inducir al cliente a adquirir productos que la empresa ya tiene fabricados, mientras que el marketing identifica con antelación las necesidades del mercado, diseña el producto idóneo, fija su precio, lo distribuye y gestiona la relación a largo plazo.\n\n**Ejemplo práctico:** En una empresa de automóviles, el departamento comercial en el concesionario realiza la labor de venta cerrando contratos, pero el marketing es quien previamente investigó las tendencias de movilidad, diseñó los modelos eléctricos y estructuró las campañas de lanzamiento.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el marketing es correcta:",
+      "opciones": {
+        "a": "Busca satisfacer necesidades",
+        "b": "Surge cuando la oferta comienza a ser inferior a la demanda de productos",
+        "c": "Todas las anteriores son correctas",
+        "d": "Tiene una connotación de venta inteligente"
+      },
+      "explicacion": "El marketing tiene como meta esencial identificar y satisfacer necesidades humanas y sociales; cobró protagonismo histórico cuando la capacidad productiva de las industrias generó una oferta superior a la demanda existente; y se concibe modernamente como una «venta inteligente» porque alinea el producto con el consumidor, facilitando que la venta se produzca de forma natural y fluida.\n\n**Ejemplo práctico:** La eclosión de múltiples marcas de telefonía móvil obligó a las compañías a no limitarse a fabricar teléfonos, sino a estudiar las necesidades de conectividad y entretenimiento de los usuarios, concibiendo los smartphones modernos como una respuesta inteligente a la demanda.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes opciones no es una fase del proceso secuencial en la ejecución de la función comercial con un enfoque de marketing:",
+      "opciones": {
+        "a": "Análisis del sistema comercial",
+        "b": "Análisis de la conducta del consumidor",
+        "c": "Diseño de estrategias mediante la adecuada combinación de los distintos instrumentos de marketing",
+        "d": "Dirección, organización y control de la actividad comercial"
+      },
+      "explicacion": "El proceso secuencial directivo de la función comercial bajo el enfoque de marketing se compone de tres fases: 1) Análisis del sistema comercial (estudio del entorno, mercado y competidores), 2) Diseño de estrategias de marketing (planificación del marketing-mix) y 3) Dirección, organización y control de la actividad comercial. El análisis de la conducta del consumidor no conforma una fase secuencial independiente del proceso directivo, sino que constituye una parte o elemento integrado dentro del análisis del sistema comercial.\n\n**Ejemplo práctico:** Al diseñar su plan director para el próximo trienio, una empresa retail estructura sus etapas formales en el diagnóstico del entorno y sector comercial, la definición de su marketing-mix (precios, tiendas y catálogo) y los mecanismos de control organizativo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El Sistema de Información de Marketing (SIM):",
+      "opciones": {
+        "a": "Persigue satisfacer las necesidades de información que los responsables de ventas precisan para tomar decisiones comerciales acertadas",
+        "b": "Persigue satisfacer las necesidades de información que los responsables de marketing precisan para tomar decisiones comerciales acertadas",
+        "c": "Persigue satisfacer las necesidades de información que los responsables de marketing, ventas y compras precisan para tomar cualquier tipo de decisiones",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El Sistema de Información de Marketing (SIM) es un sistema estructurado y permanente de personas, tecnología y procedimientos diseñado para obtener, clasificar, evaluar y distribuir información oportuna y rigurosa específicamente a los responsables de marketing, facilitando que sus decisiones comerciales y estratégicas se tomen con fundamentación y certeza.\n\n**Ejemplo práctico:** El SIM de una aerolínea compila diariamente datos de reservas, ocupación por ruta y cancelaciones para que el equipo de marketing decida qué trayectos promocionar y cómo ajustar las promociones tarifarias de cara a la temporada baja.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Para determinar el tamaño del mercado, hay que estudiar tres características de las personas que lo integran, son las siguientes:",
+      "opciones": {
+        "a": "Interés, ingresos y acceso",
+        "b": "Ingresos, necesidad y motivación",
+        "c": "Ingresos, tiempo y acceso",
+        "d": "Interés, necesidad y motivación"
+      },
+      "explicacion": "Para delimitar y cuantificar con rigor el tamaño de un mercado potencial y disponible (según Kotler), los individuos deben reunir tres condiciones indispensables: tener interés por la oferta (deseo o necesidad insatisfecha), disponer de ingresos suficientes (capacidad económica y poder adquisitivo) y tener acceso efectivo (posibilidad física y legal de adquirir el producto).\n\n**Ejemplo práctico:** Para estimar el mercado de un servicio de streaming de cine clásico en una región, la empresa cuantifica cuántos hogares tienen afinidad por el cine clásico (interés), cuentan con suscripción a internet y presupuesto de ocio (ingresos) y disponen de conexión de banda ancha compatible (acceso).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes afirmaciones es correcta:",
+      "opciones": {
+        "a": "Cuando la demanda de un bien es muy sensible al precio, se dice que su demanda no es elástica",
+        "b": "Cuando la demanda de un bien es muy sensible al precio, se habla de demanda inelástica",
+        "c": "Cuando la demanda de un bien es muy poco sensible al precio, se habla de demanda elástica",
+        "d": "Cuando la demanda de un bien es muy sensible al precio, se dice que su demanda es elástica"
+      },
+      "explicacion": "En la teoría económica y de marketing, la elasticidad-precio de la demanda mide el grado de variación porcentual de la cantidad demandada ante una variación porcentual en el precio. Cuando la demanda reacciona con gran intensidad ante pequeñas variaciones en el precio, se define técnicamente como una demanda elástica (alta sensibilidad al precio).\n\n**Ejemplo práctico:** La demanda de billetes de tren en trayectos turísticos de bajo coste es elástica: una reducción de precio del 10% puede provocar un incremento del 30% en las ventas de plazas, mientras que una subida de tarifa deriva rápidamente a los pasajeros hacia autobuses o coches compartidos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes afirmaciones es falsa:",
+      "opciones": {
+        "a": "Una demanda inexistente es cuando hay falta de interés por el producto o servicio",
+        "b": "Una demanda en declive es una disminución continua del interés por el producto o servicio",
+        "c": "Una demanda excesiva es una distribución inadecuada en el tiempo, con un nivel medio adecuado",
+        "d": "Una demanda latente es cuando hay necesidades existentes para productos o servicios inexistentes"
+      },
+      "explicacion": "La afirmación es falsa porque la definición de «una distribución inadecuada en el tiempo, con un nivel medio adecuado» corresponde técnicamente a la demanda irregular o estacional. Por el contrario, la demanda excesiva se produce cuando el volumen total de demanda supera de manera estructural o coyuntural la capacidad de producción o prestación del servicio que la empresa puede suministrar.\n\n**Ejemplo práctico:** Una estación de esquí que opera llena los fines de semana y vacía los martes sufre una demanda irregular; en cambio, un fabricante de vacunas durante una pandemia que recibe solicitudes de compra que triplican su capacidad fabril se enfrenta a una demanda excesiva.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Qué papeles pueden distinguirse en la decisión de compra de un producto:",
+      "opciones": {
+        "a": "Prescriptor y decisor",
+        "b": "Iniciador y comprador",
+        "c": "Las opciones a y b son correctas",
+        "d": "Las opciones a y b son falsas"
+      },
+      "explicacion": "En el análisis del comportamiento de compra del consumidor y de las organizaciones, se distinguen roles complementarios en el proceso de decisión: el iniciador (quien reconoce la necesidad), el prescriptor o influyente (cuyo criterio técnico o recomendación orienta la elección), el decisor (quien adopta la determinación final sobre qué y dónde comprar) y el comprador (quien ejecuta la transacción económica).\n\n**Ejemplo práctico:** En la adquisición de libros de texto escolares, el profesor del colegio actúa como prescriptor recomendando la editorial, el padre o madre actúa como decisor y comprador abonando el importe, y el alumno actúa como usuario final.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes opciones no es una etapa en el proceso de decisión de compra:",
+      "opciones": {
+        "a": "Búsqueda de información",
+        "b": "La satisfacción de la compra",
+        "c": "El reconocimiento del problema",
+        "d": "La evaluación de alternativas"
+      },
+      "explicacion": "Las etapas clásicas y formalizadas del proceso de decisión de compra son cinco: 1) Reconocimiento de la necesidad o problema, 2) Búsqueda de información, 3) Evaluación de alternativas, 4) Decisión de compra y 5) Comportamiento postcompra. La satisfacción es el resultado psicológico que se experimenta y evalúa en la fase de comportamiento postcompra, por lo que no constituye una etapa secuencial independiente del proceso.\n\n**Ejemplo práctico:** Un comprador evalúa diferentes marcas de ordenadores portátiles, formaliza la compra del equipo elegido y, tras varias semanas de uso en la etapa postcompra, experimenta satisfacción si el rendimiento supera sus expectativas o insatisfacción si sufre averías.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes opciones es una fuente de información en el proceso de decisión de compra:",
+      "opciones": {
+        "a": "Fuentes de la experiencia",
+        "b": "Fuentes no personales",
+        "c": "Fuentes privadas",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "En la fase de búsqueda de información del proceso de decisión de compra, las fuentes se clasifican en personales (amigos, familiares), comerciales (publicidad, vendedores, envases), públicas (medios de comunicación, foros independientes) y fuentes de la experiencia (probar, manipular, examinar físicamente o haber utilizado el producto con anterioridad).\n\n**Ejemplo práctico:** Al comprar un vehículo o un perfume, realizar una prueba de conducción (*test drive*) o solicitar una muestra olfativa en tienda constituye la consulta a una fuente de experiencia directa clave para tomar la decisión final de adquisición.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

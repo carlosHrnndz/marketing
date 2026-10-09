@@ -1,0 +1,126 @@
+{
+  "unidad": 27,
+  "titulo": "Autoevaluación Unidad 27 - El Proceso de Comunicación Comercial y sus Elementos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La comunicación como variable del Marketing-mix a veces también es conocida como:",
+      "opciones": {
+        "a": "Expresión",
+        "b": "Promoción",
+        "c": "Distribución",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En el esquema clásico de las 4 P del marketing mix formulado por McCarthy (Product, Price, Place, Promotion), la variable comunicación comercial se denomina tradicionalmente 'Promoción' (Promotion en inglés), abarcando todos los instrumentos empleados para transmitir el mensaje comercial al mercado y estimular la demanda.\n\n**Ejemplo práctico:** En el plan de marketing de un nuevo vehículo eléctrico, la variable 'Promoción' o comunicación engloba las campañas en medios masivos, las notas de prensa para revistas especializadas y los descuentos especiales por prelanzamiento.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La comunicación en marketing:",
+      "opciones": {
+        "a": "Es un proceso unidireccional",
+        "b": "Está constituido por una serie de flujos de carácter complejo y bidireccional",
+        "c": "Es un proceso simple de la empresa al consumidor",
+        "d": "Es un proceso entre los consumidores"
+      },
+      "explicacion": "En el marketing contemporáneo, la comunicación dista de ser un mero proceso unidireccional y lineal. Constituye una red compleja de flujos bidireccionales y multidireccionales donde emisores y receptores intercambian roles continuamente, generándose retroalimentación (feedback) inmediata e interacción activa entre la empresa y sus públicos.\n\n**Ejemplo práctico:** A través de los canales digitales de atención al cliente y las comunidades en redes sociales, los usuarios plantean dudas y sugerencias que la empresa procesa en tiempo real para adaptar sus productos y mensajes, evidenciando una comunicación bidireccional y continua.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Según el Modelo de los flujos de comunicación, ¿qué agentes pueden activar la comunicación?",
+      "opciones": {
+        "a": "Los consumidores",
+        "b": "Los distribuidores",
+        "c": "Los fabricantes",
+        "d": "Todas las respuestas son correctas"
+      },
+      "explicacion": "De acuerdo con los modelos de flujos de comunicación integrada de marketing, la iniciativa comunicativa puede ser activada por cualquiera de los agentes del mercado: los fabricantes (lanzando campañas publicitarias corporativas), los distribuidores (publicitando promociones y marcas de la tienda) y los propios consumidores (mediante consultas, quejas o recomendaciones a través del boca a oreja y redes sociales).\n\n**Ejemplo práctico:** Un fabricante de telefonía activa la comunicación anunciando su nuevo modelo en televisión; una cadena minorista como Fnac la activa enviando un catálogo con ofertas del dispositivo; y un consumidor la activa creando un hilo en redes sociales sobre el rendimiento de la batería.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Los objetivos fundamentales de la comunicación, considerada como una herramienta del Marketing, se centran en:",
+      "opciones": {
+        "a": "Crear una imagen de la empresa, destacando sus puntos fuertes respecto a la competencia",
+        "b": "Crear y potenciar una imagen positiva de la empresa e informar, persuadir y recordar a los clientes (sólo los reales) sus productos y servicios",
+        "c": "Crear y potenciar una imagen positiva de la empresa e informar, persuadir y recordar a los clientes reales y potenciales sus productos y servicios",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "Los objetivos nucleares de la comunicación comercial se sintetizan en tres grandes metas: informar a los públicos sobre la oferta y sus características, persuadir sobre sus ventajas diferenciales frente a la competencia y recordar la existencia de la marca, dirigiéndose tanto a clientes actuales (reales) para asegurar su lealtad como a potenciales compradores para captarlos, afianzando una imagen corporativa sólida.\n\n**Ejemplo práctico:** Una campaña publicitaria de una compañía aseguradora informa sobre sus nuevas coberturas médicas, persuade comparando sus tarifas con la competencia y recuerda su teléfono de asistencia a sus asegurados actuales, logrando a la vez captación y retención.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "¿Cuál de las siguientes opciones NO es un elemento de la comunicación?",
+      "opciones": {
+        "a": "Emisor",
+        "b": "Receptor",
+        "c": "Oyente",
+        "d": "Ruido"
+      },
+      "explicacion": "En los modelos teóricos de la comunicación (Shannon y Weaver, Schramm, Berlo), los componentes estructurales son el emisor, el receptor, el mensaje, el canal o medio, el código, el contexto, el ruido y la retroalimentación. El término 'oyente' representa un tipo particular de receptor específico de señales sonoras o radiofónicas, pero no un elemento teórico general del proceso.\n\n**Ejemplo práctico:** En un cartel publicitario exterior situado en el metro, la persona que observa la imagen actúa como receptor visual del estímulo, demostrando que la categoría formal del modelo de comunicación es 'receptor'.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En un proceso de comunicación, el mensaje es:",
+      "opciones": {
+        "a": "El instrumento a través del cual se realiza la materialización de la comunicación",
+        "b": "Las ideas, conocimientos y valores que componen el conjunto de estímulos que se desean transmitir",
+        "c": "El código empleado para transmitir la comunicación",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "En el proceso comunicativo, el mensaje es el objeto central de la transmisión: comprende el conjunto articulado de ideas, conocimientos, argumentos, valores y estímulos informativos o persuasivos que el emisor concibe, codifica y desea trasladar al receptor.\n\n**Ejemplo práctico:** En el histórico anuncio 'Think Different' de Apple, el mensaje consistía en asociar la marca con la creatividad, la innovación disruptiva y el pensamiento no convencional, más allá de las especificaciones técnicas del ordenador.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En un proceso de comunicación, el ruido es:",
+      "opciones": {
+        "a": "El proceso de conversión de la información que se quiere transmitir",
+        "b": "El conjunto de interferencias que deforman el mensaje",
+        "c": "El resultado obtenido de la comunicación",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El ruido se define en la teoría de la comunicación como cualquier interferencia, alteración o distorsión no intencionada que dificulta, degrada o entorpece la correcta recepción, interpretación o decodificación del mensaje transmitido a través del canal.\n\n**Ejemplo práctico:** La saturación excesiva de banners publicitarios parpadeantes y ventanas emergentes en una página web genera un entorno con elevado ruido comunicativo, impidiendo que el lector preste atención al mensaje comercial del anunciante.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre la comunicación personal es FALSA:",
+      "opciones": {
+        "a": "Se produce entre un único emisor y un único receptor.",
+        "b": "Se caracteriza porque no existe una total interacción entre las partes.",
+        "c": "Puede ser verbal y no verbal",
+        "d": "En el ámbito empresarial se identifica básicamente con la actividad de ventas"
+      },
+      "explicacion": "La comunicación personal (cara a cara o interactiva directa) se define por la máxima y directa interacción y reciprocidad entre emisor y receptor. Por tanto, afirmar que 'no existe una total interacción entre las partes' es completamente falso, dado que su principal fortaleza es la posibilidad de diálogo inmediato y ajuste en tiempo real del argumento comercial.\n\n**Ejemplo práctico:** Durante una reunión comercial presencial entre un consultor de software y el director financiero de una empresa, el consultor adapta sus explicaciones técnicas y financieras al instante según las preguntas, gestos y dudas que manifiesta el directivo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La comunicación de masas o colectiva:",
+      "opciones": {
+        "a": "Es aquella comunicación que transmite los mensajes de forma privada",
+        "b": "Es una forma de comunicación en la que el emisor puede dirigirse simultáneamente a un gran número de receptores",
+        "c": "Utiliza los medios de comunicación de masas como soportes físicos de transmisión",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "La comunicación colectiva o de masas se distingue por permitir al emisor dirigirse de manera simultánea e indiferenciada a una audiencia amplia, heterogénea y geográficamente dispersa, sirviéndose para ello de soportes y medios técnicos de difusión masiva (televisión, radio, prensa, vallas exteriores o portales web de gran tráfico).\n\n**Ejemplo práctico:** La retransmisión televisiva y en streaming de la gala de los Premios Óscar permite a los patrocinadores impactar simultáneamente a decenas de millones de espectadores en todo el mundo con un único mensaje publicitario.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La comunicación verbal:",
+      "opciones": {
+        "a": "Tiene lugar cuando el código utilizado en el proceso de comunicación no es un idioma.",
+        "b": "Es la forma más natural de comunicación entre seres humanos y la que puede generar mayores problemas.",
+        "c": "Es todo aquel lenguaje que surge de nuestro cuerpo y que no depende de las palabras que decimos",
+        "d": "Responde a un código de actuación que ayuda a interpretar qué se ve, comunicando actitudes y emociones."
+      },
+      "explicacion": "La comunicación verbal utiliza signos lingüísticos (palabras orales o escritas) articulados según normas gramaticales. Es la forma más natural y habitual de interacción humana, pero debido a la riqueza, polisemia, connotaciones subjetivas y ambigüedades del vocabulario, puede originar graves problemas de interpretación y malentendidos si el código no es compartido con total precisión por emisor y receptor.\n\n**Ejemplo práctico:** Si en una propuesta comercial se utiliza el término 'servicio integral' sin definir con precisión los alcances técnicos por escrito, el cliente puede asumir que incluye mantenimientos que el proveedor no contemplaba, desembocando en un conflicto contractual derivado de la ambigüedad verbal.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

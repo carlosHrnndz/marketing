@@ -1,0 +1,126 @@
+{
+  "unidad": 3,
+  "titulo": "Autoevaluación Unidad 3 - Dimensiones y Concepto de Marketing",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Las tres dimensiones reales y características del concepto de marketing son:",
+      "opciones": {
+        "a": "Acción, valores y cultura",
+        "b": "Ninguna de las anteriores es correcta",
+        "c": "Acción, análisis y cultura",
+        "d": "Análisis, mercados y cultura"
+      },
+      "explicacion": "En la literatura académica del marketing (destacando las aportaciones de autores como J.J. Lambin), el concepto de marketing se estructura en tres dimensiones reales y características: la dimensión de acción (el marketing operacional o las 4 P), la dimensión de análisis (el marketing estratégico, investigación de mercados y estudio de la demanda) y la dimensión de cultura (la filosofía de gestión centrada en la satisfacción del cliente asumida por toda la organización).\n\n**Ejemplo práctico:** Una empresa farmacéutica asume como filosofía cultural la mejora de la salud y el bienestar del paciente (cultura), analiza los patrones demográficos de envejecimiento y dolencias crónicas (análisis) y lanza una campaña de distribución hospitalaria de nuevos fármacos (acción).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes afirmaciones es correcta:",
+      "opciones": {
+        "a": "La segmentación actúa como nexo de unión entre el marketing estratégico y el marketing operacional",
+        "b": "El atractivo del mercado actúa como nexo de unión entre el marketing estratégico y el marketing operacional",
+        "c": "La dimensión \"cultura\" actúa como nexo de unión entre el marketing estratégico y el marketing operacional",
+        "d": "Ninguna de las anteriores"
+      },
+      "explicacion": "La dimensión «cultura» actúa como el nexo fundamental que cohesiona y une el marketing estratégico con el marketing operacional. Es el conjunto de valores y visión compartida que orienta las directrices estratégicas de largo plazo y asegura que los equipos tácticos las ejecuten fielmente en sus operaciones comerciales diarias.\n\n**Ejemplo práctico:** La arraigada cultura de atención al detalle y excelencia en Disney garantiza que las decisiones estratégicas de la marca se traduzcan de manera consistente en la amabilidad y servicio operativo de cada empleado en sus parques temáticos.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes afirmaciones es correcta:",
+      "opciones": {
+        "a": "El producto es el único elemento del marketing-mix que produce beneficio",
+        "b": "La distribución es el único elemento del marketing-mix que produce beneficio",
+        "c": "El precio es el único elemento del marketing-mix que produce beneficio",
+        "d": "La comunicación es el único elemento del marketing-mix que produce beneficio"
+      },
+      "explicacion": "En la estructura tradicional del marketing-mix (las cuatro variables: producto, precio, distribución y comunicación), el producto genera costes de fabricación, la distribución genera costes logísticos y la comunicación requiere inversión publicitaria. El precio es la única variable que genera directamente ingresos monetarios para la organización y, por consiguiente, beneficio económico neto.\n\n**Ejemplo práctico:** El desarrollo, envasado y campaña de lanzamiento de un perfume de lujo implican cuantiosos gastos e inversiones; el retorno financiero y la obtención de beneficios provienen con exclusividad del precio cobrado por cada frasco vendido.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de los siguientes es un elemento básico que afecta a la fijación de precios:",
+      "opciones": {
+        "a": "El coste de fabricación",
+        "b": "La competencia",
+        "c": "El posicionamiento",
+        "d": "Los tres anteriores"
+      },
+      "explicacion": "La fijación de precios no se realiza de forma aislada, sino evaluando simultáneamente los tres factores determinantes: los costes de fabricación y comercialización (que definen el umbral de rentabilidad mínimo), la competencia presente en el mercado (que establece las referencias y límites de comparación) y el posicionamiento de la marca (que define el valor percibido por el cliente y el precio máximo admisible).\n\n**Ejemplo práctico:** Un fabricante de bicicletas eléctricas calcula sus costes de batería y ensamblaje, comprueba las tarifas de los principales competidores del sector y analiza el valor de su marca para fijar un precio competitivo que garantice rentabilidad y prestigio.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La estructura organizativa del Marketing se puede articular atendiendo a las cuatro dimensiones de la actividad de Marketing definidas por Kotler (1995), que son las siguientes:",
+      "opciones": {
+        "a": "Funciones, áreas geográficas, productos y servicios",
+        "b": "Funciones, clientes, productos y marcas",
+        "c": "Funciones, áreas geográficas, productos y clientes",
+        "d": "Funciones, áreas geográficas, fuerza de ventas y clientes"
+      },
+      "explicacion": "Philip Kotler (1995) establece que los departamentos y organizaciones de marketing pueden estructurarse en torno a cuatro dimensiones operativas básicas: por funciones (investigación, publicidad, ventas), por áreas geográficas (mercados territoriales o internacionales), por productos (gestión de marcas y líneas de producto) y por clientes (atención a segmentos específicos como mayoristas, minoristas o corporativos).\n\n**Ejemplo práctico:** Una multinacional de alimentación cuenta con directores de producto dedicados a cafés y lácteos, directores de área geográfica para Europa y Asia, especialistas funcionales en analítica web y gestores de cuentas clave dedicados a clientes corporativos de hostelería.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En la organización funcional:",
+      "opciones": {
+        "a": "Se divide el departamento de marketing en una serie de secciones especializadas en una actividad concreta",
+        "b": "Se divide el departamento de marketing en una serie de secciones especializadas en un área geográfica",
+        "c": "Ninguna de las anteriores es correcta",
+        "d": "Se divide el departamento de marketing en una serie de secciones especializadas en un grupo de clientes concreto"
+      },
+      "explicacion": "La organización funcional del marketing es el modelo organizativo más clásico y habitual, en el cual el departamento se estructura en áreas o divisiones especializadas en actividades técnicas concretas: investigación de mercados, publicidad y promoción, desarrollo de producto, fijación de precios y administración de ventas, todas reportando a la dirección de marketing.\n\n**Ejemplo práctico:** Una compañía tecnológica de tamaño medio divide su equipo comercial en una sección especializada en captación digital y SEO, otra dedicada a eventos y relaciones públicas, y otra encargada de estudios de mercado.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes afirmaciones es correcta:",
+      "opciones": {
+        "a": "La información es el instrumento con el que cuenta el directivo para mejorar la toma de decisiones",
+        "b": "En un entorno cambiante, competitivo y turbulento la información se convierte en un factor esencial para responder a las demandas del mercado con rapidez",
+        "c": "La necesidad de una adaptación continua de la empresa al medio ambiente precisa un sistema de información comercial eficaz",
+        "d": "Las tres afirmaciones anteriores son correctas"
+      },
+      "explicacion": "La información comercial es la herramienta indispensable con la que cuentan los directivos para reducir el riesgo en la toma de decisiones; en entornos competitivos, turbulentos y volátiles la velocidad de recopilación de datos permite anticipar las respuestas de la demanda; y la adaptación continua de la empresa a las tendencias del entorno exige contar con un Sistema de Información Comercial formal y eficaz.\n\n**Ejemplo práctico:** Cadenas de moda como Zara o Mango monitorizan en tiempo real los datos de venta por tienda y las devoluciones para reaccionar de forma inmediata rediseñando prendas o ajustando la producción semanal a la demanda real.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "A cuál de los siguientes requisitos no debe atender la organización interna de los servicios de marketing:",
+      "opciones": {
+        "a": "Coherente con el tipo de estructura organizativa adoptada por la empresa",
+        "b": "Debe permitir realizar los objetivos y la estrategia de Marketing con el máximo de eficacia",
+        "c": "El reparto funcional de las actividades debe conciliarse con una orientación hacia, los productos, las zonas geográficas y los mercados",
+        "d": "Debe hacer un seguimiento exhaustivo de las estrategias de marketing de todos los competidores del mercado, y en caso que sea posible copiarlas"
+      },
+      "explicacion": "La estructura interna de marketing debe ser coherente con la cultura empresarial, eficaz en la consecución de objetivos y equilibrada entre productos y áreas. Copiar indiscriminadamente las estrategias de los competidores es una conducta contraria a los fundamentos del marketing, ya que diluye la diferenciación, anula la ventaja competitiva y puede transferir errores estratégicos ajenos.\n\n**Ejemplo práctico:** En lugar de replicar las campañas publicitarias y menús tradicionales de las cadenas convencionales de hamburgueserías, marcas como Goiko crearon su propia estrategia de hamburguesas gourmet apoyada en redes sociales e interiorismo urbano diferenciado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Qué tipo de recursos organiza la dirección de marketing:",
+      "opciones": {
+        "a": "Humanos y monetarios",
+        "b": "Materiales y generales",
+        "c": "Ninguno de los anteriores",
+        "d": "Humanos y materiales"
+      },
+      "explicacion": "En el plano directivo y organizativo, la función de dirección de marketing planifica, coordina y asigna fundamentalmente recursos humanos (equipos comerciales, directores de producto, analistas, creativos) y recursos materiales y tecnológicos (infraestructuras comerciales, sistemas informáticos CRM, presupuestos de campaña, vehículos y materiales promocionales).\n\n**Ejemplo práctico:** Para el lanzamiento de una línea de cosmética, el director de marketing organiza al personal de ventas y a los formadores en tienda (recursos humanos) y gestiona los expositores para puntos de venta y el software analítico (recursos materiales).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de los siguientes no es un nivel posible de control:",
+      "opciones": {
+        "a": "El control del plan anual",
+        "b": "El control del plan diario",
+        "c": "El control estratégico",
+        "d": "El control de eficiencia"
+      },
+      "explicacion": "En el control de la dirección de marketing (según Kotler), existen cuatro niveles formales de control: el control del plan anual (cotejar resultados con los objetivos presupuestados), el control de rentabilidad (por producto, segmento o zona), el control de eficiencia (rendimiento de la fuerza de ventas o publicidad) y el control estratégico (auditoría global). No existe un nivel conceptual denominado «control del plan diario».\n\n**Ejemplo práctico:** Al cierre de cada ejercicio económico, una compañía realiza el control de su plan anual verificando la cuota de mercado alcanzada y los márgenes brutos, al tiempo que audita la rentabilidad por línea de negocio, sin formular planes estratégicos diarios.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

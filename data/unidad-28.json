@@ -1,0 +1,126 @@
+{
+  "unidad": 28,
+  "titulo": "Autoevaluación Unidad 28 - Planificación de Medios Convencionales y No Convencionales",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Los medios de comunicación convencionales se caracterizan por ser masivos e impersonales. Cuál de las siguientes opciones NO es un medio convencional:",
+      "opciones": {
+        "a": "Prensa",
+        "b": "Radio",
+        "c": "Relaciones públicas",
+        "d": "TV"
+      },
+      "explicacion": "En la clasificación convencional del mercado publicitario (Above The Line - ATL), los medios convencionales son soportes publicitarios masivos e impersonales como la televisión, radio, prensa, revistas, cine y publicidad exterior. Las relaciones públicas se encuadran dentro de los medios no convencionales (Below The Line - BTL), ya que buscan generar notoriedad y credibilidad mediante acciones corporativas, eventos y gestión de la reputación sin recurrir a la compra directa de espacios publicitarios pagados impersonales.\n\n**Ejemplo práctico:** Una rueda de prensa celebrada por una farmacéutica para presentar un avance científico a periodistas sanitarios es una acción de relaciones públicas (BTL), a diferencia de la inserción de un anuncio de televisión en horario de máxima audiencia (medio convencional ATL).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "A los medios no convencionales también se les llama:",
+      "opciones": {
+        "a": "Above the line",
+        "b": "Below the line",
+        "c": "Medios publicitarios",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "En la terminología publicitaria y de marketing, los medios no convencionales se denominan 'Below The Line' (BTL, bajo la línea), agrupando aquellas técnicas de comunicación no masivas o dirigidas a segmentos específicos (marketing directo, promociones, patrocinio, ferias, eventos y relaciones públicas), por contraposición a los medios masivos convencionales denominados 'Above The Line' (ATL).\n\n**Ejemplo práctico:** La organización de degustaciones gratuitas con promotores en pasillos de supermercados es una acción comercial catalogada como Below The Line (BTL).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Cuál es la tendencia actual respecto a los medios de comunicación?",
+      "opciones": {
+        "a": "Los medios convencionales están ganando fuerza",
+        "b": "La publicidad gana fuerza por la creciente diversidad de soportes",
+        "c": "Las inversiones en comunicación en medios above the line superan a las inversiones en medios below the line",
+        "d": "Los medios no convencionales están ganando fuerza"
+      },
+      "explicacion": "En el mercado publicitario actual, la inversión en medios no convencionales (Below The Line) y canales digitales segmentados ha ganado un protagonismo creciente, superando en volumen agregado de inversión a los medios convencionales tradicionales gracias a su capacidad de personalización, interactividad, medición exacta del retorno de la inversión (ROI) y mayor cercanía al momento de compra.\n\n**Ejemplo práctico:** Grandes corporaciones de gran consumo destinan porcentajes crecientes de su presupuesto a campañas de marketing de influencia, promociones personalizadas a través de apps y emailing segmentado, recortando proporcionalmente su presencia en prensa impresa y televisión lineal.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Ventajas de la publicidad:",
+      "opciones": {
+        "a": "Credibilidad de los mensajes",
+        "b": "Adecuación del mensaje a las reacciones del cliente o público objetivo",
+        "c": "Modifica hábitos de los consumidores",
+        "d": "Necesidad de realizar grandes inversiones"
+      },
+      "explicacion": "La publicidad masiva tiene una capacidad sobresaliente para alcanzar a millones de personas de forma simultánea y reiterada, logrando a medio y largo plazo inculcar valores de marca, educar al mercado y modificar hábitos y actitudes consolidadas de consumo. En contraste, no suele destacar por una credibilidad intrínseca absoluta (el público sabe que es un mensaje pagado), carece de flexibilidad inmediata ante la respuesta del receptor y suele exigir elevadas inversiones monetarias.\n\n**Ejemplo práctico:** Las campañas publicitarias continuadas de concienciación sobre el reciclaje selectivo de envases lograron modificar las rutinas domésticas de los ciudadanos, consolidando el hábito de separar residuos en el hogar.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Inconvenientes de la promoción de ventas:",
+      "opciones": {
+        "a": "Saturación publicitaria",
+        "b": "Desprestigio del producto",
+        "c": "Incrementa las ventas",
+        "d": "Necesidad de una base de datos actualizada"
+      },
+      "explicacion": "Uno de los principales inconvenientes del recurso reiterado o excesivo a las promociones de ventas (descuentos agresivos, 2x1, regalos por compra) es el deterioro o desprestigio de la imagen de marca del producto. Cuando una marca abusa de los descuentos, los clientes tienden a percibir que el producto es de menor calidad o que su precio habitual está injustificadamente inflado, destruyendo el posicionamiento premium.\n\n**Ejemplo práctico:** Una marca de cosmética selectiva que lanza promociones continuas de '50% de descuento' en sus cremas corre el riesgo de que sus compradoras habituales duden de la exclusividad y calidad de sus fórmulas y decidan no volver a pagar el precio completo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones NO es una característica del marketing directo:",
+      "opciones": {
+        "a": "Permite una comunicación personalizada e interactiva con el mercado",
+        "b": "Puede ir destinado tanto a consumidores como distribuidores",
+        "c": "Utiliza diversos medios como el correo, el teléfono, la televisión y, en los últimos años, Internet",
+        "d": "Todas las anteriores son características del marketing directo"
+      },
+      "explicacion": "El marketing directo engloba todas las características mencionadas: establece un contacto interactivo y personalizado con cada cliente, se aplica tanto al canal de consumo particular (B2C) como a clientes profesionales o intermediarios de distribución (B2B), y se apoya en una amplia variedad de canales que van desde el correo postal y el telemarketing hasta los canales digitales actuales (email marketing, SMS e internet).\n\n**Ejemplo práctico:** Una empresa de software empresarial (B2B) lanza una campaña de marketing directo por correo electrónico y teléfono dirigida específicamente a los directores de compras de cadenas hoteleras, ofreciéndoles una prueba personalizada de su plataforma de reservas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes opciones NO es una fase de la planificación de la comunicación:",
+      "opciones": {
+        "a": "Objetivos",
+        "b": "Público objetivo",
+        "c": "Presupuesto",
+        "d": "Mix de distribución"
+      },
+      "explicacion": "Las fases fundamentales de la planificación estratégica de la comunicación publicitaria y comercial abarcan la determinación de los objetivos de comunicación, la identificación y análisis del público objetivo (target), la fijación del presupuesto publicitario, la definición del mix de herramientas de comunicación y la selección de la estrategia creativa y de medios. El 'mix de distribución' es una variable ajena que pertenece al ámbito de la distribución comercial (Place), no a la planificación de comunicación.\n\n**Ejemplo práctico:** Al elaborar el plan de medios para la campaña de verano de una marca de helados, el equipo define el presupuesto, segmenta el público objetivo y fija los objetivos de cobertura en redes sociales y televisión, mientras que la negociación de los lineales en los puntos de venta se gestiona dentro del plan de distribución.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El target o público objetivo de un plan de comunicación:",
+      "opciones": {
+        "a": "Debe definirse con el mayor detalle posible, a partir de las variables más significativas que lo caracterizan: socioeconómicas, geográficas, estilos de vida, motivaciones y hábitos de consumo.",
+        "b": "Son el grupo de destinatarios de la comunicación de la empresa",
+        "c": "El criterio último para delimitar y analizar el público objetivo es la rentabilidad que puede aportar a las acciones de comunicación",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El target o público objetivo de la comunicación constituye el grupo prioritario de destinatarios hacia el que se orientan todos los esfuerzos de la campaña. Debe definirse con el máximo rigor posible a partir de criterios sociodemográficos, geográficos, psicográficos y comportamentales, respondiendo su selección a la rentabilidad potencial y viabilidad económica que aportará a la empresa.\n\n**Ejemplo práctico:** Para el lanzamiento de una póliza de seguro para patinetes eléctricos, el target se delimita con precisión como jóvenes urbanos de 20 a 35 años, residentes en grandes ciudades, usuarios habituales de micromovilidad y con alta afinidad tecnológica, optimizando así cada euro invertido en anuncios digitales.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuando hablamos de estrategia creativa de publicidad, a veces se utiliza un eje racional, que consiste en:",
+      "opciones": {
+        "a": "Provocar una emoción positiva hacia la compra del producto",
+        "b": "Analizar las motivaciones y necesidades secundarias de la población objetivo",
+        "c": "Apelar a la lógica y al sentido común del público objetivo",
+        "d": "Apoyarse en el sentido moral del target"
+      },
+      "explicacion": "En la estrategia creativa publicitaria, el eje racional (o propuesta de valor informativa/demostrativa) centra su discurso en la lógica, las pruebas empíricas, los datos verificables y las características funcionales objetivas del producto, buscando persuadir al consumidor a través de razonamientos comprensibles y beneficios tangibles.\n\n**Ejemplo práctico:** El anuncio de un neumático que fundamenta su mensaje en datos de frenada en mojado certificados por un organismo independiente y en un ahorro medible de combustible apela directamente al eje racional del automovilista.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La fase de ejecución y control del proceso de comunicación:",
+      "opciones": {
+        "a": "Es la primera fase del plan de comunicación",
+        "b": "Consiste en la emisión de las comunicaciones previstas en cada uno de los instrumentos elegidos",
+        "c": "Es una fase que muchas veces no se lleva a cabo",
+        "d": "Todas las anteriores son falsas"
+      },
+      "explicacion": "La fase de ejecución y control del plan de comunicación representa la materialización práctica de la estrategia aprobada: en ella se procede a la contratación formal y difusión de los mensajes en los soportes seleccionados (ejecución), así como al seguimiento sistemático del rendimiento mediante métricas de cobertura, notoriedad y ventas frente a los objetivos previstos (control). No es la primera fase (es la culminación del proceso) y es un pilar indispensable en toda gestión profesional.\n\n**Ejemplo práctico:** Una vez iniciada la campaña trimestral en emisoras de radio y redes sociales, el departamento de marketing monitoriza semanalmente el coste por mil impresiones (CPM) y el incremento en el tráfico del comercio electrónico para verificar si la campaña está logrando los resultados planificados.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

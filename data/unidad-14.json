@@ -1,0 +1,126 @@
+{
+  "unidad": 14,
+  "titulo": "Autoevaluación Unidad 14 - Marketing Digital y Oportunidades en Internet",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Internet nos da una serie de oportunidades, que se basan en la matriz de H.I. Ansoff cuando nos habla de las \"estrategias de diversificación, son las siguientes:",
+      "opciones": {
+        "a": "Aumento de la penetración en los mercados",
+        "b": "Desarrollo de nuevos mercados",
+        "c": "Desarrollo de nuevos productos",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La matriz de crecimiento producto-mercado desarrollada por Igor Ansoff contempla cuatro estrategias de crecimiento: penetración de mercado, desarrollo de nuevos mercados, desarrollo de nuevos productos y diversificación. La irrupción de Internet y los canales digitales potencia y dinamiza simultáneamente estas oportunidades: facilita una penetración más profunda en mercados actuales mediante canales online 24/7, abre nuevos mercados geográficos y demográficos sin presencia física, y estimula la creación y distribución de nuevos productos y servicios puramente digitales.\n\n**Ejemplo práctico:** Una marca de calzado artesanal que tradicionalmente vendía en zapaterías físicas utiliza su tienda online para penetrar mejor en su mercado local con promociones recurrentes, acceder a nuevos mercados internacionales en Europa y Asia, y desarrollar nuevas líneas de productos digitales como plantillas personalizadas mediante escaneo 3D.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El ejemplo de la empresa Amazon.com es un caso típico de:",
+      "opciones": {
+        "a": "Diversificación",
+        "b": "Desarrollo de nuevos mercados",
+        "c": "Desarrollo de nuevos productos",
+        "d": "Las respuestas b y c son correctas"
+      },
+      "explicacion": "En la literatura académica sobre estrategia empresarial y marketing electrónico, el caso inicial de Amazon.com es el ejemplo clásico de 'desarrollo de nuevos mercados' dentro de la matriz de Ansoff. Jeff Bezos tomó un producto ya existente y maduro (los libros impresos) y utilizó la arquitectura global de Internet para llevarlo a nuevos mercados geográficos y segmentos de consumidores mundiales que anteriormente solo podían comprar en librerías físicas locales de stock limitado.\n\n**Ejemplo práctico:** En sus primeros años de operación, un lector que residía en una zona rural de Estados Unidos o en otro continente podía comprar en Amazon.com títulos especializados que ninguna librería local disponía, permitiendo a la compañía capturar un mercado global sin abrir tiendas físicas.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El tiempo medio de conexión desde casa de los Internautas en España es:",
+      "opciones": {
+        "a": "1 día al mes",
+        "b": "Menos de 1 hora al día",
+        "c": "Entre 2 y 4 horas al día",
+        "d": "Más de 10 horas al día"
+      },
+      "explicacion": "En los estudios sociológicos y métricas sectoriales de referencia sobre la sociedad de la información en España (como los informes elaborados por la AIMC / EGM y el ONTSI sobre el perfil de los internautas), el tiempo medio de conexión diaria a Internet desde el hogar se consolidó en la franja representativa de entre 2 y 4 horas al día, convirtiendo a la red en uno de los principales medios de consumo cotidiano.\n\n**Ejemplo práctico:** Un planificador de medios que diseña una campaña para una marca de gran consumo en España destina una parte sustancial del presupuesto a plataformas digitales y vídeo online en horario de tarde-noche, sabiendo que el usuario medio permanece conectado en su hogar varias horas al día.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La inversión de las empresas en marketing a través de Internet durante los próximos años se dirigirá principalmente a:",
+      "opciones": {
+        "a": "Investigación de mercados",
+        "b": "Conducta del consumidor",
+        "c": "Marketing en el móvil",
+        "d": "Las respuestas a y c son correctas"
+      },
+      "explicacion": "Las proyecciones de inversión publicitaria y estratégica en el entorno digital señalan como áreas prioritarias de crecimiento el marketing en dispositivos móviles (mobile marketing) y la investigación de mercados digital. El móvil se ha consolidado como el dispositivo principal de acceso ubicuo e interactivo a la red, mientras que las herramientas de investigación digital (analítica web, escucha activa en redes y minería de datos de navegación) son imprescindibles para comprender en tiempo real los patrones de consumo.\n\n**Ejemplo práctico:** Una multinacional de bienes de consumo como Unilever reasigna partidas presupuestarias hacia anuncios geolocalizados en aplicaciones móviles y hacia paneles de investigación de mercado digital para monitorizar las opiniones de los consumidores en tiempo real.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La tendencia mayoritaria en el futuro de evolución del marketing tradicional y el marketing a través de Internet es:",
+      "opciones": {
+        "a": "Aumento de inversión en los dos tipos de marketing",
+        "b": "Disminución de la inversión en los dos tipos de marketing",
+        "c": "Traspaso de inversión del marketing tradicional al marketing a través de Internet",
+        "d": "Desaparición del marketing tradicional"
+      },
+      "explicacion": "La evolución presupuestaria en el marketing contemporáneo no se caracteriza por la desaparición total de los medios convencionales, sino por un traspaso continuado de inversión desde el marketing tradicional (prensa en papel, radio analógica, televisión lineal, buzoneo) hacia el marketing a través de Internet. Las empresas redistribuyen sus partidas buscando la elevada capacidad de segmentación, la interactividad y la medición precisa del retorno sobre la inversión (ROI) que ofrece el entorno digital.\n\n**Ejemplo práctico:** Una cadena de distribución minorista reduce su gasto en la impresión y distribución física de catálogos en papel para transferir esos fondos a campañas de Google Shopping, publicidad en redes sociales y newsletters personalizadas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Uno de los factores que explica el aumento de la inversión de marketing en Internet es:",
+      "opciones": {
+        "a": "Desfavorables condiciones económicas",
+        "b": "Medios impresos moribundos",
+        "c": "El marketing interactivo está comprobado que funciona",
+        "d": "Todas las opciones anteriores son correctas"
+      },
+      "explicacion": "El auge de la inversión en marketing digital se explica por la conjunción de factores del macroentorno y del sector: las épocas de incertidumbre económica obligan a las empresas a optimizar sus presupuestos buscando canales más económicos y controlables; la crisis de difusión y lectores en los medios impresos tradicionales merma su rentabilidad publicitaria; y, fundamentalmente, la eficacia demostrada del marketing interactivo (con métricas directas de clics, registros y ventas) aporta una justificación financiera indiscutible.\n\n**Ejemplo práctico:** Durante una desaceleración económica, una pyme que solía contratar anuncios en revistas sectoriales y periódicos decide concentrar su presupuesto en campañas de anuncios en buscadores (SEM), donde solo paga cuando un usuario interesado hace clic en su enlace (pago por clic).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Uno de los factores que más influye en las tendencias del marketing tradicional y el marketing a través de Internet es:",
+      "opciones": {
+        "a": "Medios impresos en auge",
+        "b": "El marketing interactivo está comprobado que no funciona",
+        "c": "Aumento de las relaciones interactivas con el cliente",
+        "d": "Las opciones a y c son verdaderas"
+      },
+      "explicacion": "La transformación más profunda que diferencia al marketing tradicional del marketing en Internet es la interactividad. Mientras el marketing convencional opera bajo un modelo unidireccional y masivo donde el consumidor es un receptor pasivo de impactos publicitarios, Internet posibilita una comunicación bidireccional, inmediata y personalizada. El incremento de las relaciones interactivas permite a las marcas entablar un diálogo directo con los usuarios, resolver dudas y co-crear valor.\n\n**Ejemplo práctico:** En lugar de emitir un spot televisivo estático, una marca de telefonía interactúa con sus seguidores en canales digitales respondiendo consultas técnicas al instante, realizando encuestas sobre nuevas funcionalidades y ajustando sus ofertas a las peticiones del público.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El reparto de los presupuestos en publicidad y el reparto del tiempo del consumidor en los medios:",
+      "opciones": {
+        "a": "Está equilibrado",
+        "b": "En Internet los consumidores invierten más tiempo que las empresas dinero",
+        "c": "En los periódicos los consumidores invierten más tiempo que las empresas dinero",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "Históricamente se ha producido una notable asimetría entre el tiempo que los consumidores pasan en los diferentes medios y la distribución del presupuesto publicitario de las empresas. Durante años, los internautas dedicaban una proporción de su tiempo diario a Internet muy superior al porcentaje de presupuesto publicitario que las marcas asignaban a este canal, manteniéndose durante mucho tiempo una sobreinversión en medios tradicionales frente a la cuota real de atención digital.\n\n**Ejemplo práctico:** A finales de los años 2000 y principios de la década de 2010, un usuario promedio pasaba más del 30% de su tiempo de ocio mediático conectado a la red, pero las agencias y marcas todavía destinaban menos del 15% de su tarta publicitaria a medios online, tardando años en equilibrar dicha balanza.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El acrónimo SEO hace referencia a :",
+      "opciones": {
+        "a": "Search Engine Optic",
+        "b": "Situational Estrategical Optimization",
+        "c": "Single Election Optimizatio",
+        "d": "Search Engine Optimization"
+      },
+      "explicacion": "El acrónimo SEO se corresponde de forma universal con la expresión inglesa 'Search Engine Optimization' (Optimización para Motores de Búsqueda). Representa el conjunto de técnicas, metodologías y optimizaciones técnicas y de contenido orientadas a mejorar la posición y visibilidad de un sitio web en las páginas de resultados orgánicos o naturales de motores de búsqueda como Google, Bing o Yahoo.\n\n**Ejemplo práctico:** Un e-commerce de moda optimiza la arquitectura de su web, la velocidad de carga en móviles y las etiquetas de texto de sus productos ('vestidos de fiesta sostenibles') para posicionarse de forma natural en los primeros resultados de Google sin tener que pagar por cada clic publicitario.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El Marketing en el móvil está previsto que aumente en un futuro, debido a:",
+      "opciones": {
+        "a": "Estancamiento del uso de móviles",
+        "b": "Nuevas aplicaciones para móviles",
+        "c": "Inmadurez del mercado móvil",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "El crecimiento sostenido del marketing móvil se debe principalmente a la continua innovación y desarrollo de nuevas aplicaciones para teléfonos móviles (apps). Las aplicaciones ofrecen experiencias ricas, dinámicas y contextuales, permitiendo integrar funcionalidades nativas como la geolocalización, la cámara, las notificaciones 'push' y los pagos instantáneos, convirtiendo al dispositivo móvil en el canal de interacción comercial más íntimo y frecuente.\n\n**Ejemplo práctico:** Aplicaciones móviles como Uber, Cabify o Just Eat envían notificaciones push personalizadas y con descuentos al móvil del usuario justo en las horas en que suele pedir comida o transporte, disparando la conversión gracias a las capacidades de la app.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

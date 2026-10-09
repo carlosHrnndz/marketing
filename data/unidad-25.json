@@ -1,0 +1,126 @@
+{
+  "unidad": 25,
+  "titulo": "Autoevaluación Unidad 25 - Fundamentos y Funciones de la Distribución Comercial",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La distribución comercial se puede definir como la función o instrumento del Marketing:",
+      "opciones": {
+        "a": "Que relaciona la producción con el consumo",
+        "b": "Cuya misión es poner el producto a disposición del consumidor en la cantidad demandada, en el momento en que lo necesite y en el lugar donde desee adquirirlo,",
+        "c": "Que desarrolla un conjunto de actividades como pueden ser las de información, promoción y presentación del producto en el punto de venta a fin de estimular la compra por parte de los consumidores",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La distribución comercial es una variable estratégica fundamental del marketing mix que salva la distancia física, temporal y espacial entre la producción y el consumo. No se limita a transportar las mercancías, sino que asegura que los bienes lleguen al punto de venta en el momento exacto y en las cantidades adecuadas, desplegando al mismo tiempo actividades promocionales, de información y merchandising para estimular la compra.\n\n**Ejemplo práctico:** Una marca líder de refrescos como Coca-Cola no solo suministra botellas a hipermercados y bares para que el cliente las encuentre frías y disponibles en cualquier momento, sino que además provee neveras expositoras exclusivas y cartelería en el establecimiento para dinamizar las ventas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes opciones NO es una utilidad de la distribución:",
+      "opciones": {
+        "a": "El tiempo",
+        "b": "El lugar",
+        "c": "El consumidor",
+        "d": "Todas las anteriores son utilidades de la distribución"
+      },
+      "explicacion": "La distribución comercial genera utilidades económicas esenciales para el consumidor: utilidad de lugar (disponibilidad física donde se requiere), utilidad de tiempo (disponibilidad cuando se demanda) y utilidad de posesión o forma (facilitando la entrega material y la adquisición). El consumidor no constituye una utilidad generada por la distribución, sino el sujeto o destinatario final a quien van dirigidas dichas utilidades.\n\n**Ejemplo práctico:** Un servicio de farmacia de guardia 24 horas proporciona al cliente utilidad de tiempo (servicio ininterrumpido durante la noche) y de lugar (proximidad geográfica al vecindario), siendo el paciente el consumidor beneficiario de las utilidades creadas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La función de transporte de la distribución consiste en:",
+      "opciones": {
+        "a": "Almacenar los productos después de que salen de la cadena de fabricación",
+        "b": "Transportar los productos desde la fábrica hasta los puntos de venta",
+        "c": "Transformar \"lotes de producción\" en \"lotes de venta\"",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La función de transporte dentro del subsistema de distribución física consiste en el traslado material y geográfico de los productos desde las plantas de fabricación o almacenes centrales hasta los intermediarios y puntos de venta minoristas donde los consumidores efectúan la compra.\n\n**Ejemplo práctico:** La flota de transporte refrigerado de una cadena de distribución recoge los palés de yogures en la planta del fabricante y los reparte diariamente entre los supermercados locales para garantizar su reposición continua.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La función de financiación de la distribución consiste en:",
+      "opciones": {
+        "a": "Informar al productor o fabricante sobre determinados aspectos relevantes",
+        "b": "Asumir riesgos al comprar los productos al fabricante, ya que puede ocurrir que éstos no se vendan porque queden obsoletos, se estropeen en el almacén, los roben, etc",
+        "c": "Financiar al fabricante debido a que compra sus productos pagándolos, por ejemplo, a 30 días y el distribuidor tarda en venderlos más tiempo.",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "Los intermediarios del canal desempeñan una función financiera fundamental al asumir el coste y la carga financiera del stock. Al adquirir y pagar las mercancías al fabricante en los plazos comerciales acordados (por ejemplo, a 30 días) antes de haber podido revender la totalidad de los artículos al consumidor final, el distribuidor está financiando de facto el ciclo de explotación del productor.\n\n**Ejemplo práctico:** Un distribuidor minorista de electrónica adquiere 500 ordenadores portátiles a un fabricante y los abona a 30 días, aunque tarde una media de 75 días en venderlos y cobrarlos a sus clientes finales, asumiendo durante ese diferencial el coste financiero del inventario.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes opciones es un elemento diferenciador de la distribución:",
+      "opciones": {
+        "a": "Es una variable estratégica.",
+        "b": "Es una variable compartida",
+        "c": "Las opciones a y b son correctas",
+        "d": "Las opciones a y b NO son correctas"
+      },
+      "explicacion": "La distribución comercial presenta dos rasgos distintivos cruciales respecto a otras variables del marketing mix: es una variable estratégica (las decisiones sobre diseño de canales implican compromisos contractuales a largo plazo e inversiones muy difíciles de modificar a corto plazo) y es una variable compartida (depende de la negociación, cooperación y acuerdos con organizaciones independientes como mayoristas y minoristas).\n\n**Ejemplo práctico:** Un fabricante automovilístico no puede reestructurar de forma inmediata su red de concesionarios oficiales porque existen contratos plurianuales e inversiones compartidas en instalaciones y talleres, lo que refleja su carácter estratégico y compartido.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El canal de distribución es:",
+      "opciones": {
+        "a": "El conducto, vía o camino que siguen los productos desde el fabricante (fase de producción) hasta el comprador o consumidor final.",
+        "b": "El conjunto de organizaciones (fabricantes, mayoristas y minoristas) que reúnen sus fuerzas para entregar los bienes y/o servicios a los usuarios industriales o a los consumidores finales",
+        "c": "Las opciones a y b son correctas",
+        "d": "Las opciones a y b NO son correctas"
+      },
+      "explicacion": "El concepto de canal de distribución admite una doble dimensión complementaria: por un lado, es el itinerario o camino físico y mercantil que recorre el bien desde su producción hasta su adquisición final; por otro, es la estructura organizativa formada por el conjunto de entidades e intermediarios (fabricantes, mayoristas, minoristas) que colaboran para transferir el producto al mercado.\n\n**Ejemplo práctico:** En la comercialización del aceite de oliva, el canal abarca tanto la ruta logística que recorre la botella desde la almazara hasta el consumidor, como el conjunto integrado por la cooperativa productora, el mayorista envasador y la cadena de supermercados.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La dimensión vertical del canal es:",
+      "opciones": {
+        "a": "El número de niveles en el canal",
+        "b": "El número de intermediarios en un determinado nivel del canal",
+        "c": "El número de niveles y de intermediarios en el canal",
+        "d": "El número total e intermediarios en todos los niveles del canal"
+      },
+      "explicacion": "La dimensión vertical de un canal de distribución refleja su longitud, determinada específicamente por el número de niveles de intermediación que median entre el productor y el cliente final (canal directo o nivel cero, canal corto con un intermediario, o canal largo con dos o más niveles de intermediarios). La dimensión horizontal, por su parte, se refiere a la cantidad de intermediarios existentes dentro de un mismo nivel.\n\n**Ejemplo práctico:** Un canal configurado por fabricante -> central mayorista -> tienda minorista -> cliente final tiene una dimensión vertical de dos niveles de intermediarios (canal largo), mientras que una tienda online del propio fabricante que vende sin intermediarios carece de niveles intermedios (dimensión vertical directa).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El papel de los intermediarios del canal es:",
+      "opciones": {
+        "a": "Evitar las transacciones en el mercado",
+        "b": "Facilitar la comunicación en ambos sentidos",
+        "c": "Incrementar la eficiencia del proceso de intercambio en el mercado",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "Los intermediarios comerciales son determinantes en la eficiencia económica porque reducen exponencialmente el número total de transacciones y contactos necesarios para abastecer el mercado (principio de minimización de transacciones), al tiempo que canalizan la comunicación bidireccional transmitiendo promociones y características del producto hacia los compradores y recopilando información de mercado para el fabricante.\n\n**Ejemplo práctico:** Si cinco fabricantes quisieran contactar individualmente con ocho clientes requerirían 40 transacciones independientes; la intervención de un distribuidor mayorista centralizado reduce el proceso a solo 13 transacciones (5 + 8) y facilita la retroalimentación continua sobre qué productos tienen mayor demanda.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Los intermediarios contribuyen a ajustar las cantidades y surtidos producidos y consumidos. La creación de surtidos es uno de los aspectos más interesantes de la actual distribución porque:",
+      "opciones": {
+        "a": "Contribuye a que todas las empresas tengan surtidos parecidos",
+        "b": "Contribuye a la diferenciación de unas empresas frente a otras",
+        "c": "Contribuye a que el consumidor conozca los diferentes canales de distribución que utiliza el fabricante",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La creación de surtido (conjunto diversificado de productos y marcas que un distribuidor ofrece a su público) es una herramienta competitiva clave, ya que permite a cada establecimiento comercial definir su posicionamiento en el mercado, adaptando la amplitud y profundidad de su oferta para diferenciarse claramente de sus competidores y aportar una propuesta de valor única.\n\n**Ejemplo práctico:** Una cadena especializada en productos bio y gourmet conforma un surtido de marcas exclusivas y alimentos de proximidad para distinguirse de los hipermercados de gran descuento, captando a consumidores dispuestos a pagar más por variedad y exclusividad.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los intermediarios facilitan las transacciones en el mercado, que favorecen la implantación de sistemas tecnológicos que facilitan el intercambio, como el EDI, acrónimo de:",
+      "opciones": {
+        "a": "Intercambio por Email de Datos",
+        "b": "Intercambio Email de Dividendos",
+        "c": "Intercambio Electrónico de Datos",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "EDI son las siglas de Intercambio Electrónico de Datos (Electronic Data Interchange), un sistema estandarizado de comunicación telemática entre aplicaciones informáticas que permite el envío estructurado y automático de documentos comerciales habituales (pedidos, avisos de expedición, albaranes, facturas electrónicas) entre fabricantes e intermediarios sin requerir intervención manual.\n\n**Ejemplo práctico:** Cuando los terminales punto de venta de una cadena de supermercados detectan que el stock de conservas baja del nivel de seguridad, el sistema informático envía automáticamente un pedido EDI al proveedor, el cual procesa la orden de envío y emite la factura electrónica de inmediato.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

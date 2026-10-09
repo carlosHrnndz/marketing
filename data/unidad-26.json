@@ -1,0 +1,126 @@
+{
+  "unidad": 26,
+  "titulo": "Autoevaluación Unidad 26 - Estrategias y Selección de Canales de Distribución",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En una estrategia de distribución directa:",
+      "opciones": {
+        "a": "Se llevan directamente los productos de la empresa a los clientes con medios propios de la empresa, sin que existan intermediarios",
+        "b": "Se distribuye el producto a través de los canales ya establecidos",
+        "c": "Se recurre a intermediarios del sector",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "En la estrategia de distribución directa (canal de nivel cero), el fabricante prescinde de agentes o empresas intermediarias externas, asumiendo por sí mismo con medios propios todas las tareas logísticas, de promoción, venta y entrega del producto al cliente final.\n\n**Ejemplo práctico:** Fabricantes como Dyson o Nespresso comercializan una parte importante de su catálogo directamente a través de sus plataformas de comercio electrónico y sus boutiques propias exclusivas, controlando directamente la experiencia de cliente y el margen sin intermediarios.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La estrategia de aplazamiento de tiempo consiste en:",
+      "opciones": {
+        "a": "Retrasar la terminación del producto, el montaje o embalaje hasta que el comprador no haya manifestado sus condiciones o preferencias, y se puede acabar el producto de acuerdo a las especificaciones del cliente",
+        "b": "Retrasar la distribución física del producto hasta el momento en que se produce el pedido por parte del cliente",
+        "c": "Las dos anteriores son correctas",
+        "d": "Las dos anteriores son falsas"
+      },
+      "explicacion": "La estrategia de aplazamiento de tiempo (time postponement) consiste en mantener las existencias de producto centralizadas en almacén y demorar su distribución y transporte físico hasta el momento concreto en que el comprador emite y formaliza el pedido en firme, reduciendo así los costes de mantenimiento y el riesgo de stock ocioso en puntos de venta descentralizados.\n\n**Ejemplo práctico:** Marcas como Dell conservan sus equipos ensamblados en centros logísticos nodales y solo inician el transporte directo al domicilio del usuario cuando este realiza y paga el pedido en la tienda online.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes opciones NO es una razón para el outsorcing o externalización de alguna función de distribución física:",
+      "opciones": {
+        "a": "Disminución de costes fijos o estructurales de la empresa distribuidora",
+        "b": "Mayor eficiencia en el canal",
+        "c": "Mayores necesidades de capital",
+        "d": "Centrarse en actividades con alto valor añadido, externalizado las que no constituyen el núcleo del negocio de la empresa"
+      },
+      "explicacion": "La externalización u outsourcing logístico busca optimizar costes, flexibilizar la estructura operativa y concentrar los recursos de la empresa en su actividad principal (core business). Por tanto, la externalización pretende reducir las necesidades de capital e inversión en activos fijos (naves industriales, flotas de transporte), transformando costes fijos en variables, lo que hace falsa la premisa de que implique mayores necesidades de capital.\n\n**Ejemplo práctico:** Una firma de moda emergente contrata a un operador logístico integral (3PL) para gestionar su almacén y paquetería, evitando tener que desembolsar capital en la compra de camiones e instalaciones de almacenamiento.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La estructura vertical convencional se caracteriza:",
+      "opciones": {
+        "a": "Porque en ella cada nivel del canal se comporta independientemente el uno del otro y busca obtener para él las mejores condiciones de compra o de venta, sin preocuparse del rendimiento global del canal",
+        "b": "Porque se trata de un tipo de organización individualista, donde ningún miembro del canal ejerce control sobre los otros",
+        "c": "Porque una de las partes del canal toma la iniciativa de la coordinación, convirtiéndose en el líder o capitán del canal.",
+        "d": "Las respuestas a y b son ciertas"
+      },
+      "explicacion": "La estructura vertical convencional o tradicional se define por estar compuesta por miembros (fabricantes, mayoristas y minoristas) que actúan de manera totalmente fragmentada e independiente, persiguiendo cada uno la maximización de su beneficio particular sin una visión global de canal, y caracterizándose por la ausencia de un liderazgo formal o miembro coordinador (capitán de canal).\n\n**Ejemplo práctico:** En el comercio hortofrutícola tradicional no integrado, los agricultores individuales venden a asentadores de mercas y estos a fruterías de barrio independientes, donde cada eslabón negocia el precio a corto plazo sin fijar estrategias conjuntas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La distribución intensiva se caracteriza por:",
+      "opciones": {
+        "a": "Perseguir reducir los costes de distribución aumentando la cooperación con el canal",
+        "b": "Ser una distribución selectiva llevada al extremo",
+        "c": "Buscar la máxima cobertura del territorio y una cifra de ventas elevada",
+        "d": "Ser útil cuando el fabricante quiere diferenciar su producto mediante una política de alta calidad, de prestigio o de calidad de servicio"
+      },
+      "explicacion": "La distribución intensiva tiene como finalidad primordial alcanzar la máxima cobertura geográfica y presencia en la mayor cantidad posible de puntos de venta del mercado objetivo, siendo la estrategia habitual para productos de compra frecuente y baja implicación donde el consumidor exige disponibilidad inmediata.\n\n**Ejemplo práctico:** Marcas de aperitivos como Matutano o refrescos como Pepsi emplean distribución intensiva para estar disponibles en supermercados, quioscos, máquinas de vending, estaciones de servicio y cafeterías, asegurando que el cliente los compre de forma espontánea.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones NO es una estrategia de comunicación con el canal:",
+      "opciones": {
+        "a": "Estrategia de presión (push).",
+        "b": "Estrategia de aspiración (pull).",
+        "c": "Estrategia de comunicación bilateral",
+        "d": "Estrategia mixta"
+      },
+      "explicacion": "En la gestión de canales de distribución, las estrategias de comunicación son la estrategia de presión (push), donde el fabricante empuja el producto incentivando a los intermediarios; la estrategia de aspiración (pull), donde se atrae al consumidor mediante publicidad masiva para que demande el producto al canal; y la estrategia mixta, que combina ambas. La denominación 'comunicación bilateral' no es una tipología estratégica formal de canal dentro de este marco teórico.\n\n**Ejemplo práctico:** Una cervecera puede aplicar push ofreciendo bonificaciones por barril a los hosteleros, o pull lanzando campañas de televisión para que los clientes soliciten su marca en las barras; sin embargo, no existe una estrategia catalogada formalmente como bilateral en esta taxonomía.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Para seleccionar un canal de distribución se tiene en cuenta:",
+      "opciones": {
+        "a": "Factores internos",
+        "b": "Factores externos",
+        "c": "Las opciones a y b son correctas",
+        "d": "Las opciones a y b son falsas"
+      },
+      "explicacion": "El diseño y selección del canal de distribución óptimo exige ponderar tanto factores internos de la organización (capacidad económico-financiera, recursos comerciales, posicionamiento de marca, gama de productos) como factores externos del entorno (comportamiento y localización de los consumidores, marco legal, acciones de la competencia y características de los distribuidores disponibles).\n\n**Ejemplo práctico:** Una bodega artesanal evalúa sus limitaciones financieras y volumen de producción propio (factores internos) junto con los hábitos de consumo de vino en restauración y la cobertura de los distribuidores zonales (factores externos) antes de elegir su canal de ventas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de las siguientes opciones NO se tiene en cuenta al seleccionar el canal de distribución:",
+      "opciones": {
+        "a": "Características del producto",
+        "b": "Características de la empresa",
+        "c": "Características del mercado",
+        "d": "Hay que tener en cuenta todas las opciones mencionadas en las respuestas a, b y c."
+      },
+      "explicacion": "La determinación del canal de distribución no puede ignorar ninguna de las tres dimensiones clave: debe considerar necesariamente las características del producto (perecedero, voluminoso, técnico), las características de la empresa (tamaño, recursos, cuota de mercado deseada) y las características del mercado meta (dispersión geográfica, hábitos de compra y volumen de pedidos).\n\n**Ejemplo práctico:** Un fabricante de maquinaria industrial de alta precisión debe evaluar la complejidad técnica de su producto (necesita servicio postventa), su limitada infraestructura comercial (empresa mediana) y la concentración industrial de sus clientes para estructurar una red de agentes especializados.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Uno de los elementos a tener en cuenta al seleccionar un canal son las características de los distribuidores y costes de la distribución. Cuál de las siguientes afirmaciones respecto a este tema es FALSA:",
+      "opciones": {
+        "a": "Hay que verificar que los distribuidores dispongan de los medios materiales y humanos necesarios para una óptima comercialización del producto",
+        "b": "La imagen de los distribuidores no es muy importante ya que no tiene que ver con el fabricante",
+        "c": "El poder del distribuidor es determinante; cuanto más fuerte es el distribuidor, más limitado será el poder de negociación de la empresa.",
+        "d": "Todas las respuestas anteriores son ciertas."
+      },
+      "explicacion": "Es totalmente falso afirmar que la imagen del distribuidor no sea importante para el fabricante. La reputación, el prestigio y el tipo de establecimiento comercial donde se exhibe el producto influyen de manera decisiva y directa en la percepción de calidad y el posicionamiento de marca que los consumidores construyen sobre el producto del fabricante.\n\n**Ejemplo práctico:** Una firma de relojería de alta gama como Tag Heuer selecciona cuidadosamente joyerías de prestigio y nunca consentiría la venta de sus productos en bazares de descuento o hipermercados, ya que ello deterioraría de forma inmediata su posicionamiento exclusivo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La metodología para sistematizar el proceso de selección del canal incluye la siguiente fase:",
+      "opciones": {
+        "a": "Análisis de las funciones de distribución.",
+        "b": "Jerarquización de los canales.",
+        "c": "Consideración de restricciones.",
+        "d": "Todas las respuestas son correctas"
+      },
+      "explicacion": "La metodología para una selección sistemática y rigurosa del canal de distribución consta de etapas secuenciales: analizar las funciones que debe cumplir el canal (almacenamiento, entrega, cobro, promoción), identificar y ponderar las restricciones operativas, legales y financieras, y finalmente evaluar y jerarquizar las alternativas de canales factibles en función de su rentabilidad, cobertura y nivel de control.\n\n**Ejemplo práctico:** Una empresa láctea que lanza una línea de postres funcionales analiza las funciones necesarias (cadena de frío continua), constata las restricciones regulatorias y de caducidad, y jerarquiza los canales priorizando las grandes superficies con lineales refrigerados sobre los pequeños comercios tradicionales sin frío regulado.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

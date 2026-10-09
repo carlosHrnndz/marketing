@@ -1,0 +1,126 @@
+{
+  "unidad": 7,
+  "titulo": "Autoevaluación Unidad 7 - Política de Precios e Internet",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el precio es falsa:",
+      "opciones": {
+        "a": "Es el elemento de Marketing que más directamente determina los ingresos y beneficios de la empresa",
+        "b": "El producto tiene un coste de elaboración, al igual que su distribución y su comunicación al mercado",
+        "c": "Las empresas deben prestar mucha atención a la hora de establecer un precio, ya que éste determinará el volumen de ventas alcanzable y la rentabilidad asociada",
+        "d": "Todas las opciones son verdaderas"
+      },
+      "explicacion": "En el marco del marketing-mix, el precio es la única variable que produce ingresos de forma directa, mientras que el producto, la distribución y la comunicación comercial representan costes e inversiones necesarias para generar la oferta. Asimismo, las decisiones de precios condicionan el volumen de demanda y el margen de beneficio de la empresa. Por tanto, las tres afirmaciones a, b y c son totalmente verdaderas, lo que convierte a la opción d («Todas las opciones son verdaderas») en la opción correcta al señalar la veracidad de todas las proposiciones planteadas sobre el precio.\n\n**Ejemplo práctico:** Cuando una cadena hotelera aumenta o reduce su tarifa media diaria por habitación (ADR), el impacto en sus ingresos netos y beneficios es inmediato, a diferencia de las inversiones en remodelación de habitaciones o campañas publicitarias, que implican costes previos antes de observar retornos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Una de las estrategias de fijación de precios es la llamada estrategia de \"skimming\", que consiste en:",
+      "opciones": {
+        "a": "Poner un precio parecido al de la competencia",
+        "b": "Mantener un precio más alto que el de la competencia",
+        "c": "Disminuir significativamente los precios respecto los de la competencia",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "La estrategia de «skimming» (conocida en español como estrategia de descremado o desnatado del mercado) consiste en fijar un precio inicial deliberadamente alto, superior al de los competidores, al lanzar un producto nuevo o innovador. Su objetivo es captar el excedente del consumidor en los segmentos con menor sensibilidad al precio (innovadores y primeros adoptantes) y recuperar rápidamente las inversiones en I+D antes de reducir gradualmente el precio en fases posteriores del ciclo de vida.\n\n**Ejemplo práctico:** Cuando Sony o Microsoft lanzan una nueva generación de consolas de videojuegos con tecnología puntera, establecen un precio elevado dirigido a los jugadores más entusiastas dispuestos a pagar una prima, reduciendo el precio meses más tarde para penetrar en el mercado masivo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Una de las fases de determinación del precio es la de implementación, que consiste en:",
+      "opciones": {
+        "a": "Adoptar un criterio para fijar el precio",
+        "b": "Las respuestas a y b son falsas",
+        "c": "Poner en marcha el precio fijado",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "El proceso metodológico de fijación de precios consta de varias fases: análisis del entorno y la demanda, estimación de costes, fijación de objetivos, elección de la estrategia y método de cálculo, y finalmente la fase de implementación. La implementación consiste en la puesta en marcha, comunicación y aplicación operativa efectiva del precio acordado en los canales comerciales, listas de tarifas y sistemas de venta de la empresa.\n\n**Ejemplo práctico:** Una compañía de telefonía móvil que ha diseñado un nuevo plan de suscripción ejecuta la fase de implementación cuando actualiza los precios en su web oficial, configura el sistema de facturación y envía las nuevas tarifas a su red de tiendas y distribuidores autorizados.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Los métodos de fijación de precios que se basan en el análisis del punto de equilibrio consisten en:",
+      "opciones": {
+        "a": "Considerar el punto donde los ingresos se igualan a los costes para determinar el precio",
+        "b": "Determinar el coste unitario del producto y añadirle un margen de beneficio",
+        "c": "Las respuestas a y b son correctas",
+        "d": "Establecer una estrategia básica de precios"
+      },
+      "explicacion": "Los métodos de fijación de precios basados en el análisis del punto de equilibrio (o umbral de rentabilidad / break-even point) calculan el nivel de ingresos y volumen de unidades vendidas en el cual los ingresos totales igualan exactamente a los costes totales (costes fijos más costes variables). A partir de esa referencia donde el beneficio es cero, la empresa determina el precio necesario para alcanzar un volumen determinado o lograr un beneficio objetivo establecido.\n\n**Ejemplo práctico:** Una editorial calcula que la publicación de un libro implica 10.000 € de costes fijos (edición y diseño) y 5 € de coste variable por ejemplar. Fijando un precio de 15 €, sabe que su punto de equilibrio se sitúa en 1.000 libros vendidos (10.000 / (15 - 5)), a partir del cual comenzará a obtener beneficios.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes afirmaciones respecto a las rebajas es falsa:",
+      "opciones": {
+        "a": "Son descuentos periódicos de precios",
+        "b": "Son descuentos temporales de precios",
+        "c": "Son descuentos sujetos a normativa específica",
+        "d": "Son descuentos que no son conocidos con anterioridad"
+      },
+      "explicacion": "La afirmación d es falsa porque las rebajas son precisamente promociones comerciales perfectamente previstas, regladas y conocidas con anterioridad tanto por los comerciantes como por los consumidores. Se definen por ley como ventas a precios reducidos de productos que ya estaban en el establecimiento, de carácter periódico y temporal (habitualmente temporadas de invierno y verano) y sujetas a una estricta normativa de comercio minorista.\n\n**Ejemplo práctico:** Los consumidores y tiendas de moda como Inditex o Mango conocen con meses de antelación que el periodo oficial de rebajas de verano comienza a finales de junio o principios de julio, programando sus presupuestos familiares y campañas comerciales en torno a esas fechas fijas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes afirmaciones respecto a las variables precio y producto es verdadera:",
+      "opciones": {
+        "a": "Las variables producto y precio admiten un tratamiento independiente, y por tanto nunca presentan ninguna vinculación",
+        "b": "Las decisiones relativas a productos y a precios están interrelacionadas por el objetivo de concebir la oferta a comercializar para conseguir una óptima rentabilidad",
+        "c": "Las decisiones de producto y precio nunca se pueden considerar como un conjunto de decisiones complementarias",
+        "d": "Ninguna de las anteriores es cierta"
+      },
+      "explicacion": "El producto y el precio son dos variables intrínsecamente complementarias e interdependientes del marketing-mix. El precio debe reflejar con coherencia el valor percibido, la calidad y las características que aporta el producto; al mismo tiempo, los costes de diseño y fabricación del producto imponen el suelo del precio. Ambas decisiones deben formularse coordinadamente con el objetivo primordial de estructurar una oferta atractiva para el mercado que maximice la rentabilidad empresarial.\n\n**Ejemplo práctico:** Nespresso no concibe el precio de sus cápsulas de forma aislada, sino estrechamente ligado a la calidad del café, al diseño de sus cafeteras y a la experiencia de marca boutique, asegurando que el cliente perciba un producto exclusivo que justifique un precio por gramo de café muy superior al del café a granel.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes afirmaciones respecto al precio e internet es correcta:",
+      "opciones": {
+        "a": "Internet ya está afectando al precio",
+        "b": "Internet afectará al precio en el futuro",
+        "c": "Internet reduce los precios",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Internet y la digitalización han revolucionado la variable precio en todas sus dimensiones: en el presente ya impactan determinantemente facilitando la comparación en tiempo real y la fijación dinámica de precios; seguirán afectando en el futuro con modelos predictivos de inteligencia artificial y personalización extrema; y han provocado una reducción generalizada de precios en muchos sectores gracias a la desintermediación y a la reducción drástica de costes de transacción y búsqueda.\n\n**Ejemplo práctico:** Plataformas como Amazon o Google Shopping permiten al comprador comparar el precio de un mismo televisor en decenas de tiendas en cuestión de segundos, obligando a los vendedores a ajustar sus márgenes y reduciendo los precios promedio del mercado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de las siguientes no es una característica del e-procurement:",
+      "opciones": {
+        "a": "Una tecnología que pretende reducir costes",
+        "b": "Una tecnología que pretende subir los precios a los compradores",
+        "c": "Una tecnología basada en Internet y la telefonía móvil",
+        "d": "Ninguna de las anteriores es una característica del e-procurement"
+      },
+      "explicacion": "El e-procurement (aprovisionamiento electrónico entre empresas o B2B) consiste en la digitalización y automatización de las compras corporativas mediante plataformas web y móviles. Su propósito central es reducir costes administrativos y operativos, agilizar los ciclos de compra y fomentar la competencia entre proveedores para conseguir mejores precios. Por tanto, afirmar que es una tecnología que pretende subir los precios a los compradores es radicalmente falso.\n\n**Ejemplo práctico:** Una empresa constructora implanta un sistema de e-procurement para solicitar presupuestos de cemento y acero a cientos de proveedores homologados a través de una subasta electrónica inversa, logrando adjudicar el contrato a la oferta más económica y reduciendo sus costes de aprovisionamiento en un 12%.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Según Kotler, qué pueden hacer los compradores en Internet:",
+      "opciones": {
+        "a": "Comparar los precios de miles de vendedores al instante",
+        "b": "Seguir el comportamiento del comprador",
+        "c": "Dar a determinados clientes acceso a precios especiales",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "Según Philip Kotler, la revolución de Internet empodera a los compradores dotándolos de capacidades sin precedentes: pueden comparar precios de miles de vendedores al instante mediante comparadores en línea, interactuar directamente con otros consumidores para contrastar opiniones, rastrear información exhaustiva sobre productos y acceder a ofertas y precios especiales gracias a su registro en comunidades y clubes de fidelización digital.\n\n**Ejemplo práctico:** Al buscar un billete de avión, un usuario utiliza portales como Skyscanner o Kayak para comparar precios de decenas de aerolíneas simultáneamente, recibiendo alertas de precios y accediendo a tarifas con descuento exclusivo por ser usuario registrado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Según Kotler, los vendedores en Internet:",
+      "opciones": {
+        "a": "Suben los precios",
+        "b": "Evitan que los usuarios comparen los precios de sus productos con los de la competencia",
+        "c": "Dan a determinados clientes acceso a precios especiales",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Philip Kotler destaca que Internet otorga a los vendedores la capacidad de practicar la discriminación y personalización de precios con gran precisión: las empresas pueden monitorizar el comportamiento de navegación de los clientes y ofrecer condiciones o precios especiales a determinados perfiles (clientes recurrentes, suscriptores premium, o usuarios en carritos abandonados) para incentivar la conversión sin necesidad de abaratar la tarifa general.\n\n**Ejemplo práctico:** Plataformas de software o comercio electrónico como ASOS o Spotify identifican usuarios estudiantes o clientes VIP ofreciéndoles tarifas reducidas del 50% o cupones de descuento exclusivos que no están visibles ni disponibles para el público general.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

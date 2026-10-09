@@ -1,0 +1,126 @@
+{
+  "unidad": 17,
+  "titulo": "Autoevaluación Unidad 17 - Marketing Estratégico: Análisis Interno y Externo",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En marketing estratégico se realiza un análisis interno, el cual incluye estudiar la cuota de mercado:",
+      "opciones": {
+        "a": "La cuota de mercado o la participación en el mismo de nuestra empresa mide nuestro tamaño respecto al de los competidores",
+        "b": "Si la cuota de mercado es alta, nos permitirá economías de escala que a su vez reduzcan el coste de nuestros productos y nos permitan competir en coste o bien obtener mayor margen de beneficios",
+        "c": "Una cuota de mercado alta en principio significa un alto índice de satisfacción al consumidor, lo que conlleva por otro lado lealtad a nuestra marca",
+        "d": "Todas las anteriores son verdad"
+      },
+      "explicacion": "La cuota de mercado es una de las métricas clave del análisis interno en marketing estratégico. Refleja el tamaño relativo de la empresa frente a sus competidores en el mercado de referencia (opción a). Asimismo, una cuota de mercado elevada genera economías de escala y efectos de experiencia en producción, logística y aprovisionamiento, reduciendo los costes unitarios y permitiendo competir mediante liderazgo en costes o maximizar márgenes de beneficio (opción b). Por último, un liderazgo sostenido en cuota de mercado suele ser consecuencia de un elevado nivel de satisfacción y valor entregado a los consumidores, lo que fomenta la fidelidad de marca y la recompra habitual (opción c).\n\n**Ejemplo práctico:** Inditex (Zara) mantiene una elevada cuota de mercado en la moda rápida internacional, lo que le permite negociar grandes volúmenes con proveedores para abaratar costes de fabricación y sostener una base de clientes fieles que visitan sus establecimientos con alta recurrencia.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Otro factor del análisis interno es una buena actitud de los empleados, la cual se consigue:",
+      "opciones": {
+        "a": "Con aumentos de sueldo periódicos",
+        "b": "Mediante grupos de discusión",
+        "c": "Mediante encuestas de personal",
+        "d": "Las opciones b y c son correctas"
+      },
+      "explicacion": "En el diagnóstico interno y la gestión del marketing interno (endomarketing), la actitud, motivación y compromiso del personal no se garantizan únicamente mediante incrementos salariales periódicos. Requieren mecanismos continuos de escucha activa, diagnóstico y comunicación bidireccional. Los grupos de discusión internos (focus groups de empleados) y las encuestas periódicas de clima laboral permiten identificar deficiencias organizativas, evaluar la satisfacción de la plantilla y alinear sus actitudes con la cultura de excelencia hacia el cliente (opciones b y c).\n\n**Ejemplo práctico:** Una cadena hotelera como Marriott implementa encuestas de clima laboral semestrales y grupos de discusión con el personal de recepción y pisos para detectar necesidades formativas y mejorar la satisfacción interna, lo que repercute directamente en la amabilidad y servicio ofrecido al huésped.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El análisis de la cartera o portafolio de actividades se realiza a través de:",
+      "opciones": {
+        "a": "El análisis financiero de los productos",
+        "b": "La matriz BCG, desarrollada por el Boston Consulting Group",
+        "c": "El análisis de rentabilidad",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La herramienta estratégica fundamental y clásica para el análisis de la cartera o portafolio de productos y Unidades Estratégicas de Negocio (UEN) es la Matriz de Crecimiento-Cuota de Mercado desarrollada por la consultora Boston Consulting Group (Matriz BCG). Esta matriz sitúa los negocios en una matriz 2x2 evaluando la tasa de crecimiento del mercado y la cuota de mercado relativa, clasificándolos en productos estrella, vacas lecheras, interrogantes y perros para optimizar la asignación de recursos y flujos financieros.\n\n**Ejemplo práctico:** Nestlé utiliza la matriz BCG para gestionar sus líneas: su café instantáneo Nescafé opera como una «vaca lechera» que genera abundantes flujos de efectivo estables para financiar el desarrollo y expansión de alternativas vegetales e innovaciones nutricionales («interrogantes» o «estrellas»).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Otra parte del marketing estratégico es el análisis externo:",
+      "opciones": {
+        "a": "Son todos los factores externos controlables por la empresa",
+        "b": "Son factores externos a la función de administración de Marketing pero influyen en ella",
+        "c": "Es cualquier tipo de factor que esté bajo el control de la empresa",
+        "d": "Ninguna de las anteriores es correcta"
+      },
+      "explicacion": "El análisis externo en el marketing estratégico comprende el estudio del macroentorno y microentorno de la empresa. Estos factores están situados fuera del control directo e inmediato de la dirección de marketing (son variables no controlables, a diferencia del marketing mix interno), pero condicionan profundamente las oportunidades de negocio, las amenazas competitivas y la efectividad de las decisiones comerciales.\n\n**Ejemplo práctico:** Una marca de automoción analiza el marco regulatorio europeo sobre restricciones de emisiones contaminantes y las fluctuaciones de los tipos de interés; factores externos que no puede modificar pero que condicionan de forma directa el lanzamiento de coches eléctricos y sus planes de financiación.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las agencias de servicios de marketing son:",
+      "opciones": {
+        "a": "Los proveedores",
+        "b": "Las empresas clientes",
+        "c": "Las compañías que ayudan en las transacciones de marketing",
+        "d": "Las respuestas a y c son correctas"
+      },
+      "explicacion": "En el microentorno comercial, los intermediarios de marketing comprenden distribuidores, empresas de transporte y almacenamiento y, de forma señalada, las agencias de servicios de marketing. Estas últimas son entidades especializadas (agencias de publicidad, centrales de compra de medios, institutos de investigación de mercados y consultoras) que asisten y colaboran con la organización en la formulación, difusión y optimización de las transacciones y comunicaciones de marketing dirigidas al público objetivo.\n\n**Ejemplo práctico:** Procter & Gamble colabora estrechamente con agencias de medios y agencias de publicidad creativa para diseñar la estrategia de medios y producir los spots publicitarios de sus marcas de cuidado personal, optimizando el retorno de sus campañas de marketing.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Los factores macroambientales están representados por una serie de fuerzas condicionantes, entre las cuales NO se encuentran:",
+      "opciones": {
+        "a": "Las fuerzas demográficas",
+        "b": "Las fuerzas tecnológicas",
+        "c": "Las fuerzas culturales",
+        "d": "Las fuerzas de la empresa"
+      },
+      "explicacion": "El macroentorno está constituido por grandes fuerzas y tendencias sociales genéricas que afectan a la sociedad y al conjunto de empresas de un sector, habitualmente analizadas mediante el marco PESTEL (fuerzas demográficas, económicas, socioculturales, tecnológicas, políticas, legales y medioambientales). Por el contrario, los recursos financieros, la cultura organizativa, la tecnología y el personal de la empresa constituyen las fuerzas internas de la propia organización, integradas en el diagnóstico interno y no en el macroentorno.\n\n**Ejemplo práctico:** Una entidad bancaria clasifica el envejecimiento poblacional (fuerza demográfica) y la adopción de la banca móvil (fuerza tecnológica) como variables del macroentorno, mientras que la solvencia de su balance y la motivación de su plantilla forman parte de sus fuerzas internas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En la estrategia de liderazgo en costes se encuentra la siguiente actividad:",
+      "opciones": {
+        "a": "Eliminación de todo lo superfluo",
+        "b": "Acceso a materias primas",
+        "c": "Bajo coste de distribución",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La estrategia de liderazgo en costes formulada por Michael Porter exige que la empresa opere con la estructura de costes unitarios más reducida del sector. Para alcanzar este liderazgo, la compañía debe eliminar rigurosamente cualquier elemento o proceso superfluo que encarezca el producto (a), asegurar un acceso preferencial a materias primas o insumos a precios reducidos mediante economías de escala o integración (b), y optimizar la cadena logística para mantener un coste de distribución mínimo (c).\n\n**Ejemplo práctico:** La aerolínea Ryanair aplica el liderazgo en costes eliminando servicios no esenciales a bordo, operando con un modelo estandarizado de avión para abaratar piezas y formación, y comercializando sus billetes directamente a través de su sitio web para suprimir comisiones de intermediarios.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "En las estrategias frente a competidores, la estrategia de especialista es aquella en la que:",
+      "opciones": {
+        "a": "La empresa es el líder",
+        "b": "La empresa es el seguidor",
+        "c": "La empresa lucha por una parte del mercado",
+        "d": "La empresa reta constantemente al líder"
+      },
+      "explicacion": "Según la clasificación de estrategias competitivas de Kotler (líder, retador, seguidor y especialista), la empresa especialista en nichos evita la confrontación directa con los grandes competidores generalistas y concentra todos sus recursos en atender con máxima profundidad y exclusividad un segmento o nicho de mercado específico («lucha por una parte del mercado»). En este ámbito logra altas rentabilidades gracias al valor añadido que perciben los clientes de ese microsegmento.\n\n**Ejemplo práctico:** Brompton Bicycle no compite con los grandes fabricantes masivos de bicicletas de montaña o carretera, sino que se especializa exclusivamente en el nicho de bicicletas urbanas plegables de alta calidad, dominando ese segmento específico con altos márgenes de beneficio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Entre las empresas de crecimiento se encuentra la estrategia de crecimiento intensivo:",
+      "opciones": {
+        "a": "La empresa no han explotado totalmente las oportunidades ofrecidas por los productos que tiene",
+        "b": "La empresa decide reducir el coste de operación y se integra verticalmente hacia atrás, adquiriendo a sus suministradores",
+        "c": "la empresa decide introducirse en un mercado completamente nuevo y con un producto diferente a los que hasta la fecha componían su línea de producto",
+        "d": "las opciones b y c son correctas"
+      },
+      "explicacion": "En la matriz de crecimiento producto-mercado de Igor Ansoff, las estrategias de crecimiento intensivo (penetración de mercado, desarrollo de mercado y desarrollo de producto) se aplican cuando la empresa busca expandirse dentro de su ámbito comercial básico debido a que todavía no ha explotado completamente las oportunidades que le brindan sus productos y mercados actuales. La opción b describe una integración vertical hacia atrás y la opción c describe una estrategia de diversificación.\n\n**Ejemplo práctico:** Netflix aplica una estrategia de crecimiento intensivo a través de la penetración de mercado al lanzar promociones y mejorar sus planes de suscripción para incrementar el consumo de contenidos en sus mercados geográficos actuales antes de considerar la entrada en sectores ajenos al entretenimiento.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La presencia de la empresa en el exterior puede ser de la siguiente manera:",
+      "opciones": {
+        "a": "Franquicias",
+        "b": "Joint-ventures",
+        "c": "Fabricación bajo licencia",
+        "d": "Todas las anteriores son correctas"
+      },
+      "explicacion": "La internacionalización y entrada en mercados exteriores contempla diversas fórmulas contractuales e intermedias que van más allá de la exportación directa tradicional. Entre las más habituales se encuentran la concesión de franquicias comerciales internacionales (a), la constitución de empresas conjuntas o alianzas estratégicas tipo Joint-Ventures con socios locales (b), y la concesión de licencias de fabricación y comercialización de productos protegidos por patentes o marcas (c).\n\n**Ejemplo práctico:** La cadena de restauración McDonald's entra en nuevos países principalmente a través de contratos de franquicia maestra con socios locales, mientras que compañías tecnológicas o farmacéuticas conceden licencias de fabricación a plantas locales en países extranjeros.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}
